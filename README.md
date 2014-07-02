@@ -15,6 +15,6 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
 
-Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and Generators tools like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
+Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
 
