@@ -7,7 +7,7 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
   * [Spinners](#spinners)
 
 ## Loaders
-**
+*Module or loading system for JavaScript.*
 
 * [RequireJS](https://github.com/jrburke/requirejs) - A file and module loader for JavaScript.
 * [Browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way.
