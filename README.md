@@ -8,7 +8,7 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
   * Testing Frameworks
   * Templating Engines
   * Date
-  * String
+  * [String](#string)
   * Storage
   * [Functional Programming](#functional-programming)
   * [Loading Status](#loading-status)
@@ -46,11 +46,11 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 
 * [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
-* [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
-* [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
 * [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
+* [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
 * [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
 * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
+* [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 
 
 ## Functional Programming
