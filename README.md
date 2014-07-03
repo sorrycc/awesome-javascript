@@ -48,17 +48,3 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
-
-## Package Managers
-
-*Host the javascript libraries and provide tools for fetching and packaging them.*
-
-* [Bower](https://github.com/bower/bower) - A package manager for the web.
-* [component](https://github.com/component/component) - Client package management for building better web applications.
-* [spm](https://github.com/spmjs/spm) - Brand new static package manger.
-* [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
-* [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
-* [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
-* [Ender](https://github.com/ender-js/Ender) - The no-library library.
-* [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
-
