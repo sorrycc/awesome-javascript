@@ -3,9 +3,21 @@
 A curated list of amazingly awesome JavaScript libraries, resources and shiny things.
 
 * [Awesome JavaScript](#awesome-javascript)
-	* [Loaders and Spinners](#loaders-and-spinners)
+  * [Loaders](#loaders)
+  * [Spinners](#spinners)
 
-## Loaders and Spinners
+## Loaders
+**
+
+* [RequireJS](https://github.com/jrburke/requirejs) - A file and module loader for JavaScript.
+* [Browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way.
+* [SeaJS](https://github.com/seajs/seajs) - A Module Loader for the Web.
+* [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
+* [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
+* [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
+* [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
+
+## Spinners
 *Libraries for indicate load status.*
 
 * [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
@@ -13,7 +25,9 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+* [nanobar](https://github.com/jacoborus/nanobar) - Very lighweight progress bars. No jQuery.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
+* [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS.
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
