@@ -5,7 +5,7 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
-  * [Spinners](#spinners)
+  * [Loading Status](#loading-status)
 
 
 ## Package Managers
@@ -34,7 +34,7 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
 
 
-## Spinners
+## Loading Status
 *Libraries for indicate load status.*
 
 * [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
