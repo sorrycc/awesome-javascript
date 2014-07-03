@@ -5,6 +5,12 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
+  * Testing Frameworks
+  * Templating Engines
+  * Date
+  * String
+  * Storage
+  * [Functional Programming](#functional-programming)
   * [Loading Status](#loading-status)
 
 
@@ -33,6 +39,27 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
+
+
+## String
+*String Libraries*
+
+* [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
+* [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
+* [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
+* [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
+* [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
+* [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+* [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
+
+
+## Functional Programming
+*Functional programming libraries to extend JavaScript’s capabilities.*
+
+* [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
+* [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
+* [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
+* [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 
 
 ## Loading Status
