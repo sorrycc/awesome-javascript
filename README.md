@@ -7,7 +7,7 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
   * [Loaders](#loaders)
   * Testing Frameworks
   * Templating Engines
-  * Date
+  * [Date](#date)
   * [String](#string)
   * Storage
   * [Functional Programming](#functional-programming)
@@ -41,8 +41,17 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
 
 
+## Date
+*Date Libraries.*
+
+* [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+* [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
+* [jquery-timeago](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
+* [timezone-js](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+
+
 ## String
-*String Libraries*
+*String Libraries.*
 
 * [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
