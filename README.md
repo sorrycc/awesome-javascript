@@ -1,12 +1,12 @@
 # Awesome JavaScript
 
-A curated list of amazingly awesome JavaScript libraries, resources and shiny things.
+A curated list of amazingly awesome browser-side JavaScript libraries, resources and shiny things.
 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
   * Testing Frameworks
-  * Templating Engines
+  * [Templating Engines](#templating-engines)
   * [Date](#date)
   * [String](#string)
   * Storage
@@ -29,7 +29,6 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
 
 
-
 ## Loaders
 *Module or loading system for JavaScript.*
 
@@ -39,6 +38,17 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
+
+
+## Templating Engines
+
+* [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
+* [handlebars.js](https://github.com/wycats/handlebars.js/) - An extension to the Mustache templating language.
+* [hogan.js](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language.
+* [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers.
+* [dustjs](https://github.com/linkedin/dustjs/) - Asynchronous templates for the browser and node.js.
+* [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
+* [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 
 
 ## Date
@@ -58,6 +68,7 @@ A curated list of amazingly awesome JavaScript libraries, resources and shiny th
 * [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 * [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
 * [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+* [URI.js](https://github.com/medialize/URI.js/) - Javascript URL mutation library.
 * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 
