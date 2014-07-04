@@ -6,12 +6,28 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
   * Testing Frameworks
+  * MVC Frameworks
   * [Templating Engines](#templating-engines)
-  * [Date](#date)
-  * [String](#string)
-  * Storage
-  * [Functional Programming](#functional-programming)
-  * [Loading Status](#loading-status)
+  * Visualization
+  * Code Editors
+  * Utilities
+    * [Date](#date)
+    * [String](#string)
+    * Storage
+    * Color
+    * [I18n And L10n](#i18n-and-l10n)
+    * Selector
+    * Class
+    * Event
+    * Control Flow
+    * [Functional Programming](#functional-programming)
+  * UI
+    * [Loading Status](#loading-status)
+    * Validation
+    * Keyboard
+    * Tours And Guides
+    * Notifications
+    * Sliders
 
 
 ## Package Managers
@@ -73,6 +89,9 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [URI.js](https://github.com/medialize/URI.js/) - Javascript URL mutation library.
 * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
+
+## I18n And L10n
+*Localization (i18n) and internationalization (l10n) JavaScript libraries.*
 
 
 ## Functional Programming
