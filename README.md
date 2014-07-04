@@ -41,6 +41,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 
 
 ## Templating Engines
+*Templating engines allow you to perform string interpolation.*
 
 * [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
 * [handlebars.js](https://github.com/wycats/handlebars.js/) - An extension to the Mustache templating language.
