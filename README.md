@@ -8,13 +8,13 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
   * Testing Frameworks
   * MVC Frameworks
   * [Templating Engines](#templating-engines)
-  * Visualization
+  * [Data Visualization](#data-visualization)
   * Code Editors
   * Utilities
     * [Date](#date)
     * [String](#string)
     * Storage
-    * Color
+    * [Color](#color)
     * [I18n And L10n](#i18n-and-l10n)
     * Selector
     * Class
@@ -69,6 +69,36 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
 
 
+## Data Visualization
+*Data visualization tools for the web.*
+
+* [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
+* [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
+* [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
+* [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
+* [highcharts](https://github.com/highslide-software/highcharts.com) - Highcharts JS, the JavaScript charting framework.
+* [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts.
+* [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
+* [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+* [g.raphael](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
+* [sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
+* [arbor](https://github.com/samizdatco/arbor) - A graph visualization library using web workers and jQuery.
+* [cubism](https://github.com/square/cubism) - A D3 plugin for visualizing time series.
+* [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+* [vega](https://github.com/trifacta/vega) - A visualization grammar.
+* [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization.
+* [rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs.
+* [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
+* [morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs.
+* [nvd3](https://github.com/novus/nvd3) - Build re-usable charts and chart components for d3.js
+* [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
+* [heatmap.js](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps.
+* [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser.
+* [xCharts](https://github.com/tenxer/xCharts) - A D3-based library for building custom charts and graphs.
+* [trianglify](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js
+* [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
+* [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
+
 ## Date
 *Date Libraries.*
 
@@ -89,6 +119,10 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [URI.js](https://github.com/medialize/URI.js/) - Javascript URL mutation library.
 * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
+
+## Color
+
+* [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
 
 ## I18n And L10n
 *Localization (i18n) and internationalization (l10n) JavaScript libraries.*
