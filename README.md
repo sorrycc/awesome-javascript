@@ -10,6 +10,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
   * Code Editors
+  * Rich Text Editors
   * Utilities
     * [Date](#date)
     * [String](#string)
