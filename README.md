@@ -98,7 +98,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 
-There're also some great commercial software, like [amchart](http://www.amcharts.com/), [highchart](http://www.highcharts.com/) ..
+There're also some great commercial libraries, like [amchart](http://www.amcharts.com/), [highchart](http://www.highcharts.com/) ..
 
 ## Date
 *Date Libraries.*
