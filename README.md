@@ -76,7 +76,6 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
-* [highcharts](https://github.com/highslide-software/highcharts.com) - Highcharts JS, the JavaScript charting framework.
 * [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts.
 * [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
 * [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
@@ -98,6 +97,8 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [trianglify](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
+
+There're also some great commercial software, like [amchart](http://www.amcharts.com/), [highchart](http://www.highcharts.com/) ..
 
 ## Date
 *Date Libraries.*
