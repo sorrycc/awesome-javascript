@@ -124,7 +124,10 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 ## Color
 
+* [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
 * [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
+* [color](https://github.com/harthur/color) - JavaScript color conversion and manipulation library.
+* [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 
 ## I18n And L10n
 *Localization (i18n) and internationalization (l10n) JavaScript libraries.*
