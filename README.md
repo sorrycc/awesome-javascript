@@ -11,6 +11,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
   * [Data Visualization](#data-visualization)
   * [Editors](#editors)
   * Utilities
+    * [Functional Programming](#functional-programming)
     * [Date](#date)
     * [String](#string)
     * Storage
@@ -20,7 +21,6 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * Class
     * Event
     * Control Flow
-    * [Functional Programming](#functional-programming)
   * UI
     * [Loading Status](#loading-status)
     * Validation
@@ -116,6 +116,16 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 * [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 
+
+## Functional Programming
+*Functional programming libraries to extend JavaScript’s capabilities.*
+
+* [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
+* [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
+* [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
+* [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
+
+
 ## Date
 *Date Libraries.*
 
@@ -146,15 +156,6 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 ## I18n And L10n
 *Localization (i18n) and internationalization (l10n) JavaScript libraries.*
-
-
-## Functional Programming
-*Functional programming libraries to extend JavaScript’s capabilities.*
-
-* [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
-* [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
-* [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
-* [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 
 
 ## Loading Status
