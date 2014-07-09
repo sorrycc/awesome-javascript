@@ -9,8 +9,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
   * MVC Frameworks
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
-  * Code Editors
-  * Rich Text Editors
+  * [Editors](#editors)
   * Utilities
     * [Date](#date)
     * [String](#string)
@@ -100,6 +99,22 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 
 There're also some great commercial libraries, like [amchart](http://www.amcharts.com/) and [highchart](http://www.highcharts.com/).
+
+
+## Editors
+
+* [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
+* [CodeMirror](https://github.com/marijnh/CodeMirror) - In-browser code editor.
+* [esprima](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+* [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+* [medium-editor](https://github.com/daviferreira/medium-editor) - Medium.com WYSIWYG editor clone.
+* [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown).
+* [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
+* [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WISWYG rich text editor.
+* [ckeditor-releases](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
+* [editor](https://github.com/lepture/editor) - A markdown editor. still on development.
+* [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
+* [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 
 ## Date
 *Date Libraries.*
