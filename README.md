@@ -28,6 +28,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * Tours And Guides
     * Notifications
     * Sliders
+* [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Package Managers
@@ -190,3 +191,5 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
