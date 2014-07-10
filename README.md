@@ -5,7 +5,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
-  * Testing Frameworks
+  * [Testing Frameworks](#testing-frameworks)
   * MVC Frameworks
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
@@ -54,6 +54,24 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
+
+
+## Testing Frameworks
+
+* [mocha](https://github.com/visionmedia/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
+* [jasmine](https://github.com/pivotal/jasmine) - DOM-less simple JavaScript testing framework.
+* [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
+* [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+* [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks for JavaScript.
+* [expect.js](https://github.com/LearnBoost/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+* [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
+* [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
+* [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
+* [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
+* [casperjs](https://github.com/n1k0/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
+* [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
+* [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
+* [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 
 
 ## Templating Engines
