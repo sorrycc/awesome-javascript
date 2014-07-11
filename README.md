@@ -116,6 +116,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [trianglify](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
+* [dimple.js](http://dimplejs.org) -  Easy charts for business analytics powered by d3
 
 There're also some great commercial libraries, like [amchart](http://www.amcharts.com/) and [highchart](http://www.highcharts.com/).
 
