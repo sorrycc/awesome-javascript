@@ -73,6 +73,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
+* [jest](http://facebook.github.io/jest/) - Painless Javascript Unit Testing
 
 
 ## Templating Engines
