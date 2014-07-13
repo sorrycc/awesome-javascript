@@ -14,7 +14,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Functional Programming](#functional-programming)
     * [Date](#date)
     * [String](#string)
-    * Storage
+    * [Storage](#storage)
     * [Color](#color)
     * [I18n And L10n](#i18n-and-l10n)
     * Selector
@@ -180,6 +180,16 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [URI.js](https://github.com/medialize/URI.js/) - Javascript URL mutation library.
 * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
+
+
+## Storage
+
+* [store.js](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
+* [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+* [jStorage](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
+* [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
+* [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
+
 
 ## Color
 
