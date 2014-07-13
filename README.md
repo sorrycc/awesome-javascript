@@ -22,7 +22,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
   * UI
     * [Loading Status](#loading-status)
     * Validation
-    * Keyboard
+    * [Keyboard](#keyboard)
     * Tours And Guides
     * Notifications
     * Sliders
@@ -227,6 +227,18 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS.
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
+
+
+## Keyboard
+
+* [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
+* [keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts.
+* [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
+* [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
+* [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
+* [jwerty](https://github.com/keithamus/jwerty) - Awesome handling of keyboard events.
+
+
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
