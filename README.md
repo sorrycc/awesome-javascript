@@ -322,6 +322,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 * [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode.
 * [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
+* [fullcalendar](https://github.com/arshaw/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
 
 ### Select
 
