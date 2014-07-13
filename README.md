@@ -18,8 +18,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Color](#color)
     * [I18n And L10n](#i18n-and-l10n)
     * [Class](#class)
-    * Event
-    * Control Flow
+    * [Control Flow](#control-flow)
   * UI
     * [Loading Status](#loading-status)
     * Validation
@@ -206,6 +205,13 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [klass](https://github.com/ded/klass) - A utility for creating expressive classes in JavaScript.
 * [augment](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
+
+
+## Control Flow
+
+* [async](https://github.com/caolan/async) - Async utilities for node and the browser.
+* [q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript.
+* [step](https://github.com/creationix/step/) - An async control-flow library that makes stepping through logic easy.
 
 
 ## Loading Status
