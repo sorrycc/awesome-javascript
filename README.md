@@ -6,7 +6,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
   * [Testing Frameworks](#testing-frameworks)
-  * MVC Frameworks
+  * [MVC Frameworks](#mvc-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
   * [Editors](#editors)
@@ -74,6 +74,18 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 * [jest](http://github.com/facebook/jest) - Painless Javascript Unit Testing.
+
+
+## MVC Frameworks
+
+* [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
+* [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
+* [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
+* [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
+* [vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
+* [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
+* [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
+* [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
 
 
 ## Templating Engines
