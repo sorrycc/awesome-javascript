@@ -19,6 +19,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [I18n And L10n](#i18n-and-l10n)
     * [Class](#class)
     * [Control Flow](#control-flow)
+    * [Routing](#routing)
   * UI
     * [Loading Status](#loading-status)
     * Validation
@@ -212,6 +213,15 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [async](https://github.com/caolan/async) - Async utilities for node and the browser.
 * [q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript.
 * [step](https://github.com/creationix/step/) - An async control-flow library that makes stepping through logic easy.
+
+
+## Routing
+
+* [director](https://github.com/flatiron/director) - A tiny and isomorphic URL router for JavaScript.
+* [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router (~1200 bytes).
+* [pathjs](https://github.com/mtrpcic/pathjs) - Simple, lightweight routing for web browsers.
+* [crossroads](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
+* [davis.js](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 
 
 ## Loading Status
