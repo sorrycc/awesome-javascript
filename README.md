@@ -17,8 +17,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Storage](#storage)
     * [Color](#color)
     * [I18n And L10n](#i18n-and-l10n)
-    * Selector
-    * Class
+    * [Class](#class)
     * Event
     * Control Flow
   * UI
@@ -201,6 +200,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 ## I18n And L10n
 *Localization (i18n) and internationalization (l10n) JavaScript libraries.*
+
+
+## Class
+
+* [klass](https://github.com/ded/klass) - A utility for creating expressive classes in JavaScript.
+* [augment](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
 
 
 ## Loading Status
