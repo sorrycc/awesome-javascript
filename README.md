@@ -24,7 +24,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Loading Status](#loading-status)
     * [Validation](#validation)
     * [Keyboard Wrappers](#keyboard-wrappers)
-    * Tours And Guides
+    * [Tours And Guides](#tours-and-guides)
     * Notifications
     * Sliders
 * [Other Awesome Lists](#other-awesome-lists)
@@ -256,6 +256,18 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
 * [jwerty](https://github.com/keithamus/jwerty) - Awesome handling of keyboard events.
+
+
+## Tours And Guides
+
+* [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+* [shepherd](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app.
+* [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
+* [tourist](https://github.com/easelinc/tourist) - Simple, flexible tours for your app.
+* [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
+* [pageguide](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
+* [hopscotch](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
+* [joyride](https://github.com/zurb/joyride) - jQuery feature tour plugin.
 
 
 # Other Awesome Lists
