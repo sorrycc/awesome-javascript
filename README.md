@@ -26,7 +26,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Keyboard Wrappers](#keyboard-wrappers)
     * [Tours And Guides](#tours-and-guides)
     * [Notifications](#notifications)
-    * Sliders
+    * [Sliders](#sliders)
 * [Other Awesome Lists](#other-awesome-lists)
 
 
@@ -278,6 +278,18 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications.
 * [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system.
 * [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for javascript.
+
+
+## Sliders
+
+* [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
+* [FlexSlider](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
+* [unslider](https://github.com/idiot/unslider) - The simplest jQuery slider there is.
+* [colorbox](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery.
+* [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+* [sly](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
+* [vegas](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
+* [Sequence](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
 
 
 # Other Awesome Lists
