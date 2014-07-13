@@ -94,6 +94,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 
 * [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
 * [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
+* [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
 * [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts.
