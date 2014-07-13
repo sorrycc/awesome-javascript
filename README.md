@@ -65,6 +65,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 * [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks for JavaScript.
 * [expect.js](https://github.com/LearnBoost/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 * [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
+* [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
 * [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 * [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
