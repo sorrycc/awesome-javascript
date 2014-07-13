@@ -29,8 +29,8 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Notifications](#notifications)
     * [Sliders](#sliders)
     * [Form Widgets](#form-widgets)
-    * Tips
-    * Popups
+    * [Tips](#tips)
+    * [Modals and Popups](#modals-and-popups)
   * [Maps](#maps)
 * [Other Awesome Lists](#other-awesome-lists)
 
@@ -344,6 +344,19 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Garlic.js](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
 * [Countable](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
+
+
+## Tips
+
+
+## Modals and Popups
+
+* [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
+* [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
+* [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups.
+* [vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
+* [bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
+* [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
 
 
 ## Maps
