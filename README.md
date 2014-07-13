@@ -377,4 +377,5 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [list](https://github.com/jnv/lists)
