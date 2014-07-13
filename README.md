@@ -25,7 +25,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Validation](#validation)
     * [Keyboard Wrappers](#keyboard-wrappers)
     * [Tours And Guides](#tours-and-guides)
-    * Notifications
+    * [Notifications](#notifications)
     * Sliders
 * [Other Awesome Lists](#other-awesome-lists)
 
@@ -268,6 +268,16 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [pageguide](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
 * [hopscotch](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 * [joyride](https://github.com/zurb/joyride) - jQuery feature tour plugin.
+
+
+## Notifications
+
+* [messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app.
+* [noty](https://github.com/needim/noty) - jQuery notification plugin.
+* [pnotify](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.
+* [toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications.
+* [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system.
+* [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for javascript.
 
 
 # Other Awesome Lists
