@@ -348,6 +348,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Tips
 
+* [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
+* [opentip](https://github.com/enyo/opentip) - An open source javascript tooltip based on the protoype framework.
+* [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
+* [tooltipster](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
+* [simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+
 
 ## Modals and Popups
 
