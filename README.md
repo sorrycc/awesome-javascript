@@ -22,7 +22,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Routing](#routing)
   * UI
     * [Loading Status](#loading-status)
-    * Validation
+    * [Validation](#validation)
     * [Keyboard Wrappers](#keyboard-wrappers)
     * Tours And Guides
     * Notifications
@@ -238,6 +238,14 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS.
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
+
+
+## Validation
+
+* [Parsley.js](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript.
+* [jquery-validation](https://github.com/jzaefferer/jquery-validation) - jQuery Validation Plugin.
+* [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization.
+* [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 
 
 ## Keyboard Wrappers
