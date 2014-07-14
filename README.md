@@ -37,6 +37,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
   * [Maps](#maps)
   * [Animations](#animations)
 * [Other Awesome Lists](#other-awesome-lists)
+* [Contributing](#contributing)
 
 ----
 
