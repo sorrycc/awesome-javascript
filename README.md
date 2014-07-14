@@ -182,6 +182,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 * [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
+* [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 
 
 ## Date
@@ -400,6 +401,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [scrollMonitor](https://github.com/sakabako/scrollMonitor) - A simple and fast API to monitor elements as you scroll.
 * [headroom](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
+* [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.
 
 ## Menu
 
@@ -423,8 +425,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 
 # Other Awesome Lists
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [list](https://github.com/jnv/lists)
+* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
+* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+* [jnv/list](https://github.com/jnv/lists)
 
 
 # Contributing
