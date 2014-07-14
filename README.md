@@ -401,6 +401,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [scrollMonitor](https://github.com/sakabako/scrollMonitor) - A simple and fast API to monitor elements as you scroll.
 * [headroom](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
+* [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.
 
 ## Menu
 
