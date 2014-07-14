@@ -21,6 +21,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Class](#class)
     * [Control Flow](#control-flow)
     * [Routing](#routing)
+    * [Security](#security)
   * UI
     * [Loading Status](#loading-status)
     * [Validation](#validation)
@@ -31,7 +32,10 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
     * [Form Widgets](#form-widgets)
     * [Tips](#tips)
     * [Modals and Popups](#modals-and-popups)
+    * [Scroll](#scroll)
+    * [Menu](#menu)
   * [Maps](#maps)
+  * [Animations](#animations)
 * [Other Awesome Lists](#other-awesome-lists)
 
 ----
@@ -112,6 +116,7 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 *Data visualization tools for the web.*
 
 * [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
+* [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
@@ -213,6 +218,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
 * [color](https://github.com/harthur/color) - JavaScript color conversion and manipulation library.
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
+* [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 
 ## I18n And L10n
 *Localization (i18n) and internationalization (l10n) JavaScript libraries.*
@@ -240,6 +246,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [davis.js](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 
 
+## Security
+
+* [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+* [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+
+
 ## Loading Status
 *Libraries for indicate load status.*
 
@@ -250,6 +262,8 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 * [nanobar](https://github.com/jacoborus/nanobar) - Very lighweight progress bars. No jQuery.
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
+* [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
+* [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS.
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
@@ -298,6 +312,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Sliders
 
 * [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
+* [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 * [FlexSlider](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
 * [unslider](https://github.com/idiot/unslider) - The simplest jQuery slider there is.
 * [colorbox](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery.
@@ -311,6 +326,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ### Input
 
+* [typeahead.js](https://github.com/twitter/typeahead.js) - A fast and fully-featured autocomplete library.
 * [tag-it](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
 * [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
@@ -366,6 +382,18 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
 
 
+## Scroll
+
+* [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
+* [scrollMonitor](https://github.com/sakabako/scrollMonitor) - A simple and fast API to monitor elements as you scroll.
+* [headroom](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
+* [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
+
+## Menu
+
+* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
+
+
 ## Maps
 
 * [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
@@ -376,6 +404,17 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 
 
+## Animations
+
+* [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
+* [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
+
+
 # Other Awesome Lists
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [list](https://github.com/jnv/lists)
+
+
+# Contributing
+
+Your contributions are always welcome!
