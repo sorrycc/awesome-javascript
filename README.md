@@ -425,6 +425,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 
 # Other Awesome Lists
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [list](https://github.com/jnv/lists)
 
