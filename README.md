@@ -70,22 +70,33 @@ A curated list of amazingly awesome browser-side JavaScript libraries, resources
 
 ## Testing Frameworks
 
+### Frameworks
+
 * [mocha](https://github.com/visionmedia/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
 * [jasmine](https://github.com/pivotal/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
+* [jest](http://github.com/facebook/jest) - Painless Javascript Unit Testing.
+
+### Assertion
+
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks for JavaScript.
 * [expect.js](https://github.com/LearnBoost/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+
+### Coverage
+
 * [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
 * [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
 * [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
+
+### Runner
+
 * [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 * [casperjs](https://github.com/n1k0/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
-* [jest](http://github.com/facebook/jest) - Painless Javascript Unit Testing.
 
 
 ## MVC Frameworks
