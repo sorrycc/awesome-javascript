@@ -11,6 +11,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [Data Visualization](#data-visualization)
   * [Editors](#editors)
   * Utilities
+    * [Files](#files)
     * [Functional Programming](#functional-programming)
     * [Date](#date)
     * [String](#string)
@@ -173,6 +174,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [editor](https://github.com/lepture/editor) - A markdown editor. still on development.
 * [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 * [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
+
+
+## Files
+*Libraries for working with files.*
+
+* [Papa Parse](http://papaparse.com) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 
 
 ## Functional Programming
