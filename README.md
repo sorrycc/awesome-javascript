@@ -354,6 +354,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 * [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
+* [VanillaMasker](http://bankfacil.github.io/vanilla-masker/) - A pure javascript mask input, which don't need to use jQuery or Zepto as dependency.
 
 ### Calendar
 
