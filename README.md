@@ -179,7 +179,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Files
 *Libraries for working with files.*
 
-* [Papa Parse](http://papaparse.com) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
+* [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 
 
 ## Functional Programming
