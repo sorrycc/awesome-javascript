@@ -34,7 +34,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Tips](#tips)
     * [Modals and Popups](#modals-and-popups)
     * [Scroll](#scroll)
-    * [Parallax](#parallax)
     * [Menu](#menu)
   * [Maps](#maps)
   * [Animations](#animations)
