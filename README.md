@@ -13,6 +13,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * Utilities
     * [Files](#files)
     * [Functional Programming](#functional-programming)
+    * [Data Structure](#data-structure)
     * [Date](#date)
     * [String](#string)
     * [Number](#number)
@@ -193,6 +194,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 
+
+##Data Structure
+*Data structure libraries to build a more sophisticated application.*
+
+* [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
+* [buckets](https://github.com/mauriciosantos/buckets) - A complete, fully tested and documented data structure library written in JavaScript.
 
 ## Date
 *Date Libraries.*
