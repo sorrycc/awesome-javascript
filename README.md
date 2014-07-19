@@ -23,6 +23,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Control Flow](#control-flow)
     * [Routing](#routing)
     * [Security](#security)
+    * [Log](#log)
   * UI
     * [Loading Status](#loading-status)
     * [Validation](#validation)
@@ -271,6 +272,14 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+
+
+## Log
+
+* [log](https://github.com/adamschwartz/log) - Console.log with style.
+* [Conzole](https://github.com/Oaxoa/Conzole) - A debug panel built in javascript that wraps javascript native console object methods and functionality in a panel displayed inside the page.
+* [console.log-wrapper](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
+* [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 
 
 ## Loading Status
