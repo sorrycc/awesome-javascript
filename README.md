@@ -243,7 +243,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 
 ## I18n And L10n
-*Localization (i18n) and internationalization (l10n) JavaScript libraries.*
+*Localization (l10n) and internationalization (i18n) JavaScript libraries.*
 
 
 ## Class
