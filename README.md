@@ -252,6 +252,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
 
+* [i18next](https://github.com/jamuhl/i18next) - internationalisation (i18n) with javascript the easy way.
 
 ## Class
 
