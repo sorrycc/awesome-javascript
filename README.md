@@ -5,7 +5,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
-  * [Testing Frameworks](#testing-frameworks)d
+  * [Testing Frameworks](#testing-frameworks)
   * [MVC Frameworks](#mvc-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
