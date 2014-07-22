@@ -38,6 +38,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Modals and Popups](#modals-and-popups)
     * [Scroll](#scroll)
     * [Menu](#menu)
+    * [Table/Grid](#tablegrid)
   * [Maps](#maps)
   * [Animations](#animations)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -445,6 +446,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
 
+
+## Table/Grid
+
+* [jTable](https://github.com/hikalkan/jtable) - A JQuery plugin to create AJAX based CRUD tables.
 
 ## Maps
 
