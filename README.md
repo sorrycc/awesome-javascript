@@ -38,7 +38,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Modals and Popups](#modals-and-popups)
     * [Scroll](#scroll)
     * [Menu](#menu)
-    * [Table/Grid](#table-grid)
+    * [Table/Grid](#tablegrid)
   * [Maps](#maps)
   * [Animations](#animations)
 * [Other Awesome Lists](#other-awesome-lists)
