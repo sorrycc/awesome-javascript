@@ -210,6 +210,8 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
 * [jquery-timeago](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
 * [timezone-js](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+* [date](https://github.com/MatthewMueller/date) - Date() for humans.
+* [ms.js](https://github.com/guille/ms.js) - Tiny milisecond conversion utility.
 
 
 ## String
