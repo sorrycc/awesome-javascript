@@ -5,7 +5,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
-  * [Testing Frameworks](#testing-frameworks)
+  * [Testing Frameworks](#testing-frameworks)d
   * [MVC Frameworks](#mvc-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
@@ -385,6 +385,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode.
 * [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
 * [fullcalendar](https://github.com/arshaw/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
+* [rome](https://github.com/bevacqua/rome) - A customizable date (and time) picker. Dependency free, opt-in UI.
 
 ### Select
 
