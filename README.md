@@ -471,6 +471,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
+* [bounce.js](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 
 
