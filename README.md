@@ -35,6 +35,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Sliders](#sliders)
     * [Form Widgets](#form-widgets)
     * [Tips](#tips)
+    * [Media](#media) 
     * [Modals and Popups](#modals-and-popups)
     * [Scroll](#scroll)
     * [Menu](#menu)
@@ -418,6 +419,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 * [tooltipster](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
 * [simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+
+
+## Media
+
+* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
 
 
 ## Modals and Popups
