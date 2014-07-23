@@ -26,6 +26,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Security](#security)
     * [Log](#log)
     * [RegExp](#regexp)
+    * [Media](#media)
   * UI
     * [Loading Status](#loading-status)
     * [Validation](#validation)
@@ -296,6 +297,11 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 
 ## RegExp
+
+
+## Media
+
+* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
 
 
 ## Loading Status
