@@ -26,6 +26,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Security](#security)
     * [Log](#log)
     * [RegExp](#regexp)
+    * [Media](#media)
   * UI
     * [Loading Status](#loading-status)
     * [Validation](#validation)
@@ -35,7 +36,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Sliders](#sliders)
     * [Form Widgets](#form-widgets)
     * [Tips](#tips)
-    * [Media](#media) 
     * [Modals and Popups](#modals-and-popups)
     * [Scroll](#scroll)
     * [Menu](#menu)
@@ -299,6 +299,11 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## RegExp
 
 
+## Media
+
+* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
+
+
 ## Loading Status
 *Libraries for indicate load status.*
 
@@ -419,11 +424,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 * [tooltipster](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
 * [simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
-
-
-## Media
-
-* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
 
 
 ## Modals and Popups
