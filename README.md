@@ -42,6 +42,8 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Table/Grid](#tablegrid)
   * [Maps](#maps)
   * [Animations](#animations)
+* [Resources](#resources)
+  * [Conferences](#conferences)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -474,6 +476,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [bounce.js](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 
+# Resources
+
+## Conferences
+
+* [dotJS](http://www.dotjs.eu/)
 
 # Other Awesome Lists
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
