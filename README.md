@@ -327,6 +327,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) - jQuery Validation Plugin.
 * [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization.
 * [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
+* [requorm.js](https://github.com/asaskevich/requorm.js) - Library for checking and validating input on HTML forms.
 
 
 ## Keyboard Wrappers
