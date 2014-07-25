@@ -54,7 +54,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 
 * [Bower](https://github.com/bower/bower) - A package manager for the web.
 * [component](https://github.com/component/component) - Client package management for building better web applications.
-* [spm](https://github.com/spmjs/spm) - Brand new static package manger.
+* [spm](https://github.com/spmjs/spm) - Brand new static package manager.
 * [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
 * [yepnope.js](https://github.com/SlexAxton/yepnope.js) - An Asynchronous Conditional Resource Loader.
@@ -175,7 +175,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [medium-editor](https://github.com/daviferreira/medium-editor) - Medium.com WYSIWYG editor clone.
 * [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 * [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-* [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WISWYG rich text editor.
+* [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
 * [ckeditor-releases](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 * [editor](https://github.com/lepture/editor) - A markdown editor. still on development.
 * [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
@@ -420,7 +420,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Tips
 
 * [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
-* [opentip](https://github.com/enyo/opentip) - An open source javascript tooltip based on the protoype framework.
+* [opentip](https://github.com/enyo/opentip) - An open source javascript tooltip based on the prototype framework.
 * [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 * [tooltipster](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
 * [simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
