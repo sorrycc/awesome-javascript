@@ -485,4 +485,4 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 # Contributing
 
-Your contributions are always welcome!
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
