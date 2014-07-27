@@ -205,6 +205,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
+* [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 
 
 ##Data Structure
