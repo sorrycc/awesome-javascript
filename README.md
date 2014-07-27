@@ -6,6 +6,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
   * [Testing Frameworks](#testing-frameworks)
+  * [QA Tools](#qa-tools)
   * [MVC Frameworks](#mvc-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
@@ -103,6 +104,13 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
+
+
+## QA Tools
+
+* [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+* [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
+* [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
 
 ## MVC Frameworks
