@@ -22,6 +22,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [I18n And L10n](#i18n-and-l10n)
     * [Class](#class)
     * [Control Flow](#control-flow)
+    * [Rate Limiting](#rate-limiting)
     * [Routing](#routing)
     * [Security](#security)
     * [Log](#log)
@@ -273,6 +274,9 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [step](https://github.com/creationix/step/) - An async control-flow library that makes stepping through logic easy.
 * [contra](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
+## Rate Limiting
+
+* [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 
 ## Routing
 
