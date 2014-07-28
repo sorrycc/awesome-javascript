@@ -280,6 +280,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript.
 * [step](https://github.com/creationix/step/) - An async control-flow library that makes stepping through logic easy.
 * [contra](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
+* [Bluebird](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
 
 
 ## Routing
