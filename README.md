@@ -28,6 +28,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Log](#log)
     * [RegExp](#regexp)
     * [Media](#media)
+    * [OAuth](#oauth)
   * UI
     * [Loading Status](#loading-status)
     * [Validation](#validation)
@@ -312,6 +313,8 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
 
+## OAuth
+* [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - OAuth 1.0a signature generator
 
 ## Loading Status
 *Libraries for indicate load status.*
