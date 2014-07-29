@@ -28,6 +28,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Log](#log)
     * [RegExp](#regexp)
     * [Media](#media)
+    * [Voice Command](#voice-command)
   * UI
     * [Loading Status](#loading-status)
     * [Validation](#validation)
@@ -314,6 +315,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Media
 
 * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
+
+
+## Voice Command
+
+* [annyang](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
+* [voix.js](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 
 ## Loading Status
