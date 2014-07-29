@@ -264,6 +264,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [color](https://github.com/harthur/color) - JavaScript color conversion and manipulation library.
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
+* [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
