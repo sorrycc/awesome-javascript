@@ -123,7 +123,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 * [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 * [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
-
+* [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
@@ -136,7 +136,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
-
 
 ## Data Visualization
 *Data visualization tools for the web.*
