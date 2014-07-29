@@ -29,6 +29,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [RegExp](#regexp)
     * [Media](#media)
     * [Voice Command](#voice-command)
+    * [API](#api)
   * UI
     * [Loading Status](#loading-status)
     * [Validation](#validation)
@@ -127,6 +128,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 
+
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
 
@@ -138,6 +140,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
+
 
 ## Data Visualization
 *Data visualization tools for the web.*
@@ -322,6 +325,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [annyang](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
 * [voix.js](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+
+
+## API
+
+* [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+* [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 
 
 ## Loading Status
