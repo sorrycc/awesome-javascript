@@ -358,6 +358,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jwerty](https://github.com/keithamus/jwerty) - Awesome handling of keyboard events.
 
 
+## Voice Command
+
+* [annyang](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
+* [voix.js](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+
+
 ## Tours And Guides
 
 * [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
