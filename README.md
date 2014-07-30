@@ -121,6 +121,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
+* [meteor](https://www.meteor.com/) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 * [vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
