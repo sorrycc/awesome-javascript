@@ -129,6 +129,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 * [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
+* [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
 
 
 ## Templating Engines
