@@ -116,7 +116,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
 
-## MVC Frameworks
+## (MVC) Frameworks and Libraries
 
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
@@ -131,7 +131,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
 * [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
 * [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
-
+* [famo.us](http://famo.us/) - A free, open source JavaScript framework that helps you create smooth, complex UIs for any screen.
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
