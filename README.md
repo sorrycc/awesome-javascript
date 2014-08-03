@@ -144,6 +144,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
+* [jade](https://github.com/visionmedia/jade) — Jade - robust, elegant, feature rich template engine for nodejs.
 
 
 ## Data Visualization
