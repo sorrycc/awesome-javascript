@@ -34,7 +34,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Tours And Guides](#tours-and-guides)
     * [Notifications](#notifications)
     * [Sliders](#sliders)
-    * [Range Sliders](#rangesliders)
+    * [Range Sliders](#range-sliders)
     * [Form Widgets](#form-widgets)
     * [Tips](#tips)
     * [Modals and Popups](#modals-and-popups)
