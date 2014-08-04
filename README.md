@@ -409,6 +409,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [FileAPI](https://github.com/mailru/FileAPI) - A set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [plupload](https://github.com/moxiecode/plupload) - A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.
 
+### Range Slider
+
+* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - Cool, comfortable and easily customizable range slider with many options and skin support.
+* [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) - A javascript slider selector that supports dates.
+* [noUiSlider](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
+
 ### Other
 
 * [form](https://github.com/malsup/form) - jQuery Form Plugin.
