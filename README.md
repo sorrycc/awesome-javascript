@@ -34,6 +34,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Tours And Guides](#tours-and-guides)
     * [Notifications](#notifications)
     * [Sliders](#sliders)
+    * [Range Sliders](#rangesliders)
     * [Form Widgets](#form-widgets)
     * [Tips](#tips)
     * [Modals and Popups](#modals-and-popups)
@@ -373,6 +374,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [vegas](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
 * [Sequence](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
 
+## Range Sliders
+
+* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - Powerful and easily customizable range slider with many options and skin support.
+* [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) - A javascript slider selector that supports dates.
+* [noUiSlider](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
+
 
 ## Form Widgets
 
@@ -408,12 +415,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fine-uploader](https://github.com/Widen/fine-uploader) - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.
 * [FileAPI](https://github.com/mailru/FileAPI) - A set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [plupload](https://github.com/moxiecode/plupload) - A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.
-
-### Range Slider
-
-* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - Cool, comfortable and easily customizable range slider with many options and skin support.
-* [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) - A javascript slider selector that supports dates.
-* [noUiSlider](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
 
 ### Other
 
