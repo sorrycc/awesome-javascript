@@ -75,6 +75,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
+* [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
 
 
 ## Testing Frameworks
