@@ -44,6 +44,8 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Scroll](#scroll)
     * [Menu](#menu)
     * [Table/Grid](#tablegrid)
+  * Mobile
+    * [Gesture](#gesture)
   * [Maps](#maps)
   * [Animations](#animations)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -499,6 +501,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) - A JQuery plugin to create AJAX based CRUD tables.
+
+## Gesture
+
+* [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
+* [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 
 ## Maps
 
