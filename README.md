@@ -7,7 +7,8 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [Loaders](#loaders)
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
-  * [MVC Frameworks](#mvc-frameworks)
+  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
+  * [Non-MVC Frameworks](#non-mvc-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
   * [Editors](#editors)
@@ -122,7 +123,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
 
-## MVC Frameworks
+## MVC Frameworks and Libraries
 
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
@@ -137,6 +138,11 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
 * [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
 * [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
+
+
+## Non-MVC Frameworks
+
+* [famous](https://github.com/Famous/famous) - A JavaScript framework for everyone who wants to build beautiful experiences on any device.
 
 
 ## Templating Engines
