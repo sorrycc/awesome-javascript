@@ -349,8 +349,8 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 ## Code highlighting
 
-* [Highlight.js](https://github.com/isagalaev/highlight.js) - Client-side code highlighting.
-* [PrismJS](http://prismjs.com/) - Yet another one.
+* [Highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter.
+* [PrismJS](https://github.com/LeaVerou/prism) - Lightweight, robust, elegant syntax highlighting.
 
 
 ## Loading Status
