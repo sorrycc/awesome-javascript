@@ -61,7 +61,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [Bower](https://github.com/bower/bower) - A package manager for the web.
 * [component](https://github.com/component/component) - Client package management for building better web applications.
 * [spm](https://github.com/spmjs/spm) - Brand new static package manager.
-* [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
 * [yepnope.js](https://github.com/SlexAxton/yepnope.js) - An Asynchronous Conditional Resource Loader.
 * [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
@@ -77,8 +76,9 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
-* [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
+* [script.js](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
+* [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 
 
 ## Testing Frameworks
