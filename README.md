@@ -37,6 +37,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Tours And Guides](#tours-and-guides)
     * [Notifications](#notifications)
     * [Sliders](#sliders)
+    * [Range Sliders](#range-sliders)
     * [Form Widgets](#form-widgets)
     * [Tips](#tips)
     * [Modals and Popups](#modals-and-popups)
@@ -408,6 +409,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [vegas](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
 * [Sequence](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
+
+## Range Sliders
+
+* [Ion.RangeSlider](https://github.com/IonDen/ion.rangeSlider) - Powerful and easily customizable range slider with many options and skin support.
+* [jQRangeSlider](https://github.com/ghusse/jQRangeSlider) - A javascript slider selector that supports dates.
+* [noUiSlider](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
 
 
 ## Form Widgets
