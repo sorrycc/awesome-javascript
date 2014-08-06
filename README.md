@@ -64,7 +64,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [spm](https://github.com/spmjs/spm) - Brand new static package manager.
 * [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
-* [yepnope.js](https://github.com/SlexAxton/yepnope.js) - An Asynchronous Conditional Resource Loader.
 * [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
 * [Ender](https://github.com/ender-js/Ender) - The no-library library.
 * [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
@@ -80,6 +79,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
+* [yepnope.js](https://github.com/SlexAxton/yepnope.js) - An Asynchronous Conditional Resource Loader.
 
 
 ## Testing Frameworks
