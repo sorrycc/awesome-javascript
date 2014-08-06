@@ -31,6 +31,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Voice Command](#voice-command)
     * [API](#api)
   * UI
+    * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
     * [Validation](#validation)
     * [Keyboard Wrappers](#keyboard-wrappers)
@@ -226,6 +227,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [buckets](https://github.com/mauriciosantos/buckets) - A complete, fully tested and documented data structure library written in JavaScript.
 * [immutable-js](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
+* [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 
 
 ## Date
@@ -342,6 +344,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
+
+
+## Code highlighting
+
+* [Highlight.js](https://github.com/isagalaev/highlight.js) - Client-side code highlighting.
+* [PrismJS](http://prismjs.com/) - Yet another one.
 
 
 ## Loading Status
