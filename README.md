@@ -140,6 +140,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
 * [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views.
 * [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
+* [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 
 
 ## Non-MVC Frameworks
