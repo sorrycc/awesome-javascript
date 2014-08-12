@@ -15,6 +15,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * Utilities
     * [Files](#files)
     * [Functional Programming](#functional-programming)
+    * [Reactive Programming](#reactive-programming)
     * [Data Structure](#data-structure)
     * [Date](#date)
     * [String](#string)
@@ -230,6 +231,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 
+## Reactive Programming
+*Reactive programming libraries to extend JavaScript’s capabilities.*
+
+* [RxJs](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
+* [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
+* [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 
 ##Data Structure
 *Data structure libraries to build a more sophisticated application.*
