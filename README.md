@@ -115,6 +115,8 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
+* [nightwatch](https://github.com/beatfactor/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
+* [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 
 
 ## QA Tools
