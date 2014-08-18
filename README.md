@@ -32,6 +32,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Media](#media)
     * [Voice Command](#voice-command)
     * [API](#api)
+    * [Vision Detection](#vision-detection)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -365,6 +366,10 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 
+## Vision Detection
+
+* [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten.
 
 ## Code highlighting
 
