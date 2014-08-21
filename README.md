@@ -400,6 +400,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) - jQuery Validation Plugin.
 * [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization.
 * [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
+* [BootstrapValidator](https://github.com/nghuuphuoc/bootstrapvalidator) - The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3.
 
 
 ## Keyboard Wrappers
