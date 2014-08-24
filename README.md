@@ -141,7 +141,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views.
 * [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
 * [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
-
+    * [derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
 
 ## Non-MVC Frameworks
 
