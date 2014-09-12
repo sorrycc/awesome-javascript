@@ -197,6 +197,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 * [dimple.js](http://dimplejs.org) -  Easy charts for business analytics powered by d3
+* [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 There're also some great commercial libraries, like [amchart](http://www.amcharts.com/) and [highchart](http://www.highcharts.com/).
 
