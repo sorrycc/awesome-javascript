@@ -199,7 +199,8 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 * [dimple.js](http://dimplejs.org) -  Easy charts for business analytics powered by d3
 * [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
-* [Epoch](https://github.com/fastly/epoch) - A general purpose real-time charting library.
+* [epoch](https://github.com/fastly/epoch) - A general purpose real-time charting library.
+* [c3](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
 
 There're also some great commercial libraries, like [amchart](http://www.amcharts.com/) and [highchart](http://www.highcharts.com/).
 
