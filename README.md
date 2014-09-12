@@ -570,6 +570,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [jnv/list](https://github.com/jnv/lists)
+* [gianarb/angularjs](https://github.com/gianarb/awesome-angularjs)
 
 
 # Contributing
