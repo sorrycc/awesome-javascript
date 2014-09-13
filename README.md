@@ -245,6 +245,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 
+
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
 
@@ -252,7 +253,8 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 
-##Data Structure
+
+## Data Structure
 *Data structure libraries to build a more sophisticated application.*
 
 * [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
@@ -317,7 +319,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
 
 * [i18next](https://github.com/jamuhl/i18next) - internationalisation (i18n) with javascript the easy way.
-* [polyglot] (https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
+* [polyglot](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 
 ## Class
 
@@ -458,6 +460,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [vegas](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
 * [Sequence](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
+
 
 ## Range Sliders
 
