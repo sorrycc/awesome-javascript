@@ -11,6 +11,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [Non-MVC Frameworks](#non-mvc-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
+    * [Timeline](#timeline)
   * [Editors](#editors)
   * Utilities
     * [Files](#files)
@@ -203,6 +204,12 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [c3](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
 
 There're also some great commercial libraries, like [amchart](http://www.amcharts.com/) and [highchart](http://www.highcharts.com/).
+
+
+## Timeline
+
+* [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript.
+* [timesheet.js](https://github.com/semu/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 
 ## Editors
