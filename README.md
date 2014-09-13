@@ -302,6 +302,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [store.js](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
 * [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * [jStorage](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
+* [cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
 * [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
 * [basil.js](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer.
 * [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
