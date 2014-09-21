@@ -86,6 +86,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
 * [yepnope.js](https://github.com/SlexAxton/yepnope.js) - An Asynchronous Conditional Resource Loader.
 * [webpack](https://github.com/webpack/webpack) - Module loader made for big projects. Supports AMD, CommonJS, and more.
+* [Helios Kernel](http://asvd.github.io/helios-kernel) - Simple yet smart module-loader in the classic include-style.
 
 
 ## Testing Frameworks
