@@ -53,6 +53,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Gesture](#gesture)
   * [Maps](#maps)
   * [Animations](#animations)
+  * [Image processing](#image-processing)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -577,6 +578,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 * [bounce.js](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
+
+
+## Image Processing
+
+* [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 
 
 # Other Awesome Lists
