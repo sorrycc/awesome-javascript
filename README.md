@@ -126,6 +126,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 ## QA Tools
 
 * [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+* [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
