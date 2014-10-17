@@ -204,7 +204,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [epoch](https://github.com/fastly/epoch) - A general purpose real-time charting library.
 * [c3](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
 
-There're also some great commercial libraries, like [amchart](http://www.amcharts.com/) and [highchart](http://www.highcharts.com/).
+There're also some great commercial libraries, like [amchart](http://www.amcharts.com/), [plotly](https://www.plot.ly/), and [highchart](http://www.highcharts.com/).
 
 
 ## Timeline
