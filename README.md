@@ -399,7 +399,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
 * [Spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 * [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
-* [ProgressBar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars with animated SVG paths.
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars with animated SVG paths.
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 * [nanobar](https://github.com/jacoborus/nanobar) - Very lighweight progress bars. No jQuery.
