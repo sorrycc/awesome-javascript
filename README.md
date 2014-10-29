@@ -602,6 +602,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [jnv/list](https://github.com/jnv/lists)
 * [gianarb/angularjs](https://github.com/gianarb/awesome-angularjs)
+* [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
 
 
 # Contributing
