@@ -136,6 +136,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events. [![](http://spmjs.io/badge/backbone)](http://spmjs.io/package/backbone)
+* [batman.js](http://batmanjs.org/) - The best JavaScript framework for Rails developers.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
 * [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation. [![](http://spmjs.io/badge/ractive)](http://spmjs.io/package/ractive)
