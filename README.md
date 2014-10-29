@@ -13,6 +13,8 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
   * [Editors](#editors)
+  * [Books](#books)
+  * [Style Guide](#style-guide)
   * Utilities
     * [Files](#files)
     * [Functional Programming](#functional-programming)
@@ -232,6 +234,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent ~/.vimrc
 
+## Books
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A JavaScript book series. @YDKJS on twitter.
+
+## Style Guide
+*JavaScript Style Guide*
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 
 ## Files
 *Libraries for working with files.*
