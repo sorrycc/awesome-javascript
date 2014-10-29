@@ -371,7 +371,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 ## Media
 
-* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
+* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page [![](http://spmjs.io/badge/ion-sound)](http://spmjs.io/package/ion-sound)
 
 
 ## Voice Command
