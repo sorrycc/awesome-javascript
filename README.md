@@ -14,6 +14,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Timeline](#timeline)
   * [Editors](#editors)
   * [Books](#books)
+  * [Style Guide](#style-guide)
   * Utilities
     * [Files](#files)
     * [Functional Programming](#functional-programming)
@@ -235,6 +236,10 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 ## Books
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A JavaScript book series. @YDKJS on twitter.
+
+## Style Guide
+*JavaScript Style Guide*
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript.
 
 ## Files
 *Libraries for working with files.*
