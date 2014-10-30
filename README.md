@@ -130,6 +130,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
+* [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
 
 ## MVC Frameworks and Libraries
