@@ -144,6 +144,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces. [![](http://spmjs.io/badge/vue)](http://spmjs.io/package/vue)
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 * [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
+* [espresso.js](https://github.com/techlayer/espresso.js) - A minimal javascript library for crafting user interfaces. [![](http://spmjs.io/badge/espresso.js)](http://spmjs.io/package/espresso.js)
 * [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 * [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
