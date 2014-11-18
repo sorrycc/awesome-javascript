@@ -178,6 +178,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 *Data visualization tools for the web.*
 
 * [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.  [![](http://spmjs.io/badge/d3)](http://spmjs.io/package/d3)
+  * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag. [![](http://spmjs.io/badge/chart.js)](http://spmjs.io/package/chart.js)
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
