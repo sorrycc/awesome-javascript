@@ -407,7 +407,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. [![](http://spmjs.io/badge/pace)](http://spmjs.io/package/pace)
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator. [![](http://spmjs.io/badge/topbar)](http://spmjs.io/package/topbar)
-* [nanobar](https://github.com/jacoborus/nanobar) - Very lighweight progress bars. No jQuery.
+* [nanobar](https://github.com/jacoborus/nanobar) - Very lighweight progress bars. No jQuery. [![](http://spmjs.io/badge/nanobar)](http://spmjs.io/package/nanobar)
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
