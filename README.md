@@ -155,6 +155,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     * [derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
 * [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding. [![](http://spmjs.io/badge/way.js)](http://spmjs.io/package/way.js)
+* [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 
 ## Non-MVC Frameworks
 
