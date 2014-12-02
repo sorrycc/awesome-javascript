@@ -462,7 +462,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 
 ## Sliders
-
+* [iSlider](https://github.com/BE-FE/iSlider) - A Light & Fast Mobile touch slider
 * [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions. [![](http://spmjs.io/badge/swiper)](http://spmjs.io/package/swiper)
 * [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need. [![](http://spmjs.io/badge/slick)](http://spmjs.io/package/slick)
 * [FlexSlider](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
