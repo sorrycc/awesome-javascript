@@ -68,7 +68,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [Bower](https://github.com/bower/bower) - A package manager for the web.
 * [component](https://github.com/component/component) - Client package management for building better web applications.
 * [spm](https://github.com/spmjs/spm) - Brand new static package manager.
-* [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
 * [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
 * [Ender](https://github.com/ender-js/Ender) - The no-library library.
@@ -80,6 +79,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 *Module or loading system for JavaScript.*
 
 * [RequireJS](https://github.com/jrburke/requirejs) - A file and module loader for JavaScript.
+* [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [SeaJS](https://github.com/seajs/seajs) - A Module Loader for the Web.
 * [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
