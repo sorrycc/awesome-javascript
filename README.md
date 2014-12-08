@@ -565,6 +565,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) - A JQuery plugin to create AJAX based CRUD tables.
+* [Hansontable](http://handsontable.com/) - minimalist Excel-like data grid editor for HTML & JavaScript (No jQuery)
 
 ## Gesture
 
