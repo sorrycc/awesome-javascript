@@ -556,6 +556,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [stellar.js](https://github.com/markdalgleish/stellar.js) - Parallax scrolling made easy.
 * [plax](https://github.com/cameronmcefee/plax) - jQuery powered parallaxing.
 * [jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
+* [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 
 ## Menu
 
