@@ -288,6 +288,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## String
 *String Libraries.*
 
+* [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
 * [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library. [![](http://spmjs.io/badge/underscore.string)](http://spmjs.io/package/underscore.string)
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods. [![](http://spmjs.io/badge/string.js)](http://spmjs.io/package/string.js)
 * [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript. [![](http://spmjs.io/badge/he)](http://spmjs.io/package/he)
