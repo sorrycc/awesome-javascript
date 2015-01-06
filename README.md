@@ -54,6 +54,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [Maps](#maps)
   * [Animations](#animations)
   * [Image processing](#image-processing)
+  * [ES6](#es6)
   * [Misc](#misc)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
@@ -596,6 +597,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 
+## ES6
+
+* [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
+* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
+* [6to5](https://github.com/sebmck/6to5) - Turn ES6+ code into vanilla ES5 with no runtime.
+* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
 ## Misc
 
@@ -611,7 +618,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jnv/list](https://github.com/jnv/lists)
 * [gianarb/angularjs](https://github.com/gianarb/awesome-angularjs)
 * [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
-
+* [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools)
+* [ericdouglas/ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
 
 # Contributing
 
