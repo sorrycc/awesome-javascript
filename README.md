@@ -238,6 +238,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent ~/.vimrc
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor.
+* [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 
 
 ## Files
