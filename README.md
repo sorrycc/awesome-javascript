@@ -212,7 +212,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 * [epoch](https://github.com/fastly/epoch) - A general purpose real-time charting library.
 * [c3](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
-* [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL
+* [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 
 There're also some great commercial libraries, like [amchart](http://www.amcharts.com/) and [highchart](http://www.highcharts.com/).
 
