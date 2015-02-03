@@ -408,6 +408,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Loading Status
 *Libraries for indicate load status.*
 
+* [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 * [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications. [![](http://spmjs.io/badge/nprogress)](http://spmjs.io/package/nprogress)
 * [Spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator. [![](http://spmjs.io/badge/spin.js)](http://spmjs.io/package/spin.js)
 * [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
