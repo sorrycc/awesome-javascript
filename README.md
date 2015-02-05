@@ -99,6 +99,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
 * [jest](http://github.com/facebook/jest) - Painless Javascript Unit Testing.
 * [prova](http://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
+* [protractor](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 
 ### Assertion
 
