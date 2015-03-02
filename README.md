@@ -338,6 +338,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 ## Class
 
+* [ClassManager](https://github.com/kogarashisan/ClassManager) - One of the fastest and most convenient class systems in the world
 * [klass](https://github.com/ded/klass) - A utility for creating expressive classes in JavaScript. [![](http://spmjs.io/badge/klass)](http://spmjs.io/package/klass)
 * [augment](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern. [![](http://spmjs.io/badge/augment)](http://spmjs.io/package/augment)
 
