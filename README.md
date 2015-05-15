@@ -285,7 +285,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [jquery-timeago](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago"). [![](http://spmjs.io/badge/timeago)](http://spmjs.io/package/timeago)
 * [timezone-js](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 * [date](https://github.com/MatthewMueller/date) - Date() for humans. [![](http://spmjs.io/badge/date)](http://spmjs.io/package/date)
-* [ms.js](https://github.com/guille/ms.js) - Tiny milisecond conversion utility. [![](http://spmjs.io/badge/ms)](http://spmjs.io/package/ms)
+* [ms.js](https://github.com/guille/ms.js) - Tiny millisecond conversion utility. [![](http://spmjs.io/badge/ms)](http://spmjs.io/package/ms)
 
 
 ## String
@@ -413,7 +413,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. [![](http://spmjs.io/badge/pace)](http://spmjs.io/package/pace)
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator. [![](http://spmjs.io/badge/topbar)](http://spmjs.io/package/topbar)
-* [nanobar](https://github.com/jacoborus/nanobar) - Very lighweight progress bars. No jQuery. [![](http://spmjs.io/badge/nanobar)](http://spmjs.io/package/nanobar)
+* [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery. [![](http://spmjs.io/badge/nanobar)](http://spmjs.io/package/nanobar)
 * [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
