@@ -103,7 +103,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 ### Assertion
 
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. [![](http://spmjs.io/badge/chai)](http://spmjs.io/package/chai)
-* [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks for JavaScript. [![](http://spmjs.io/badge/sinon)](http://spmjs.io/package/sinon)
+* [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs, and mocks for JavaScript. [![](http://spmjs.io/badge/sinon)](http://spmjs.io/package/sinon)
 * [expect.js](https://github.com/LearnBoost/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser. [![](http://spmjs.io/badge/expect.js)](http://spmjs.io/package/expect.js)
 
 ### Coverage
