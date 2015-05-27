@@ -55,6 +55,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [Animations](#animations)
   * [Image processing](#image-processing)
   * [ES6](#es6)
+  * [SDK](#sdk)
   * [Misc](#misc)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
@@ -606,6 +607,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [6to5](https://github.com/sebmck/6to5) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+
+## SDK
+
+* [javascript-sdk-design](http://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
 
 ## Misc
 
