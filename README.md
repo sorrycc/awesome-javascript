@@ -161,7 +161,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 ## Non-MVC Frameworks
 
 * [famous](https://github.com/Famous/famous) - A JavaScript framework for everyone who wants to build beautiful experiences on any device.
-
+* [RiotJs](https://github.com/muut/riotjs) - A React- like, 3.5KB user interface library. Fast, easy to learn and very complete MVP framework.
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
