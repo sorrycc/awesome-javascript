@@ -499,7 +499,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - A pure javascript mask input.
-* [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support. [![](http://spmjs.io/badge/ion-checkradio.js)](http://spmjs.io/package/ion-checkradio.js)
+* [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support. [![](http://spmjs.io/badge/ion-checkradio)](http://spmjs.io/package/ion-checkradio)
 
 ### Calendar
 
