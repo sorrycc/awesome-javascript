@@ -148,6 +148,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [espresso.js](https://github.com/techlayer/espresso.js) - A minimal javascript library for crafting user interfaces. [![](http://spmjs.io/badge/espresso.js)](http://spmjs.io/package/espresso.js)
 * [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
+* [riot](https://github.com/riot/riot) - React-like library, but with very small size.
 * [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
 * [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
 * [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
