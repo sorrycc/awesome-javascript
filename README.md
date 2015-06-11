@@ -565,6 +565,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 * [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
+* [BootstrapModalPopover](https://github.com/scruffles/BootstrapModalPopover) - A library which provides the functionality of Bootstrap's Modal with the appearance of Boostrap's Popover.
 
 
 ## Scroll
