@@ -615,7 +615,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
-* [6to5](https://github.com/sebmck/6to5) - Turn ES6+ code into vanilla ES5 with no runtime.
+* [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
 ## SDK
