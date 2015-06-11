@@ -627,6 +627,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
 * [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools)
 * [ericdouglas/ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
+* [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
 
 # Contributing
 
