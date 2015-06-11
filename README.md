@@ -132,6 +132,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+* [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
 
 
 ## MVC Frameworks and Libraries
