@@ -586,6 +586,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) - A JQuery plugin to create AJAX based CRUD tables.
+* [DataTables](http://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
 
 ## Gesture
 
