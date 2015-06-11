@@ -319,6 +319,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [jStorage](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
 * [cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
 * [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
+* [bag.js](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
 * [basil.js](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer. [![](http://spmjs.io/badge/basil.js)](http://spmjs.io/package/basil.js)
 * [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
