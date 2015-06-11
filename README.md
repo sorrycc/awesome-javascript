@@ -339,6 +339,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [i18next](https://github.com/jamuhl/i18next) - internationalisation (i18n) with javascript the easy way.
 * [polyglot](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
+* [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
 ## Class
 
