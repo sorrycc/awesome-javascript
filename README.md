@@ -627,6 +627,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+* [ES6 — let + const](https://medium.com/@mrzepinski/let-const-35bca3b4a3c6) - let + const overview
+* [ES6 — arrow functions](https://medium.com/@mrzepinski/arrow-functions-bb08eeb11667) - arrow functions overview
+* [ES6 — default + rest + spread](https://medium.com/@mrzepinski/default-rest-spread-f3ab0d2e0a5e) - default + rest + spread overview
+* [ES6 — destructuring](https://medium.com/@mrzepinski/es6-destructuring-13ca399f993a) - destructuring overview
+* [ES6 — strings](https://medium.com/@mrzepinski/es6-string-bae03d964d43) - string changes overview
 
 ## SDK
 
