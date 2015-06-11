@@ -89,7 +89,8 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
 * [webpack](https://github.com/webpack/webpack) - Module loader made for big projects. Supports AMD, CommonJS, and more.
-
+* [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD
+* [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 
 ## Testing Frameworks
 
