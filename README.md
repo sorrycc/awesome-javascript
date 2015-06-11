@@ -55,7 +55,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [Animations](#animations)
   * [Image processing](#image-processing)
   * [ES6](#es6)
-  * [SDK](#sdk)
   * [Misc](#misc)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
@@ -150,7 +149,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [espresso.js](https://github.com/techlayer/espresso.js) - A minimal javascript library for crafting user interfaces. [![](http://spmjs.io/badge/espresso.js)](http://spmjs.io/package/espresso.js)
 * [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
-* [riot](https://github.com/riot/riot) - React-like library, but with very small size.
 * [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
 * [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
 * [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
@@ -178,7 +176,6 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
-* [Jade](https://github.com/jadejs/jade) - Robust, elegant, feature rich template engine for nodejs.
 
 
 ## Data Visualization
@@ -322,7 +319,6 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [jStorage](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
 * [cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
 * [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
-* [bag.js](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
 * [basil.js](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer. [![](http://spmjs.io/badge/basil.js)](http://spmjs.io/package/basil.js)
 * [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
@@ -337,6 +333,8 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript. [![](http://spmjs.io/badge/tinycolor)](http://spmjs.io/package/tinycolor)
+* [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -439,7 +437,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 * [validatr](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
 * [BootstrapValidator](https://github.com/nghuuphuoc/bootstrapvalidator) - The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3.
-* [is.js](https://github.com/arasatasaygin/is.js) -  Check types, regexps, presence, time and more.
+
 
 ## Keyboard Wrappers
 
@@ -617,10 +615,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [6to5](https://github.com/sebmck/6to5) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
-
-## SDK
-
-* [javascript-sdk-design](http://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
 
 ## Misc
 
