@@ -57,6 +57,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
   * [ES6](#es6)
   * [SDK](#sdk)
   * [Misc](#misc)
+* [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -639,6 +640,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms. [![](http://spmjs.io/badge/platform.js)](http://spmjs.io/package/platform.js)
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms. [![](http://spmjs.io/badge/json3)](http://spmjs.io/package/json3)
 
+# Worth Reading
 
 # Other Awesome Lists
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
