@@ -49,6 +49,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Scroll](#scroll)
     * [Menu](#menu)
     * [Table/Grid](#tablegrid)
+    * (Frameworks)[#frameworks]
   * Mobile
     * [Gesture](#gesture)
   * [Maps](#maps)
@@ -592,6 +593,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [jTable](https://github.com/hikalkan/jtable) - A JQuery plugin to create AJAX based CRUD tables.
 * [DataTables](http://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
+
+
+## Frameworks
+
+* [Semantic UI](http://semantic-ui.com/) - UI Kit with lots of themes and elements
+
 
 ## Gesture
 
