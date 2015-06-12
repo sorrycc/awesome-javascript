@@ -49,7 +49,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
     * [Scroll](#scroll)
     * [Menu](#menu)
     * [Table/Grid](#tablegrid)
-    * [Frameworks](#frameworks)
+    * [Frameworks](#frameworks-1)
   * Mobile
     * [Gesture](#gesture)
   * [Maps](#maps)
