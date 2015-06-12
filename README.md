@@ -165,6 +165,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding. [![](http://spmjs.io/badge/way.js)](http://spmjs.io/package/way.js)
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
+* [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 
 ## Non-MVC Frameworks
 
