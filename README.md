@@ -589,6 +589,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Menu
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
+* [jQuery contextMenu] (https://github.com/medialize/jQuery-contextMenu) -  contextMenu manager.
 
 
 ## Table/Grid
