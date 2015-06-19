@@ -185,6 +185,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
 * [Jade](https://github.com/jadejs/jade) - Robust, elegant, feature rich template engine for nodejs.
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
+* [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 
 ## Data Visualization
 *Data visualization tools for the web.*
