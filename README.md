@@ -72,7 +72,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [Bower](https://github.com/bower/bower) - A package manager for the web.
 * [component](https://github.com/component/component) - Client package management for building better web applications.
 * [spm](https://github.com/spmjs/spm) - Brand new static package manager.
-* [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
+* [browserify](https://github.com/substack/node-browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
 * [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
 * [Ender](https://github.com/ender-js/Ender) - The no-library library.
