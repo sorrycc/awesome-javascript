@@ -5,6 +5,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
+  * [Bundlers](#bundlers)
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
@@ -69,10 +70,10 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 
 *Host the javascript libraries and provide tools for fetching and packaging them.*
 
+* [npm](https://www.npmjs.com/) - npm is the package manager for javascript.
 * [Bower](https://github.com/bower/bower) - A package manager for the web.
 * [component](https://github.com/component/component) - Client package management for building better web applications.
 * [spm](https://github.com/spmjs/spm) - Brand new static package manager.
-* [browserify](https://github.com/substack/node-browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
 * [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
 * [Ender](https://github.com/ender-js/Ender) - The no-library library.
@@ -90,9 +91,15 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
-* [webpack](https://github.com/webpack/webpack) - Module loader made for big projects. Supports AMD, CommonJS, and more.
 * [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+
+
+## Bundlers
+
+* [browserify](https://github.com/substack/node-browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+* [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
+
 
 ## Testing Frameworks
 
