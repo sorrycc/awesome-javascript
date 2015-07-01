@@ -277,6 +277,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
+* [mesh](https://github.com/mojo-js/mesh.js) - Streamable data synchronization utility.
 
 
 ## Reactive Programming
