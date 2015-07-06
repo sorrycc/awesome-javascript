@@ -667,6 +667,17 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 # Worth Reading
 
+* Java
+* [Influential Books](https://github.com/akullpp/awesome-java#influential-books)
+* [Awesome Java](https://github.com/akullpp/awesome-java#websites)
+
+* PHP
+* [PHP Books](https://github.com/ziadoz/awesome-php#php-books)
+* [PHP Videos](https://github.com/ziadoz/awesome-php#php-videos)
+* [PHP Reading](https://github.com/ziadoz/awesome-php#php-reading)
+* [PHP Websites](https://github.com/ziadoz/awesome-php#php-websites)
+* [Others Sites](https://github.com/ziadoz/awesome-php#other-websites)
+
 # Other Awesome Lists
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
