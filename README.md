@@ -512,7 +512,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
-
+* [Fotorama](http://fotorama.io) - A simple, stunning, powerful jQuery gallery.
 
 
 ## Range Sliders
