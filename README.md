@@ -173,6 +173,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
+* [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
 
 ## Non-MVC Frameworks
 
@@ -509,6 +510,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
 * [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
+* [jcSlider](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
+
 
 
 ## Range Sliders
