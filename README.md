@@ -261,7 +261,8 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent ~/.vimrc
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor.
 * [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
-
+* [Redactor](http://imperavi.com/redactor/) — Smooth and clean design, limitless flexibility and extensibility,
+simple and super-efficient API and amazing user experience.
 
 ## Files
 *Libraries for working with files.*
