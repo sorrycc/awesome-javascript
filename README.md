@@ -174,6 +174,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
+* [Matreshka](http://matreshka.io) - Framework for massive and endlessly extending single page applications.
 
 ## Non-MVC Frameworks
 
