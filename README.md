@@ -670,6 +670,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 
 # Worth Reading
+* [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
 
 # Other Awesome Lists
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
@@ -681,6 +682,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools)
 * [ericdouglas/ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
 * [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
+* [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
+* [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 
 # Contributing
 
