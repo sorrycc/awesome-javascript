@@ -273,7 +273,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Functional Programming
 *Functional programming libraries to extend JavaScript’s capabilities.*
 
-* [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt. 
+* [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
 * [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 * [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
@@ -313,7 +313,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## String
 *String Libraries.*
 
-* [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
+* [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
 * [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
 * [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
