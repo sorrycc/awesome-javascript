@@ -153,7 +153,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [batman.js](http://batmanjs.org/) - The best JavaScript framework for Rails developers.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
-* [elektron.js](http://electron.atom.io/) - Build cross platform desktop applications with javascript.
+* [elektron](p://electron.atom.io/) - Build cross platform desktop applications with javascript.
 * [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 * [vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
@@ -273,7 +273,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Functional Programming
 *Functional programming libraries to extend JavaScript’s capabilities.*
 
-* [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
+* [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt. 
 * [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 * [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
