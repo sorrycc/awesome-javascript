@@ -685,6 +685,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 * [instanceofpro/awesome-backbone](https://github.com/instanceofpro/awesome-backbone)
+* [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 
 # Contributing
 
