@@ -35,7 +35,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Voice Command](#voice-command)
     * [API](#api)
     * [Vision Detection](#vision-detection)
-	* [Browser Detection](#browser-detection)
+    * [Browser Detection](#browser-detection)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
