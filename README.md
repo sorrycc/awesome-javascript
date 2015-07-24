@@ -35,6 +35,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Voice Command](#voice-command)
     * [API](#api)
     * [Vision Detection](#vision-detection)
+    * [Browser Detection](#browser-detection)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -428,6 +429,10 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten.
+
+## Browser Detection
+
+* [bowser](https://github.com/ded/bowser) - a browser detector
 
 ## Code highlighting
 
