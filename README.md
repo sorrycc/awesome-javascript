@@ -86,6 +86,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *Module or loading system for JavaScript.*
 
 * [RequireJS](https://github.com/jrburke/requirejs) - A file and module loader for JavaScript.
+* [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [SeaJS](https://github.com/seajs/seajs) - A Module Loader for the Web.
 * [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
