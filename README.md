@@ -177,11 +177,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 
 
-## Non-MVC Frameworks
-
-* [famous](https://github.com/Famous/famous) - A JavaScript framework for everyone who wants to build beautiful experiences on any device.
-
-
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
 
