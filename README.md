@@ -95,6 +95,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
 * [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+* [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
 
 ## Bundlers
