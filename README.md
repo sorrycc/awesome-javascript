@@ -581,6 +581,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [qTip2](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 * [tooltipster](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
 * [simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+* [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 
 
 ## Modals and Popups
@@ -591,6 +592,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 * [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
+* [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 
 
 ## Scroll
