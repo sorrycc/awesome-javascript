@@ -694,6 +694,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 * [instanceofpro/awesome-backbone](https://github.com/instanceofpro/awesome-backbone)
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+* [gabinaureche/javascript-thingies](http://gabinaureche.com/javascript-thingies/)
 
 # Contributing
 
