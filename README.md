@@ -572,6 +572,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Garlic.js](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
 * [Countable](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
+* [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 
 
 ## Tips
