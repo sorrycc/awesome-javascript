@@ -68,7 +68,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 
 ## Package Managers
-
 *Host the javascript libraries and provide tools for fetching and packaging them.*
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for javascript.
@@ -137,6 +136,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [nightwatch](https://github.com/beatfactor/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 * [yolpo](http://www.yolpo.com) - A statement-by-statement javascript interpreter in the browser.
+
 
 ## QA Tools
 
@@ -426,14 +426,17 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [amygdala](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 
+
 ## Vision Detection
 
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten.
 
+
 ## Browser Detection
 
 * [bowser](https://github.com/ded/bowser) - a browser detector
+
 
 ## Code highlighting
 
@@ -470,6 +473,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [BootstrapValidator](https://github.com/nghuuphuoc/bootstrapvalidator) - The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3.
 * [is.js](https://github.com/arasatasaygin/is.js) -  Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
+
 
 ## Keyboard Wrappers
 
@@ -519,7 +523,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
-
 
 
 ## Range Sliders
@@ -607,13 +610,13 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 
+
 ## Menu
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
 * [jQuery contextMenu] (https://github.com/medialize/jQuery-contextMenu) -  contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
-
 
 
 ## Table/Grid
@@ -632,6 +635,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
 * [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 * [Dragula] (https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
+
 
 ## Maps
 
@@ -659,6 +663,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 
+
 ## ES6
 
 * [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
@@ -666,9 +671,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
+
 ## SDK
 
 * [javascript-sdk-design](http://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
+
 
 ## Misc
 
@@ -677,8 +684,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 
+
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
+
 
 # Other Awesome Lists
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
@@ -695,6 +704,14 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [instanceofpro/awesome-backbone](https://github.com/instanceofpro/awesome-backbone)
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 
+
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+
+# License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
