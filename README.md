@@ -197,6 +197,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Jade](https://github.com/jadejs/jade) - Robust, elegant, feature rich template engine for nodejs.
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
+* [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 
 ## Data Visualization
 *Data visualization tools for the web.*
