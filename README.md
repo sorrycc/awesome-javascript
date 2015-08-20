@@ -220,6 +220,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [cubism](https://github.com/square/cubism) - A D3 plugin for visualizing time series.
 * [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [vega](https://github.com/trifacta/vega) - A visualization grammar.
+* [processing.js](http://processingjs.org/) - Processing.js makes your data visualizations work using web standards and without any plug-ins
 * [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization.
 * [rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs.
 * [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
