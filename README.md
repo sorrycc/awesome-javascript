@@ -155,6 +155,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [batman.js](http://batmanjs.org/) - The best JavaScript framework for Rails developers.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
+* [electron](http://electron.atom.io/) - Build cross platform desktop applications with javascript.
 * [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 * [vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
@@ -317,8 +318,8 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## String
 *String Libraries.*
 
-* [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
-* [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library. 
+* [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
+* [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
 * [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 * [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
