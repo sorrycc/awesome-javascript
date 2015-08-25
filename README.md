@@ -10,6 +10,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
   * [Non-MVC Frameworks](#non-mvc-frameworks)
+  * [Node CMS Frameworks](#node-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
@@ -182,6 +183,18 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [famous](https://github.com/Famous/famous) - A JavaScript framework for everyone who wants to build beautiful experiences on any device.
 
+## Node-Powered CMS Frameworks
+
+* [KeystoneJS](https://github.com/keystonejs/keystone) - powerful CMS and web app framework
+* [Reaction Commerce](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design
+* [Ghost](https://github.com/tryghost/Ghost) - simple, powerful publishing platform
+* [Apostrophe](https://github.com/punkave/apostrophe) - CMS with content editing and essential services
+* [We.js](https://github.com/wejs/we/) - framework for real time apps, sites or blogs
+* [Hatch.js](https://github.com/inventures/hatchjs) - CMS platform with social features.
+* [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
+* [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers
+* [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor
+* [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
@@ -318,7 +331,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 *String Libraries.*
 
 * [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
-* [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library. 
+* [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
 * [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 * [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
