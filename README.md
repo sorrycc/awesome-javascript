@@ -427,6 +427,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Media
 
 * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
+* [Canvid](https://github.com/gka/canvid) - canvid is a tiny dependency free library for playback of relatively short videos on canvas elements. 
 
 
 ## Voice Command
