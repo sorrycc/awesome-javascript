@@ -9,7 +9,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
-  * [Non-MVC Frameworks](#non-mvc-frameworks)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
