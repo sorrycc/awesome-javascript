@@ -711,6 +711,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
+* [JSbooks](https://github.com/revolunet/JSbooks)
 
 
 # Other Awesome Lists
