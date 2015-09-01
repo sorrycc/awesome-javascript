@@ -9,7 +9,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
-  * [Non-MVC Frameworks](#non-mvc-frameworks)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Data Visualization](#data-visualization)
@@ -177,11 +176,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
-
-
-## Non-MVC Frameworks
-
-* [famous](https://github.com/Famous/famous) - A JavaScript framework for everyone who wants to build beautiful experiences on any device.
 
 ## Node-Powered CMS Frameworks
 
