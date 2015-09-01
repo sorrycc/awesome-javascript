@@ -300,6 +300,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
+* [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 
 
 ## Data Structure
