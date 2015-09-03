@@ -345,6 +345,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [money.js](https://github.com/josscrowcroft/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript
+* [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript
 
 
 ## Storage
