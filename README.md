@@ -706,6 +706,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
+* [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation
 
 
 # Worth Reading
