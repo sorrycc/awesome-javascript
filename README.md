@@ -335,7 +335,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [URI.js](https://github.com/medialize/URI.js/) - Javascript URL mutation library.
 * [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
-
+* [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings
 
 ## Number
 
