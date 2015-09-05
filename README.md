@@ -152,6 +152,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## MVC Frameworks and Libraries
 
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
+* [aurelia](https://aurelia.io) - A Javascript client framework for mobile, desktop and web.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [batman.js](http://batmanjs.org/) - The best JavaScript framework for Rails developers.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
