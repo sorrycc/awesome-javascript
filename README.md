@@ -392,6 +392,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
 * [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+* [EventMachine](https://github.com/Addvilz/eventmachine) - EventMachine is a event emitter with UI friendly handler execution mechanism.
 
 
 ## Routing
