@@ -725,6 +725,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [instanceofpro/awesome-backbone](https://github.com/instanceofpro/awesome-backbone)
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
+* [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 
 
 # Contributing
