@@ -673,6 +673,7 @@ http://www.listjs.com
 * [kartograph.js](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps.
 * [mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
+* [OpenLayers3](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 
 ## Video/Audio
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
