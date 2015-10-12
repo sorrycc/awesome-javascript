@@ -544,6 +544,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [unslider](https://github.com/idiot/unslider) - The simplest jQuery slider there is.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 * [slidr](https://github.com/bchanx/slidr) - add some slide effects.
+* [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 
 ## Range Sliders
 
