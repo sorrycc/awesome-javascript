@@ -31,7 +31,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Security](#security)
     * [Log](#log)
     * [RegExp](#regexp)
-    * [Media](#media)
     * [Voice Command](#voice-command)
     * [API](#api)
     * [Vision Detection](#vision-detection)
@@ -273,6 +272,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent ~/.vimrc
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor.
 * [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
+* [strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser <http://strapdownjs.com/>
+* [MarkItUp!](https://github.com/markitup/1.x) - markItUp! Universal markup editor 1.x <http://markitup.jaysalvat.com/home/>
+* [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
+* [hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
+* [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails HTML5 WYSIWYG editor
+
 
 
 ## Files
@@ -425,10 +430,6 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## RegExp
 * [RegEx101](https://regex101.com/#javascript) - Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.
 
-## Media
-
-* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
-
 
 ## Voice Command
 
@@ -476,6 +477,10 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS.
+* [jquery.smoothState.js](https://github.com/weblinc/jquery.smoothState.js) - A jQuery plugin to stop the jank of page loads.
+* [pro-bars](https://github.com/joemottershaw/pro-bars) - Stylish progress bars that animate as they enter the viewport.
+
+
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
@@ -522,6 +527,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications.
 * [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system.
 * [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for javascript.
+* [simply-toast](https://github.com/ericprieto/simply-toast) - Simple toast messages for jQuery (and friends)
+
 
 
 ## Sliders
@@ -582,6 +589,9 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [selectize.js](https://github.com/brianreavis/selectize.js) - Selectize is the hybrid of a textbox and select box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 * [select2](https://github.com/ivaynberg/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [chosen](https://github.com/harvesthq/chosen) - A library for making long, unwieldy select boxes more friendly.
+* [Multi-Column-Select](https://github.com/djsmithme/Multi-Column-Select) - Jquery/CSS Multi Column Select Box
+* [Select-or-Die](https://github.com/vestman/Select-or-Die) - Yet another jQuery plugin to style select elements. Demo at http://vst.mn/selectordie/
+
 
 ### File Uploader
 
@@ -622,6 +632,7 @@ http://www.listjs.com
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 * [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
+* [login-signup-modal](https://github.com/CodyHouse/login-signup-modal) - A modal window to login/signup into your website
 
 
 ## Scroll
@@ -637,12 +648,17 @@ http://www.listjs.com
 * [jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+* [scroll-up-bar](https://github.com/eduardomb/scroll-up-bar) - The scroll up bar plugin (jQuery) hides the top bar when scrolling down, and show it when scrolling up. It's specially useful on mobile interfaces to save some precious space.
+* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Easily reveal elements as they enter the viewport.
+
+
+
 
 
 ## Menu
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
-* [jQuery contextMenu] (https://github.com/medialize/jQuery-contextMenu) -  contextMenu manager.
+* [jQuery contextMenu](https://github.com/medialize/jQuery-contextMenu) -  contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
@@ -665,7 +681,7 @@ http://www.listjs.com
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
 * [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
-* [Dragula] (https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
+* [Dragula](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
 
 
 ## Maps
@@ -687,6 +703,11 @@ http://www.listjs.com
  * [flowplayer](https://github.com/flowplayer/flowplayer) -  The HTML5 video player for the web
  <http://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement) -  HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://mediaelementjs.com/>
+ * [Vide](https://github.com/VodkaBears/Vide) - Easy as hell jQuery plugin for video backgrounds.
+ * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
+ * [BigVideo.js](https://github.com/dfcb/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
+
+
 
 
 
@@ -699,6 +720,10 @@ http://www.listjs.com
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 * [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
+* [ElementTransitions.js](https://github.com/dan-silver/ElementTransitions.js) - Simple transitions for web pages
+* [flippant.js](https://github.com/mintchaos/flippant.js) - A mini dependancy-less UI lib for flipping over DOM nodes. <http://labs.mintchaos.com/flippant.js/>
+
+
 
 
 ## Image Processing
@@ -730,6 +755,17 @@ http://www.listjs.com
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
 * [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation
+* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way
+* [jsTodoTxt](https://github.com/jmhobbs/jsTodoTxt) - JavaScript parser for todo.txt formatted text files.
+* [Antiquify.js](https://github.com/matthewgonzalez/Antiquify.js) - Antiquify text with this unique jQuery plugin. Randomly applied aberrations makes text look like it came straight off an old, antique printing press.
+* [annotator](https://github.com/openannotation/annotator/) - Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
+* [js-beautify](https://github.com/einars/js-beautify) -  Beautifier for javascript <http://jsbeautifier.org/>
+
+
+
+
+
+
 
 
 # Worth Reading
