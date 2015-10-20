@@ -273,6 +273,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent ~/.vimrc
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor.
 * [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
+* [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
 
 
 ## Files
@@ -600,7 +601,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 * [list.js](https://github.com/javve/list.js) -  Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-http://www.listjs.com 
+http://www.listjs.com
 
 
 ## Tips
