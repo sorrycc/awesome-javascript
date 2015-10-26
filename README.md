@@ -363,6 +363,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
 * [DB.js] (https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
+* [lawnchair.js] (https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
 
 
 ## Color
