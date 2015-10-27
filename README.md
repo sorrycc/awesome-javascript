@@ -11,6 +11,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
+  * [Articles/Posts](#articles-and-posts)
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
   * [Editors](#editors)
@@ -207,6 +208,10 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
+
+## Articles and Posts
+
+* [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 
 ## Data Visualization
 *Data visualization tools for the web.*
