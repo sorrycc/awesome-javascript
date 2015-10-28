@@ -198,6 +198,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
 * [handlebars.js](https://github.com/wycats/handlebars.js/) - An extension to the Mustache templating language.
+* [nunjucks](https://mozilla.github.io/nunjucks/) - A rich and powerful templating language for JavaScript from Mozilla.
 * [hogan.js](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language.
 * [doT](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers.
 * [dustjs](https://github.com/linkedin/dustjs/) - Asynchronous templates for the browser and node.js.
