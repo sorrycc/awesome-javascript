@@ -766,6 +766,7 @@ http://www.listjs.com
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
+* [ericelliott/essential-javascript-links](https://github.com/ericelliott/essential-javascript-links)
 
 
 # Contributing
