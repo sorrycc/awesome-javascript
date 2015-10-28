@@ -111,6 +111,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [mocha](https://github.com/visionmedia/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
 * [jasmine](https://github.com/pivotal/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
+* [buster](http://docs.busterjs.org) - A browser/node.js testing toolkit.
 * [jest](http://github.com/facebook/jest) - Painless Javascript Unit Testing.
 * [prova](http://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 * [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
