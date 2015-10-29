@@ -611,7 +611,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 * [list.js](https://github.com/javve/list.js) -  Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 http://www.listjs.com
-
+* [Jets.js](https://github.com/NeXTs/Jets.js) - Native CSS search engine http://nexts.github.io/Jets.js/
 
 ## Tips
 
