@@ -647,7 +647,7 @@ http://www.listjs.com
 * [jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
-
+* [roll](https://github.com/williamngan/roll) - A little js library (~8kb, no dependencies) to help you keep track of position, scrolling, and pagination.
 
 ## Menu
 
