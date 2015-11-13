@@ -73,7 +73,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for javascript.
 * [Bower](https://github.com/bower/bower) - A package manager for the web.
-* [component](https://github.com/component/component) - Client package management for building better web applications.
+* [component](https://github.com/componentjs/component) - Client package management for building better web applications.
 * [spm](https://github.com/spmjs/spm) - Brand new static package manager.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
 * [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
@@ -108,18 +108,18 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ### Frameworks
 
-* [mocha](https://github.com/visionmedia/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
-* [jasmine](https://github.com/pivotal/jasmine) - DOM-less simple JavaScript testing framework.
+* [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
+* [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
-* [jest](http://github.com/facebook/jest) - Painless Javascript Unit Testing.
-* [prova](http://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
+* [jest](https://github.com/facebook/jest) - Painless Javascript Unit Testing.
+* [prova](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 * [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
 
 ### Assertion
 
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-* [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs, and mocks for JavaScript.
-* [expect.js](https://github.com/LearnBoost/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+* [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
+* [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 
 ### Coverage
 
@@ -135,7 +135,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
-* [nightwatch](https://github.com/beatfactor/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
+* [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 * [yolpo](http://www.yolpo.com) - A statement-by-statement javascript interpreter in the browser.
 
@@ -160,11 +160,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
 * [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
-* [vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
+* [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 * [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 * [espresso.js](https://github.com/techlayer/espresso.js) - A minimal javascript library for crafting user interfaces.
-* [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
+* [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [riot](https://github.com/riot/riot) - React-like library, but with very small size.
@@ -174,7 +174,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views.
 * [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
 * [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
-    * [derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
+    * [derby-awesome](https://github.com/russll/awesome-derby) - A collection of awesome derby components
 * [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding.
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
@@ -249,11 +249,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 * [dimple.js](http://dimplejs.org) -  Easy charts for business analytics powered by d3
 * [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
-* [epoch](https://github.com/fastly/epoch) - A general purpose real-time charting library.
+* [epoch](https://github.com/epochjs/epoch) - A general purpose real-time charting library.
 * [c3](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 
-There're also some great commercial libraries, like [amchart](http://www.amcharts.com/), [plotly](https://www.plot.ly/), and [highchart](http://www.highcharts.com/).
+There're also some great commercial libraries, like [amchart](http://www.amcharts.com/), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
 
 
 ## Timeline
@@ -265,10 +265,10 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Editors
 
 * [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-* [CodeMirror](https://github.com/marijnh/CodeMirror) - In-browser code editor.
+* [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor.
 * [esprima](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 * [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
-* [medium-editor](https://github.com/daviferreira/medium-editor) - Medium.com WYSIWYG editor clone.
+* [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone.
 * [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 * [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
 * [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
@@ -298,7 +298,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
-* [mesh](https://github.com/mojo-js/mesh.js) - Streamable data synchronization utility.
+* [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 
 
 ## Reactive Programming
@@ -316,7 +316,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [immutable-js](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
 * [mori](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
-* [buckets](https://github.com/mauriciosantos/buckets) - A complete, fully tested and documented data structure library written in JavaScript.
+* [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 
 
@@ -328,7 +328,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [jquery-timeago](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
 * [timezone-js](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 * [date](https://github.com/MatthewMueller/date) - Date() for humans.
-* [ms.js](https://github.com/guille/ms.js) - Tiny millisecond conversion utility.
+* [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 
 
 ## String
@@ -375,7 +375,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
 * [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-* [color](https://github.com/harthur/color) - JavaScript color conversion and manipulation library.
+* [color](https://github.com/MoOx/color) - JavaScript color conversion and manipulation library.
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
@@ -384,7 +384,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
 
-* [i18next](https://github.com/jamuhl/i18next) - internationalisation (i18n) with javascript the easy way.
+* [i18next](https://github.com/i18next/i18next) - internationalisation (i18n) with javascript the easy way.
 * [polyglot](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
@@ -468,7 +468,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Code highlighting
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter.
-* [PrismJS](https://github.com/LeaVerou/prism) - Lightweight, robust, elegant syntax highlighting.
+* [PrismJS](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
 
 ## Loading Status
@@ -582,7 +582,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [pickadate.js](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 * [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode.
 * [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
-* [fullcalendar](https://github.com/arshaw/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
+* [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
 * [rome](https://github.com/bevacqua/rome) - A customizable date (and time) picker. Dependency free, opt-in UI.
 * [datedropper](https://github.com/felicegattuso/datedropper) -  datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
 
@@ -590,7 +590,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ### Select
 
 * [selectize.js](https://github.com/brianreavis/selectize.js) - Selectize is the hybrid of a textbox and select box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
-* [select2](https://github.com/ivaynberg/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+* [select2](https://github.com/select2/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [chosen](https://github.com/harvesthq/chosen) - A library for making long, unwieldy select boxes more friendly.
 
 ### File Uploader
@@ -598,7 +598,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&amp;drop support, progress bar, validation and preview images, audio and video for jQuery.
 * [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 * [flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
-* [fine-uploader](https://github.com/Widen/fine-uploader) - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.
+* [fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.
 * [FileAPI](https://github.com/mailru/FileAPI) - A set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [plupload](https://github.com/moxiecode/plupload) - A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.
 
@@ -652,7 +652,7 @@ http://www.listjs.com
 ## Menu
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
-* [jQuery contextMenu] (https://github.com/medialize/jQuery-contextMenu) -  contextMenu manager.
+* [jQuery contextMenu] (https://github.com/swisnl/jQuery-contextMenu) -  contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
@@ -692,11 +692,11 @@ http://www.listjs.com
 
 ## Video/Audio
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
- * [html5media](https://github.com/etianen/html5media) -  Enables <video> and <audio> tags in all major browsers. <http://html5media.info/>
+ * [html5media](https://github.com/etianen/html5media) -  Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
  * [Play-em JS](https://github.com/adrienjoly/playemjs) -  Play'em is a javascript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
  * [polyplayer](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API
  * [flowplayer](https://github.com/flowplayer/flowplayer) -  The HTML5 video player for the web
- <http://flowplayer.org/>
+ <https://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement) -  HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
 
@@ -731,7 +731,7 @@ http://www.listjs.com
 
 ## SDK
 
-* [javascript-sdk-design](http://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
+* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
 
 
 ## Misc
@@ -762,7 +762,7 @@ http://www.listjs.com
 * [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
 * [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
-* [instanceofpro/awesome-backbone](https://github.com/instanceofpro/awesome-backbone)
+* [instanceofpro/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
