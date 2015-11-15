@@ -37,6 +37,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [API](#api)
     * [Vision Detection](#vision-detection)
     * [Browser Detection](#browser-detection)
+    * [Compiler-compiler](#compiler-compiler)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -464,6 +465,9 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [bowser](https://github.com/ded/bowser) - a browser detector
 
+## Compiler-compiler
+
+* [jison](https://github.com/zaach/jison) - Bison in JavaScript.
 
 ## Code highlighting
 
