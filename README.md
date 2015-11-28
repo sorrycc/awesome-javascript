@@ -701,7 +701,6 @@ http://www.listjs.com
  * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
 
 
-
 ## Animations
 
 * [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
@@ -732,6 +731,7 @@ http://www.listjs.com
 ## SDK
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
+* [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 
 
 ## Misc
