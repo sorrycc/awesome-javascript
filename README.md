@@ -767,6 +767,7 @@ http://www.listjs.com
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 * [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
+* [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 
 
 # Contributing
