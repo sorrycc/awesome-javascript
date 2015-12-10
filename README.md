@@ -585,6 +585,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
 * [rome](https://github.com/bevacqua/rome) - A customizable date (and time) picker. Dependency free, opt-in UI.
 * [datedropper](https://github.com/felicegattuso/datedropper) -  datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
+* [knockout-daterangepicker](https://github.com/sensortower/daterangepicker) -  Date Range Picker plugin with week / month / quarter / year selection.
 
 
 ### Select
