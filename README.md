@@ -119,6 +119,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js](https://github.com/LearnBoost/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+* [js-must](https://github.com/moll/js-must) - An assertion library for JavaScript and Node.js with a friendly BDD syntax (awesome.must.be.true()).
 
 ### Coverage
 
