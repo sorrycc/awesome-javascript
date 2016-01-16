@@ -372,6 +372,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
 * [DB.js] (https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
 * [lawnchair.js] (https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
+* [sql.js] (https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 
 ## Color
