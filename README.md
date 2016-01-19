@@ -205,7 +205,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
-* [Jade](https://github.com/jadejs/jade) - Robust, elegant, feature rich template engine for nodejs.
+* [Jade](https://github.com/pugjs/jade) - Robust, elegant, feature rich template engine for nodejs.
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
@@ -255,7 +255,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [c3](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 
-There're also some great commercial libraries, like [amchart](http://www.amcharts.com/), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
+There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
 
 
 ## Timeline
@@ -380,7 +380,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
 * [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-* [color](https://github.com/MoOx/color) - JavaScript color conversion and manipulation library.
+* [color](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
@@ -641,7 +641,7 @@ http://www.listjs.com
 
 ## Scroll
 
-* [scrollMonitor](https://github.com/sakabako/scrollMonitor) - A simple and fast API to monitor elements as you scroll.
+* [scrollMonitor](https://github.com/stutrek/scrollMonitor) - A simple and fast API to monitor elements as you scroll.
 * [headroom](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
 * [iscroll](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.
