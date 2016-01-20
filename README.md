@@ -61,6 +61,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [ES6](#es6)
   * [SDK](#sdk)
   * [Misc](#misc)
+  * [Podcasts](#podcasts)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
@@ -749,6 +750,8 @@ http://www.listjs.com
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
 * [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation
 
+## Podcasts
+* [JavaScript Air](http://javascriptair.com) - The live video broadcast podcast all about JavaScript and the Web platform.
 
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
