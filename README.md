@@ -752,6 +752,7 @@ http://www.listjs.com
 
 ## Podcasts
 * [JavaScript Air](http://javascriptair.com) - The live video broadcast podcast all about JavaScript and the Web platform.
+* [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
