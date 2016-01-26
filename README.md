@@ -15,6 +15,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
   * [Editors](#editors)
+  * [Documentation](#documentation)
   * Utilities
     * [Files](#files)
     * [Functional Programming](#functional-programming)
@@ -283,6 +284,23 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor.
 * [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 * [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
+
+## Documentation
+* [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
+* [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
+* [docco](http://jashkenas.github.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
+* [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
+* [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
+* [dox](https://github.com/visionmedia/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
+* [jsdox](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+* [YUIDoc](http://yui.github.com/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
+* [coddoc](http://doug-martin.github.com/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
+* [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
+* [Using JSDoc](http://usejsdoc.org/)
+* [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
+* [Daux.io](http://daux.io/) is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
+* [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
+
 
 
 ## Files
