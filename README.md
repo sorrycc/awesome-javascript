@@ -147,6 +147,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## QA Tools
 
 * [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+* [Codacy](https://www.codacy.com/) - Automated Code Review for JavaScript
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
 * [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
