@@ -38,6 +38,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [API](#api)
     * [Vision Detection](#vision-detection)
     * [Browser Detection](#browser-detection)
+    * [Benchmark](#benchmark)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -489,6 +490,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [bowser](https://github.com/ded/bowser) - a browser detector
 
+## Benchmark
+
+* [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
+* [match](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## Code highlighting
 
