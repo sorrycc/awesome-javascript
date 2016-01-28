@@ -493,7 +493,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Benchmark
 
 * [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-* [match](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+* [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## Code highlighting
 
