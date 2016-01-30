@@ -183,6 +183,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
+* [redux](http://redux.js.org) - Redux is a predictable state container for JavaScript apps.
 
 ## Node-Powered CMS Frameworks
 
