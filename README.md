@@ -662,6 +662,7 @@ http://www.listjs.com
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 * [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
+* [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
 
 
 ## Scroll
