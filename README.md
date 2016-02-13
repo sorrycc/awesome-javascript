@@ -304,7 +304,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
 
-* [RxJs](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
+* [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
 * [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
@@ -767,6 +767,7 @@ http://www.listjs.com
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 * [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
+* [ichpuchtli/awesome-rxjs](https://github.com/ichpuchtli/awesome-rxjs)
 
 
 # Contributing
