@@ -372,6 +372,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Number
 
 * [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
+* [chance.js](https://github.com/victorquinn/chancejs) - Random generator helper in Javascript. Can generate numbers, strings etc.
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 * [money.js](https://github.com/josscrowcroft/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
