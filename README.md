@@ -705,6 +705,7 @@ http://www.listjs.com
 ## Frameworks
 
 * [Semantic UI](http://semantic-ui.com/) - UI Kit with lots of themes and elements
+* [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 
 
 ## Gesture
