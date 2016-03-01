@@ -456,6 +456,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [console.log-wrapper](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
 * [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 * [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends
+* [debugger.js](https://github.com/tushariscoolster/debugger.js/) – Cross browser console for desktop and mobile devices
+
 
 
 ## RegExp
