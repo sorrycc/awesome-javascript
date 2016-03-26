@@ -291,6 +291,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 
 ## Documentation
+
 * [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 * [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
 * [docco](http://jashkenas.github.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
@@ -303,7 +304,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
 * [Using JSDoc](http://usejsdoc.org/)
 * [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
-* [Daux.io](http://daux.io/) is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
 
@@ -465,10 +465,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [RegExr](http://regexr.com) - HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 * [RegExpBuilder](https://github.com/thebinarysearchtree/regexpbuilderjs) - Create regular expressions using chained methods.
 
-## Media
-
-* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
-
 
 ## Voice Command
 
@@ -520,6 +516,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS.
+
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
@@ -728,6 +725,7 @@ http://www.listjs.com
 * [OpenLayers3](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 
 ## Video/Audio
+
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
  * [html5media](https://github.com/etianen/html5media) -  Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
  * [Play-em JS](https://github.com/adrienjoly/playemjs) -  Play'em is a javascript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
@@ -736,7 +734,9 @@ http://www.listjs.com
  <https://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement) -  HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
-
+ * [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+ * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
+* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
 
 ## Animations
 
@@ -780,6 +780,11 @@ http://www.listjs.com
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
 * [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation
+* [countdown.js](https://github.com/gumroad/countdown.js) - Super simple countdowns.
+* [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+* [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+* [impress.js](https://github.com/bartaz/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+* [spoiler-alert](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
 
 ## Podcasts
 * [JavaScript Air](http://javascriptair.com) - The live video broadcast podcast all about JavaScript and the Web platform.
