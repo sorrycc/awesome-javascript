@@ -762,6 +762,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
+ * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io 
 
 ## Typography
 
