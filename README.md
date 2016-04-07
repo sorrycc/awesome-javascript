@@ -592,7 +592,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [slidr](https://github.com/bchanx/slidr) - add some slide effects.
 * [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 * [Glide.js](https://github.com/jedrzejchalubek/Glide.js) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast. 
-* [slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 
 ## Range Sliders
