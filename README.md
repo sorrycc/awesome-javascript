@@ -791,6 +791,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
+* [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html 
+* [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/ 
 
 ## Image Processing
 
