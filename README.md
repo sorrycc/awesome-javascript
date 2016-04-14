@@ -342,7 +342,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
-
+* [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
