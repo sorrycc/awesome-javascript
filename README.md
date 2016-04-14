@@ -260,6 +260,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [epoch](https://github.com/epochjs/epoch) - A general purpose real-time charting library.
 * [c3](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
+* [joint.js](http://www.jointjs.com/) - HTML 5 Flow Charts, BPMN And Other Diagrams.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
 
