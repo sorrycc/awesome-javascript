@@ -173,6 +173,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
+* [react-native-desktop](https://github.com/ptmt/react-native-desktop) - React Native for OS X.
 * [riot](https://github.com/riot/riot) - React-like library, but with very small size.
 * [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
 * [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
