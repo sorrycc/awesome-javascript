@@ -226,6 +226,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
+  * [nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
 * [pykcharts.js](https://github.com/pykih/PykCharts.js) - Well designed d3.js charting without the complexity of d3.js.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
