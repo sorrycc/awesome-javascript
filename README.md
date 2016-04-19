@@ -187,7 +187,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
-* [ionic](https://github.com/driftyco/ionic) - A Open source HTML5 Mobile Framework for building cross-platform hybrid native apps and mobile websites with HTML, JavaScript, and CSS
+* [Ionic](https://github.com/driftyco/ionic) - A Open source HTML5 Mobile Framework for building cross-platform hybrid native apps and mobile websites with HTML, JavaScript, and CSS.
+* [NativeScript](https://www.nativescript.org) - NativeScript lets you develop truly native apps for iOS and Android from a single code base of JavaScript or TypeScript, XML and CSS.
 
 ## Node-Powered CMS Frameworks
 
