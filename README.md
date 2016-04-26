@@ -187,6 +187,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
+* [domvm](https://github.com/leeoniya/domvm) - A fast, pure-js, isomorphic view layer & router in 16k. Small API surface, no tooling, no dependencies, IE9+.
 
 ## Node-Powered CMS Frameworks
 
