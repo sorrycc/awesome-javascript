@@ -821,7 +821,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Misc
 
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes.
-* [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for <picture>, srcset, sizes
+* [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes.
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
