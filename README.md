@@ -313,6 +313,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [mdn.io](https://github.com/lazd/mdn.io) - uses Google's "I'm feeling lucky" functionality to redirect you to the first search result of the Mozilla Developer Network
+* [Dash 3](https://kapeli.com/dash) - Instant offline access to 150+ API documentation sets for Mac.
 
 
 ## Files
