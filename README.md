@@ -108,6 +108,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
+* [Gulp](https://github.com/gulpjs/gulp) - Streaming build system with over 2400 available plugins
 
 
 ## Testing Frameworks
