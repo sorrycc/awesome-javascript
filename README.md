@@ -844,7 +844,7 @@ http://www.listjs.com
 * [JSbooks](https://github.com/revolunet/JSbooks)
 * [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
 * [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
-
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/) - A book series on JavaScript.
 
 # Other Awesome Lists
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
