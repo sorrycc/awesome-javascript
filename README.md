@@ -312,7 +312,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Using JSDoc](http://usejsdoc.org/)
 * [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
-
+* [mdn.io](https://github.com/lazd/mdn.io) - uses Google's "I'm feeling lucky" functionality to redirect you to the first search result of the Mozilla Developer Network
 
 
 ## Files
