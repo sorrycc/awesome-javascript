@@ -221,6 +221,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## Articles and Posts
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
+* [Javascript Anomaly Page](https://github.com/ufostation/javascript.anomaly) - this page created for javascript beginner programmers to show not obvious code behaviors, let's call all of them "anomalies"
 
 ## Data Visualization
 *Data visualization tools for the web.*
