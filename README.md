@@ -156,7 +156,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
-
+* [examplejs](https://github.com/zswang/examplejs) - A tool for converting example code into test cases.
 
 ## MVC Frameworks and Libraries
 
@@ -217,6 +217,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [jhtmls](https://github.com/zswang/jhtmls) - JS and HTML alternate javascript template.
 
 ## Articles and Posts
 
@@ -321,7 +322,11 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 * [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
-
+* [PDF.js](https://mozilla.github.io/pdf.js/) - A general-purpose, web standards-based platform for parsing and rendering PDFs.
+* [PSD.js](https://github.com/meltingice/psd.js) - A Photoshop PSD file parser for NodeJS and browsers.
+* [JSZip](https://stuk.github.io/jszip/) - A library for creating, reading and editing .zip files with Javascript, with a lovely and simple API.
+* [gif.js](http://jnordberg.github.io/gif.js/) - Full-featured JavaScript GIF encoder that runs in your browser..
+* [protobuf.js](https://github.com/dcodeIO/protobuf.js) - Protocol Buffers for JavaScript. Finally.
 
 ## Functional Programming
 *Functional programming libraries to extend JavaScript’s capabilities.*
@@ -341,7 +346,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [RxJs](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
 * [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
-* [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
+* [Highland](http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 
@@ -389,7 +394,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript
-
+* [long.js](https://github.com/dcodeIO/long.js) - A Long class for representing a 64 bit two's-complement integer.
 
 ## Storage
 
@@ -403,9 +408,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
-* [DB.js] (https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
-* [lawnchair.js] (https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-* [sql.js] (https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+* [DB.js](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
+* [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
+* [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 
 ## Color
@@ -416,7 +421,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
-* [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [Vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -697,7 +702,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Menu
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
-* [jQuery contextMenu] (https://github.com/swisnl/jQuery-contextMenu) -  contextMenu manager.
+* [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) -  contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
@@ -734,7 +739,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
 * [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
-* [Dragula] (https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
+* [Dragula](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
 
 
 ## Maps
