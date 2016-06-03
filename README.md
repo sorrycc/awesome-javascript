@@ -312,8 +312,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Using JSDoc](http://usejsdoc.org/)
 * [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
-
-
+* [Source](https://sourcejs.com/) is a dynamic Style Guide platform. It allows to combine multiple project UI component libraries, based on any technologies.
+* [mdcss](https://github.com/jonathantneal/mdcss) lets you easily create and maintain style guides with CSS comments using Markdown.
+* [StyleDoc](http://usestyledoc.org/) - format specification for JavaDoc-like comments in CSS, LESS, SASS etc.
 
 ## Files
 *Libraries for working with files.*
