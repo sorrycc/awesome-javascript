@@ -535,6 +535,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization.
 * [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 * [validatr](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
+* [dominar.js](https://github.com/garygreen/dominar) - Lightweight bootstrap validator inspired by Laravel.
 * [BootstrapValidator](https://github.com/nghuuphuoc/bootstrapvalidator) - The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3.
 * [is.js](https://github.com/arasatasaygin/is.js) -  Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
