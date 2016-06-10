@@ -295,6 +295,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [wysihtml5](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
 * [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar
+* [ContentTools](https://github.com/GetmeUK/ContentTools) - A small Open Source WYSIWYG editor for HTML content.
 
 
 ## Documentation
