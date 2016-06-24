@@ -364,7 +364,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [date](https://github.com/MatthewMueller/date) - Date() for humans.
 * [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 * [countdown.js](https://github.com/gumroad/countdown.js) - Super simple countdowns.
-* [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) to used to format date with `*** time ago` statement.
+* [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 
 ## String
 *String Libraries.*
