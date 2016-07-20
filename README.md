@@ -344,6 +344,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
+* [nx-observe](https://github.com/RisingStack/nx-observe) - Data binding with ES6 Proxies.
+Bind on anything without special syntax.
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
@@ -592,7 +594,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 * [slidr](https://github.com/bchanx/slidr) - add some slide effects.
 * [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
-* [Glide.js](https://github.com/jedrzejchalubek/Glide.js) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast. 
+* [Glide.js](https://github.com/jedrzejchalubek/Glide.js) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 
 ## Range Sliders
@@ -762,7 +764,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
- * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io 
+ * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
 
 ## Typography
 
@@ -792,8 +794,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
-* [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html 
-* [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/ 
+* [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
+* [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
 
 ## Image Processing
 
@@ -837,7 +839,7 @@ http://www.listjs.com
 ## Podcasts
 * [JavaScript Air](http://javascriptair.com) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
-* [Javascript Jabber](https://devchat.tv/js-jabber/) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more. 
+* [Javascript Jabber](https://devchat.tv/js-jabber/) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
