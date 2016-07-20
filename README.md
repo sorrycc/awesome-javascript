@@ -89,7 +89,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## Loaders
 *Module or loading system for JavaScript.*
 
-* [RequireJS](https://github.com/jrburke/requirejs) - A file and module loader for JavaScript.
+* [RequireJS](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
 * [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [SeaJS](https://github.com/seajs/seajs) - A Module Loader for the Web.
 * [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
@@ -138,7 +138,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
-* [casperjs](https://github.com/n1k0/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
+* [casperjs](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
@@ -212,7 +212,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
-* [Jade](https://github.com/pugjs/jade) - Robust, elegant, feature rich template engine for nodejs.
+* [Jade](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs.
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
@@ -225,11 +225,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## Data Visualization
 *Data visualization tools for the web.*
 
-* [d3](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG.
+* [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
 * [pykcharts.js](https://github.com/pykih/PykCharts.js) - Well designed d3.js charting without the complexity of d3.js.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
-* [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
+* [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 * [fabric.js](https://github.com/kangax/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
@@ -259,7 +259,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [dimple.js](http://dimplejs.org) -  Easy charts for business analytics powered by d3
 * [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 * [epoch](https://github.com/epochjs/epoch) - A general purpose real-time charting library.
-* [c3](https://github.com/masayuki0812/c3) - D3-based reusable chart library.
+* [c3](https://github.com/c3js/c3) - D3-based reusable chart library.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
@@ -301,14 +301,14 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 * [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
-* [docco](http://jashkenas.github.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
+* [docco](http://jashkenas.github.io/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 * [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 * [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
-* [dox](https://github.com/visionmedia/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
+* [dox](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 * [jsdox](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
-* [YUIDoc](http://yui.github.com/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
-* [coddoc](http://doug-martin.github.com/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
-* [sphinx](http://sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
+* [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
+* [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
+* [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
 * [Using JSDoc](http://usejsdoc.org/)
 * [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
@@ -377,14 +377,14 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
 * [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
 * [URI.js](https://github.com/medialize/URI.js/) - Javascript URL mutation library.
-* [jsurl](https://github.com/Mikhus/jsurl) - Lightweight URL manipulation with JavaScript.
+* [jsurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 * [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings
 
 ## Number
 
 * [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
-* [chance.js](https://github.com/victorquinn/chancejs) - Random generator helper in Javascript. Can generate numbers, strings etc.
+* [chance.js](https://github.com/chancejs/chancejs) - Random generator helper in Javascript. Can generate numbers, strings etc.
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 * [money.js](https://github.com/josscrowcroft/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
@@ -586,8 +586,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [vegas](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
 * [Sequence](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
 * [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
-* [impress.js](https://github.com/bartaz/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-* [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+* [impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+* [bespoke.js](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 * [Strut](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
@@ -595,7 +595,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 * [slidr](https://github.com/bchanx/slidr) - add some slide effects.
 * [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
-* [Glide.js](https://github.com/jedrzejchalubek/Glide.js) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast. 
+* [Glide.js](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast. 
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 
 ## Range Sliders
@@ -708,7 +708,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
-* [DataTables](http://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
+* [DataTables](https://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
 * [floatThead](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
 * [Masonry](http://masonry.desandro.com/) - A cascading grid layout library.
 * [Packery](http://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
@@ -834,13 +834,13 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [list.js](https://github.com/javve/list.js) -  Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - A Filter & Sort Plugin
-* [grid](https://github.com/uberVU/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
+* [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 
 ## Podcasts
-* [JavaScript Air](http://javascriptair.com) - The live video broadcast podcast all about JavaScript and the Web platform.
+* [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
-* [Javascript Jabber](https://devchat.tv/js-jabber/) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more. 
+* [Javascript Jabber](https://devchat.tv/js-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more. 
 
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
@@ -867,7 +867,7 @@ http://www.listjs.com
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 * [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
-* [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews)
+* [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 
 # Contributing
