@@ -14,6 +14,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Articles/Posts](#articles-and-posts)
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
+    * [Spreadsheet](#spreadsheet)
   * [Editors](#editors)
   * [Documentation](#documentation)
   * Utilities
@@ -270,7 +271,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript.
 * [timesheet.js](https://github.com/semu/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
+## Spreadsheet
 
+* [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
+ 
 ## Editors
 
 * [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
