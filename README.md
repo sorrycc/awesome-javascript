@@ -40,6 +40,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Vision Detection](#vision-detection)
     * [Browser Detection](#browser-detection)
     * [Benchmark](#benchmark)
+    * [Machine Learning](#machine-learning)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -499,6 +500,15 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten.
+
+
+## Machine Learning
+
+* [ConvNetJS](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+* [DN2A](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
+* [Brain.js](https://github.com/harthur/brain) - Neural networks in JavaScript.
+* [Mind.js](https://github.com/stevenmiller888/mind) - A flexible neural network library.
+* [Synaptic.js](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
 
 
 ## Browser Detection
