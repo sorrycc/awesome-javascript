@@ -329,6 +329,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 * [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+* [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 
 
 ## Functional Programming
@@ -749,6 +750,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Fluid-Squares](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
  * [Mobile-First-RWD](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
+ * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
 
 ## Gesture
 
