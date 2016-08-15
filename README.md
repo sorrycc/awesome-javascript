@@ -158,6 +158,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
+* [ui-automation-chrome-extension](https://github.com/zalando/ui-automation-chrome-extension) - Chrome extension to help you to write automated Selenium tests faster.
 
 
 ## MVC Frameworks and Libraries
