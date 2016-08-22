@@ -377,6 +377,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 * [countdown.js](https://github.com/gumroad/countdown.js) - Super simple countdowns.
 * [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
+* [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 
 ## String
 *String Libraries.*
