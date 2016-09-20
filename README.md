@@ -845,6 +845,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## SDK
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
+* [minio-js](https://github.com/minio/minio-js) - Minio JavaScript Library for Amazon S3 compatible cloud storage.
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 
 
