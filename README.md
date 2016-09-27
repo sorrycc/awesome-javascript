@@ -345,6 +345,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
+* [onfire.js](https://github.com/hustcc/onfire.js) - onfire.js is a simple events dispatcher subscribe / publish library (just 0.9kb). simple and usefull.
 
 
 ## Reactive Programming
@@ -393,6 +394,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jsurl](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 * [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings
+* [pys](https://github.com/hustcc/pys) - A tiny(< 1Kb) javascript library to engance String.substring / Array.slice with python slice style.
 
 ## Number
 
