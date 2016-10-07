@@ -372,7 +372,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *Fake data generators libraries to generate fake data.*
 
 * [casual](https://github.com/boo1ean/casual) - Fake data generator for javascript. Can generate strings, numbers, dates, internet data, address, payment data etc. Easily extensible and supports localization.
-* [faker](https://github.com/boo1ean/casual) - Generate massive amounts of fake data in Node.js and the browser. Supports localization.
+* [faker.js](https://github.com/marak/Faker.js) - Generate massive amounts of fake data in Node.js and the browser. Supports localization.
 * [chance.js](https://github.com/chancejs/chancejs) - Random generator helper in Javascript. Can generate numbers, strings etc.
 
 ## Date
