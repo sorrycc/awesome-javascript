@@ -22,7 +22,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
     * [Data Structure](#data-structure)
-    * [Data Generators](#fake-data-generators)
+    * [Fake Data Generators](#fake-data-generators)
     * [Date](#date)
     * [String](#string)
     * [Number](#number)
