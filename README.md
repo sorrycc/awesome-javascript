@@ -22,6 +22,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
     * [Data Structure](#data-structure)
+    * [Data Generators](#fake-data-generators)
     * [Date](#date)
     * [String](#string)
     * [Number](#number)
@@ -280,7 +281,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Spreadsheet
 
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
- 
+
 ## Editors
 
 * [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
@@ -354,7 +355,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [RxJs](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
 * [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
-* [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
+* [Highland](http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
@@ -367,6 +368,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 
+## Fake Data Generators
+*Fake data generators libraries to generate fake data.*
+
+* [casual](https://github.com/boo1ean/casual) - Fake data generator for javascript. Can generate strings, numbers, dates, internet data, address, payment data etc. Easily extensible and supports localization.
+* [faker](https://github.com/boo1ean/casual) - Generate massive amounts of fake data in Node.js and the browser. Supports localization.
+* [chance.js](https://github.com/chancejs/chancejs) - Random generator helper in Javascript. Can generate numbers, strings etc.
 
 ## Date
 *Date Libraries.*
@@ -398,7 +405,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Number
 
 * [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
-* [chance.js](https://github.com/chancejs/chancejs) - Random generator helper in Javascript. Can generate numbers, strings etc.
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 * [money.js](https://github.com/josscrowcroft/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
@@ -419,9 +425,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
-* [DB.js] (https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
-* [lawnchair.js] (https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-* [sql.js] (https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+* [DB.js](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
+* [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
+* [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 
 ## Color
@@ -432,7 +438,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
-* [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [Vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -622,7 +628,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 * [slidr](https://github.com/bchanx/slidr) - add some slide effects.
 * [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
-* [Glide.js](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast. 
+* [Glide.js](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 
 ## Range Sliders
@@ -793,7 +799,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
- * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io 
+ * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
 
 ## Typography
 
@@ -823,8 +829,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
-* [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html 
-* [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/ 
+* [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
+* [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
 
 ## Image Processing
 
@@ -868,7 +874,7 @@ http://www.listjs.com
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
-* [Javascript Jabber](https://devchat.tv/js-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more. 
+* [Javascript Jabber](https://devchat.tv/js-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
