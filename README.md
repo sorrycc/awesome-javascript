@@ -659,7 +659,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ### Select
 
-* [selectize.js](https://github.com/brianreavis/selectize.js) - Selectize is the hybrid of a textbox and select box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
+* [selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 * [select2](https://github.com/select2/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [chosen](https://github.com/harvesthq/chosen) - A library for making long, unwieldy select boxes more friendly.
 
