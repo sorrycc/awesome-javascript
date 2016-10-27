@@ -272,6 +272,12 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent ~/.vimrc
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor.
 * [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
+* [strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser <http://strapdownjs.com/>
+* [MarkItUp!](https://github.com/markitup/1.x) - markItUp! Universal markup editor 1.x <http://markitup.jaysalvat.com/home/>
+* [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
+* [hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
+* [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails HTML5 WYSIWYG editor
+
 
 
 ## Files
