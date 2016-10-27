@@ -527,6 +527,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications.
 * [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system.
 * [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for javascript.
+* [simply-toast](https://github.com/ericprieto/simply-toast) - Simple toast messages for jQuery (and friends)
+
 
 
 ## Sliders
