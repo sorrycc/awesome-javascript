@@ -632,6 +632,7 @@ http://www.listjs.com
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 * [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
+* [login-signup-modal](https://github.com/CodyHouse/login-signup-modal) - A modal window to login/signup into your website
 
 
 ## Scroll
