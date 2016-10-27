@@ -31,7 +31,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Security](#security)
     * [Log](#log)
     * [RegExp](#regexp)
-    * [Media](#media)
     * [Voice Command](#voice-command)
     * [API](#api)
     * [Vision Detection](#vision-detection)
@@ -425,10 +424,6 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 ## RegExp
 * [RegEx101](https://regex101.com/#javascript) - Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.
 
-## Media
-
-* [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
-
 
 ## Voice Command
 
@@ -687,6 +682,11 @@ http://www.listjs.com
  * [flowplayer](https://github.com/flowplayer/flowplayer) -  The HTML5 video player for the web
  <http://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement) -  HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://mediaelementjs.com/>
+ * [Vide](https://github.com/VodkaBears/Vide) - Easy as hell jQuery plugin for video backgrounds.
+ * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
+ * [BigVideo.js](https://github.com/dfcb/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
+
+
 
 
 
