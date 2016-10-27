@@ -720,6 +720,10 @@ http://www.listjs.com
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 * [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
+* [ElementTransitions.js](https://github.com/dan-silver/ElementTransitions.js) - Simple transitions for web pages
+* [flippant.js](https://github.com/mintchaos/flippant.js) - A mini dependancy-less UI lib for flipping over DOM nodes. <http://labs.mintchaos.com/flippant.js/>
+
+
 
 
 ## Image Processing
