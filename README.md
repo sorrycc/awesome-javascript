@@ -648,12 +648,17 @@ http://www.listjs.com
 * [jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+* [scroll-up-bar](https://github.com/eduardomb/scroll-up-bar) - The scroll up bar plugin (jQuery) hides the top bar when scrolling down, and show it when scrolling up. It's specially useful on mobile interfaces to save some precious space.
+* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Easily reveal elements as they enter the viewport.
+
+
+
 
 
 ## Menu
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
-* [jQuery contextMenu] (https://github.com/medialize/jQuery-contextMenu) -  contextMenu manager.
+* [jQuery contextMenu](https://github.com/medialize/jQuery-contextMenu) -  contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
@@ -676,7 +681,7 @@ http://www.listjs.com
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
 * [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
-* [Dragula] (https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
+* [Dragula](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
 
 
 ## Maps
