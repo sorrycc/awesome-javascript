@@ -753,6 +753,17 @@ http://www.listjs.com
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
 * [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation
+* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way
+* [jsTodoTxt](https://github.com/jmhobbs/jsTodoTxt) - JavaScript parser for todo.txt formatted text files.
+* [Antiquify.js](https://github.com/matthewgonzalez/Antiquify.js) - Antiquify text with this unique jQuery plugin. Randomly applied aberrations makes text look like it came straight off an old, antique printing press.
+* [annotator](https://github.com/openannotation/annotator/) - Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
+* [js-beautify](https://github.com/einars/js-beautify) -  Beautifier for javascript <http://jsbeautifier.org/>
+
+
+
+
+
+
 
 
 # Worth Reading
