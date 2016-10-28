@@ -125,6 +125,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [prova](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 * [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
 * [Protractor](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
+* [tape](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
 
 ### Assertion
 
