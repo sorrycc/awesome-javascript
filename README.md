@@ -581,7 +581,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
 * [jwerty](https://github.com/keithamus/jwerty) - Awesome handling of keyboard events.
-
+* [keycode-js](https://github.com/kabirbaidhya/keycode-js) - A lightweight javascript package with Key Code constants.
 
 ## Tours And Guides
 
