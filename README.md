@@ -798,6 +798,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
+ * [vocalizer.js](https://github.com/atifazam/vocalizer) - A super simple javascript plugin to help others say your name correctly.
 
 ## Typography
 
