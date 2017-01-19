@@ -683,6 +683,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Countable](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
+* [list.js](https://github.com/javve/list.js) -  Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+http://www.listjs.com 
 
 
 ## Tips
