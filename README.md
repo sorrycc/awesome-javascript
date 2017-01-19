@@ -868,6 +868,7 @@ http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - A Filter & Sort Plugin
 * [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
+* [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
