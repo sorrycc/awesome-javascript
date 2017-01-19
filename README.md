@@ -726,6 +726,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
+* [scroll-up-bar](https://github.com/eduardomb/scroll-up-bar) - The scroll up bar plugin (jQuery) hides the top bar when scrolling down, and show it when scrolling up. It's specially useful on mobile interfaces to save some precious space.
+* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Easily reveal elements as they enter the viewport.
 
 
 ## Menu
