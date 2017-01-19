@@ -790,14 +790,15 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Play-em JS](https://github.com/adrienjoly/playemjs) -  Play'em is a javascript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
  * [polyplayer](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API
  * [flowplayer](https://github.com/flowplayer/flowplayer) -  The HTML5 video player for the web
- <https://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement) -  HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
  * [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
+ * [Vide](https://github.com/VodkaBears/Vide) - Easy as hell jQuery plugin for video backgrounds.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
+ * [BigVideo.js](https://github.com/dfcb/BigVideo.js) - The jQuery Plugin for Big Background Video (and Images)
 
 ## Typography
 
