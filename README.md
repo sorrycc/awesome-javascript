@@ -810,7 +810,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
  * [FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
  * [Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript `<span>` injector for radical Web Typography
-
+ * [brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
+ * [jQSlickWrap](https://github.com/jasonwyatt/jQSlickWrap) - Slick text wrapping for jQuery
 
 ## Animations
 
