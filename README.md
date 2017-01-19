@@ -764,6 +764,16 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Mobile-First-RWD](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
+ * [startbootstrap](http://startbootstrap.com/template-categories/all/) - Free software licensed Bootstrap templates for any project.
+ * [Bootflat](https://github.com/bootflat/bootflat.github.io) - Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
+ * [geo-bootstrap](https://github.com/divshot/geo-bootstrap) - A timeless Twitter Bootstrap theme built for the modern web.
+ * [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A Twitter Bootstrap theme to make webpages look like they are from the 1980s. 
+ * [metro-bootstrap](https://github.com/TalksLab/metro-bootstrap) - Twitter Bootstrap with Metro style
+ * [jquery-ui-bootstrap](https://github.com/addyosmani/jquery-ui-bootstrap) -  A jQuery UI theme based on Twitter Bootstrap http://jquery-ui-bootstrap.github.io/jquery-ui-bootstrap/ 
+ * [Delta-jQuery-UI-Theme](https://github.com/kiandra/Delta-jQuery-UI-Theme) - Delta jQuery UI Theme
+ * [almost-flat-ui](https://github.com/websymphony/almost-flat-ui) - Almost Flat UI Theme for Foundation Framework
+
+
 
 ## Gesture
 
