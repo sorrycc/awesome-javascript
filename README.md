@@ -516,6 +516,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten.
+* [jquery.scanner.js](https://github.com/leeoniya/jquery.scanner.js) - a nifty barcode scanning framework
 
 
 ## Machine Learning
