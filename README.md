@@ -869,6 +869,11 @@ http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - A Filter & Sort Plugin
 * [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
+* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way
+* [jsTodoTxt](https://github.com/jmhobbs/jsTodoTxt) - JavaScript parser for todo.txt formatted text files.
+* [Antiquify.js](https://github.com/matthewgonzalez/Antiquify.js) - Antiquify text with this unique jQuery plugin. Randomly applied aberrations makes text look like it came straight off an old, antique printing press.
+* [annotator](https://github.com/openannotation/annotator/) - Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.
+* [js-beautify](https://github.com/einars/js-beautify) -  Beautifier for javascript <http://jsbeautifier.org/>
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
