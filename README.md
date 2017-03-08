@@ -163,6 +163,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
+* [SideCI](https://sideci.com) - An automated code reviewing tool with GitHub.
 
 
 ## MVC Frameworks and Libraries
