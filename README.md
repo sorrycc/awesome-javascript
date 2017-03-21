@@ -127,6 +127,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Protractor](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 * [tape](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+* [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 
 ### Assertion
 
