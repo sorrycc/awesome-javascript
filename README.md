@@ -742,6 +742,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 * [DataTables](https://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
 * [floatThead](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
+* [FancyGrid](http://fancygrid.com) - JavaScript grid library with charts integration and server communication..
 * [Masonry](http://masonry.desandro.com/) - A cascading grid layout library.
 * [Packery](http://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](http://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
