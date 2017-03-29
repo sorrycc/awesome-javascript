@@ -261,6 +261,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [nvd3](https://github.com/novus/nvd3) - Build re-usable charts and chart components for d3.js
 * [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
 * [heatmap.js](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps.
+* [heatmap-table](https://github.com/muyiwaolurin/heatmap-table) - A heatmap plugin that works with HTML tables to create chart, it uses colour to visualize a two-dimensional matrix of values.
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery javascript library to generate small sparkline charts directly in the browser.
 * [xCharts](https://github.com/tenxer/xCharts) - A D3-based library for building custom charts and graphs.
 * [trianglify](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js
