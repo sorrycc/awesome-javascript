@@ -713,6 +713,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 * [swipebox](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
 * [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
+* [tingle.js](https://robinparisi.github.io/tingle/) - A minimalist and easy-to-use modal plugin written in pure JavaScript
 
 ## Scroll
 
