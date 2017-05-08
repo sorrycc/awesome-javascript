@@ -227,7 +227,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
-* [swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [swig](https://github.com/paularmstrong/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [Nunjucks](https://mozilla.github.io/nunjucks/) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
 ## Articles and Posts
 
