@@ -198,6 +198,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+* [Inferno](https://github.com/infernojs/inferno) - Insanely fast, 9kb React-like library for building high-performance user interfaces on both the client and server.
 
 ## Node-Powered CMS Frameworks
 
