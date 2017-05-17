@@ -127,6 +127,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Protractor](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 * [tape](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+* [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 
 ### Assertion
 
@@ -272,6 +273,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [c3](https://github.com/c3js/c3) - D3-based reusable chart library.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 * [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+* [GraphicsJS](https://www.graphicsjs.org) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
 
@@ -868,6 +870,7 @@ http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - A Filter & Sort Plugin
 * [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
+* [survey.js](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
 * [python-range](https://github.com/Gothdo/range) - JavaScript implementation of the Python's range() function.
 
 ## Podcasts
