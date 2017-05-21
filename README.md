@@ -4,6 +4,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
+  * [Component managment](#component-managment)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
   * [Testing Frameworks](#testing-frameworks)
@@ -89,6 +90,10 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
+
+## Component Managment
+
+* [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Anular, Node etc.) across applications.
 
 ## Loaders
 *Module or loading system for JavaScript.*
