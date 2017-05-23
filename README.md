@@ -42,6 +42,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Browser Detection](#browser-detection)
     * [Benchmark](#benchmark)
     * [Machine Learning](#machine-learning)
+    * [Web Workers](#web-workers)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -528,6 +529,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Mind.js](https://github.com/stevenmiller888/mind) - A flexible neural network library.
 * [Synaptic.js](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
 
+## Web Workers
+
+* [simple-web-worker](https://github.com/israelss/simple-web-worker) - An utility to simplify the use of web workers.
 
 ## Browser Detection
 
