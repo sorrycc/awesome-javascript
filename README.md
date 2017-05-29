@@ -401,7 +401,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Number
 
-* [autoNumeric.js](https://github.com/BobKnothe/autoNumeric) - A javascript library that provides live *as-you-type* formatting for international numbers and currencies.
+* [autoNumeric.js](https://github.com/autoNumeric/autoNumeric) - A javascript library that provides live *as-you-type* formatting for international numbers and currencies.
 * [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
 * [chance.js](https://github.com/chancejs/chancejs) - Random generator helper in Javascript. Can generate numbers, strings etc.
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
