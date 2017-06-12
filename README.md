@@ -837,7 +837,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
-
+* [PhotoEditor SDK](https://github.com/imgly/pesdk-html5-build) - A fully customizable photo editor for your app. Integrate the photo editor into your own HTML5, iOS or Android app - in minutes!
 
 ## ES6
 
@@ -847,6 +847,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+
 
 
 ## SDK
