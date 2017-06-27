@@ -212,6 +212,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers
 * [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform
+* [Directus](https://github.com/directus/directus/) - Open-Source Headless CMS and API
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
