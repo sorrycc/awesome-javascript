@@ -373,6 +373,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mori](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
+* [DataCollection.js](https://github.com/thestorefront/DataCollection.js) - synchronous filtration, sorting, and manipulation of large datasets
 
 
 ## Date
