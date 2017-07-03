@@ -50,6 +50,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Tours And Guides](#tours-and-guides)
     * [Notifications](#notifications)
     * [Sliders](#sliders)
+    * [Galleries](#galleries)
     * [Range Sliders](#range-sliders)
     * [Form Widgets](#form-widgets)
     * [Tips](#tips)
@@ -631,6 +632,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 * [Glide.js](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
+
+
+## Galleries
+* [nanogallery2](https://github.com/nanostudio-org/nanogallery2) - javascript library for building beautiful, modern and high-quality image galleries.
+
 
 ## Range Sliders
 
