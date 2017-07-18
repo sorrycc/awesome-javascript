@@ -138,7 +138,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ### Coverage
 
-* [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
+* [istanbul](https://github.com/istanbuljs/istanbuljs) - Yet another JS code coverage tool (version 2 with babeljs support)
 * [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
 * [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 
