@@ -99,7 +99,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
-* [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
+* [script.js](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
 * [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
@@ -613,7 +613,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
 * [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
-* [slidesJs](http://www.slidesjs.com) - Is a ressponsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions
+* [slidesJs](http://www.slidesjs.com) - Is a responsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions
 * [FlexSlider](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
 * [unslider](https://github.com/idiot/unslider) - The simplest jQuery slider there is.
 * [sly](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
@@ -829,7 +829,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 * [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework
-* [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
+* [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possibilities
 * [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
 
