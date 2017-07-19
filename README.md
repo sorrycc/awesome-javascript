@@ -439,7 +439,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
-* [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [Vibrant.js](https://github.com/jariz/vibrant.js) - Extract prominent colors from an image.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
