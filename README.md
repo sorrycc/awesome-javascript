@@ -33,6 +33,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Routing](#routing)
     * [Security](#security)
     * [Log](#log)
+    * [Console](#Console)
     * [RegExp](#regexp)
     * [Media](#media)
     * [Voice Command](#voice-command)
@@ -490,6 +491,11 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 * [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends
 * [storyboard](http://guigrpa.github.io/storyboard/) - Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.
+
+## Console
+
+* [console-importer](https://github.com/pd4d10/console-importer) - Easily import JS and CSS resources from Chrome console.
+
 
 ## RegExp
 * [RegEx101](https://regex101.com/#javascript) - Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.
