@@ -391,6 +391,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## String
 *String Libraries.*
 
+* [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 * [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
 * [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
