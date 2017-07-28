@@ -181,7 +181,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [espresso.js](https://github.com/techlayer/espresso.js) - A minimal javascript library for crafting user interfaces.
 * [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
-* [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications. 
+* [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications.
 * [preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
@@ -500,6 +500,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Voice Command
 
 * [annyang](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
+* [Artyom.js](https://github.com/sdkcarlos/artyom.js) - A JavaScript library for adding voice commands and speech synthesis with the Web Speech API.
 * [voix.js](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 
