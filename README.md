@@ -199,6 +199,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+* [Bobril](http://bobril.com/) - Component oriented framework inspired by Mithril and ReactJs. 
 
 ## Node-Powered CMS Frameworks
 
