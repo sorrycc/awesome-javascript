@@ -157,6 +157,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## QA Tools
 
+* [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 * [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
