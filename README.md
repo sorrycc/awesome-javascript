@@ -392,6 +392,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## String
 *String Libraries.*
 
+* [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 * [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
 * [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
@@ -601,6 +602,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Notifications
 
+* [iziToast](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 * [messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app.
 * [noty](https://github.com/needim/noty) - jQuery notification plugin.
 * [pnotify](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.
