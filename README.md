@@ -511,6 +511,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 * [amygdala](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
+* [flyby](https://github.com/dadleyy/flyby) - A standalone port of angular's awesome [ngresource](https://github.com/angular/angular.js/blob/master/src/ngResource/resource.js) module for non-angular projects.
 
 ## Streaming
 
