@@ -562,6 +562,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+* [jquery.smoothState.js](https://github.com/weblinc/jquery.smoothState.js) - A jQuery plugin to stop the jank of page loads.
+* [pro-bars](https://github.com/joemottershaw/pro-bars) - Stylish progress bars that animate as they enter the viewport.
+
+
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
