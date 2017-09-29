@@ -804,6 +804,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
+ * [projekktor](https://github.com/frankyghost/projekktor) -  The Free Web Video Player 
+ * [nexusUI](https://github.com/lsu-emdm/nexusUI) -  JavaScript toolkit of HTML5 audio interfaces. http://nexusosc.com 
 
 ## Typography
 
