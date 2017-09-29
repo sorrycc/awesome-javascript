@@ -312,6 +312,11 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [wysihtml5](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
 * [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar
+* [strapdown](https://github.com/arturadib/strapdown) - Instant and elegant Markdown documents in the browser <http://strapdownjs.com/>
+* [MarkItUp!](https://github.com/markitup/1.x) - markItUp! Universal markup editor 1.x <http://markitup.jaysalvat.com/home/>
+* [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
+* [hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
+* [mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails HTML5 WYSIWYG editor
 
 
 ## Documentation
