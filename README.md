@@ -891,6 +891,7 @@ http://www.listjs.com
 
 # Other Awesome Lists
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
+* [moklick/frontend-stuff](https://github.com/moklick/frontend-stuff)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
