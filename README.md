@@ -656,6 +656,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - A pure javascript mask input.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete/
+* [C4all](https://github.com/c4all/c4all) - an easy to use comment field.
 
 ### Calendar
 
