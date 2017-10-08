@@ -275,6 +275,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 * [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 * [GraphicsJS](https://www.graphicsjs.org) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
+* [dygraphs](http://dygraphs.com/) - A highly customizable JavaScript charting library that allows users to explore and interpret dense data sets.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
 
@@ -689,7 +690,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Countable](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
-* [Tangle](http://worrydream.com/Tangle/) - A JavaScript library for creating reactive documents. Interactively explore possibilities, play with parameters, and see the document update immediately).
 
 
 ## Tips
