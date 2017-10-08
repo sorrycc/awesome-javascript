@@ -750,7 +750,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Masonry](http://masonry.desandro.com/) - A cascading grid layout library.
 * [Packery](http://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](http://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
-* [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox
+* [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
+* [gridstack.js](http://gridstackjs.com/) - A drag-and-drop multi-column grid plugin for widget layout.
 
 ## Frameworks
 
