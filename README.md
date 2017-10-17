@@ -8,6 +8,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Bundlers](#bundlers)
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
+  * [Custom Elements](#custom-elements)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
@@ -166,6 +167,13 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
 
+## Custom Elements
+
+* [Polymer](https://www.polymer-project.org/)
+* [Slim.js](http://slimjs.com)
+* [SkateJS](https://github.com/skatejs/skatejs)
+* [X-Tag](https://x-tag.github.io/)
+* [Stencil](https://stenciljs.com/)
 
 ## MVC Frameworks and Libraries
 
