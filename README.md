@@ -699,8 +699,9 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [tooltipster](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
 * [simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
-* [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
+* [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin.
 * [hint.css](https://github.com/chinchang/hint.css) - A tooltip library in CSS for your lovely websites.
+* [zTip](https://github.com/awps/zTip) - A free, ultra lightweight jQuery Tooltip plugin. It is only ~1KB gzipped.
 
 ## Modals and Popups
 
