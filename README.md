@@ -909,11 +909,13 @@ http://www.listjs.com
 * [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/4nLcpb15dDGjqky6oYYGz6f7/sorrycc/awesome-javascript'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/4nLcpb15dDGjqky6oYYGz6f7/sorrycc/awesome-javascript.svg' />
+</a>
 
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
 
 # License
 
