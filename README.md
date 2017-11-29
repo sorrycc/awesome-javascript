@@ -839,6 +839,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
 * [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
+* [TypeIt](https://typeitjs.com) - The most versatile animated typing utility on the planet.
 
 ## Image Processing
 
