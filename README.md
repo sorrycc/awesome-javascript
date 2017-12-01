@@ -185,7 +185,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [espresso.js](https://github.com/techlayer/espresso.js) - A minimal javascript library for crafting user interfaces.
 * [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
-* [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications. 
+* [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications.
 * [preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
@@ -685,6 +685,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.
 * [FileAPI](https://github.com/mailru/FileAPI) - A set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [plupload](https://github.com/moxiecode/plupload) - A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.
+* [file-upload-with-preview](https://github.com/promosis/file-upload-with-preview) - A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework. Initialize multiple instances for multiple uploads on the same page.
 
 ### Other
 
