@@ -331,6 +331,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Beautiful docs](http://beautifuldocs.com/) is a documentation viewer based on markdown files.
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
+* [Code to go](https://codetogo.io) - Find updated snippets for common JavaScript use cases.
 
 
 
