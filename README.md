@@ -112,6 +112,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
+* [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
 
 ## Testing Frameworks
