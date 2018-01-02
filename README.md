@@ -282,8 +282,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Timeline
 
-* [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript.
-* [timesheet.js](https://github.com/semu/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
+* [TimelineJS v3](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+* [timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ## Spreadsheet
 
