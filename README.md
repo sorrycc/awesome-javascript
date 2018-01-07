@@ -365,6 +365,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Highland](http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
+* [Dob](https://github.com/dobjs/dob) - TFRP library for state management, by using proxy, grammar is more simple and clear.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
 
 ## Data Structure
