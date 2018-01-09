@@ -200,6 +200,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+* [durandal](http://durandaljs.com/)MVC? MVP? MVVM? Yes. Messaging, navigation, modals? Check. Durandal has the features you need to build whatever apps you can imagine; the apps of today and of tomorrow. Let your creativity soar.
 
 ## Node-Powered CMS Frameworks
 
