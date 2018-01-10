@@ -753,6 +753,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Packery](http://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](http://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox
+* [FancyGrid](https://fancygrid.com) - JavaScript grid library with charts integration and server communication. It also has form module.
 
 ## Frameworks
 
