@@ -355,7 +355,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
-
+* [funcadelic](https://github.com/cowboyd/funcadelic.js) - The extensible, educational, and joyful FP typeclass library for JavaScript that includes all your favorite friends like Functor, Monoid, and Applicative. You never dreamed working in an functional style could be such fun!
 
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
