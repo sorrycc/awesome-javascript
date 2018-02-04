@@ -11,6 +11,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
+  * [HTML Parsers](#html-parsers)
   * [Articles/Posts](#articles-and-posts)
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
@@ -230,6 +231,13 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+
+## HTML Parsers
+
+* [parse5](https://github.com/inikulin/parse5) - HTML5-compliant parsing/serialization toolset for Node.js.
+* [htmlparser2](https://github.com/fb55/htmlparser2) - Forgiving HTML and XML parser.
+* [Himalaya](https://github.com/andrejewski/himalaya) - Fast, lightweight HTML parser and serializer.
+* [Hyntax](https://github.com/nik-garmash/hyntax) - HTML parser for Node.js and browser with support of streaming.
 
 ## Articles and Posts
 
