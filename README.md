@@ -352,6 +352,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
+* [sanctuary](https://sanctuary.js.org) - Refuge from unsafe JavaScript
+* [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
+* [partial.lenses](https://github.com/calmm-js/partial.lenses) - Partial lenses is a comprehensive, high-performance optics library for JavaScript
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
@@ -367,6 +370,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
+* [recycle](https://github.com/recyclejs/recycle) - Convert functional/reactive object description using RxJS into React component
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
