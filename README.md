@@ -859,6 +859,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## SDK
 
+* [Countly Web SDK](https://github.com/countly/countly-sdk-web) - Web tracker SDK for Countly open source mobile & web analytics and marketing platform
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 
