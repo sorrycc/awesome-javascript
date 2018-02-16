@@ -695,6 +695,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 * [floatl](https://github.com/richardvenneman/floatl) - A pragmatic implementation of the Float Label Pattern for the web.
 
+
 ## Tips
 
 * [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
