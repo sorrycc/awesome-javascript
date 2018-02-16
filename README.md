@@ -693,7 +693,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Countable](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
-
+* [floatl](https://github.com/richardvenneman/floatl) - A pragmatic implementation of the Float Label Pattern for the web.
 
 ## Tips
 
