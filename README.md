@@ -139,6 +139,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ### Mocking
 
 * [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
+* [Mockttp](https://github.com/pimterry/mockttp) - HTTP/HTTPS stubbing & mocking tool for integration testing.
 
 ### Coverage
 
