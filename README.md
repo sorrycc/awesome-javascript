@@ -295,6 +295,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
 * [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor.
 * [esprima](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+* [Froala Editor](https://github.com/froala/wysiwyg-editor) - A WYSIWYG HTML editor created by developers, for developers.
 * [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 * [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone.
 * [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown).
