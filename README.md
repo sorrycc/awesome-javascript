@@ -90,6 +90,12 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
 
+## Component distribution
+*Hosting, consumption and distribution of source code components.*
+
+* [bit](https://github.com/teambit/bit) - Share and sync source code components between projects.
+
+
 ## Loaders
 *Module or loading system for JavaScript.*
 
