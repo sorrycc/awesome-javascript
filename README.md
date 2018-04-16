@@ -28,7 +28,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Storage](#storage)
     * [Color](#color)
     * [I18n And L10n](#i18n-and-l10n)
-    * [Class](#class)
     * [Control Flow](#control-flow)
     * [Routing](#routing)
     * [Security](#security)
@@ -451,13 +450,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [i18next](https://github.com/i18next/i18next) - internationalisation (i18n) with javascript the easy way.
 * [polyglot](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
-
-## Class
-
-* [ClassManager](https://github.com/kogarashisan/ClassManager) - One of the fastest and most convenient class systems in the world
-* [klass](https://github.com/ded/klass) - A utility for creating expressive classes in JavaScript.
-* [augment](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
-
 
 ## Control Flow
 
