@@ -433,6 +433,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [DB.js](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
 * [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
 * [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+* [persistme](https://github.com/mesmerised/persistme) - localStorage on steroids 💉
 
 
 ## Color
