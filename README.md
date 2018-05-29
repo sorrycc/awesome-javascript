@@ -21,6 +21,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Files](#files)
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
+    * [Algorithms](#algorithms)
     * [Data Structure](#data-structure)
     * [Date](#date)
     * [String](#string)
@@ -367,6 +368,11 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
+
+## Algorithms
+*Algorithms libraries to get a more scientific method.*
+
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
