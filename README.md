@@ -9,6 +9,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
+  * [GraphQL](#graph-ql)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Articles/Posts](#articles-and-posts)
@@ -201,6 +202,60 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+
+## GraphQL
+
+#### GraphQL Spec
+
+* [GraphQL Official Site](http://graphql.org/)
+* [GraphQL Specification](http://facebook.github.io/graphql/)
+* [GraphQL Specification Repository](https://github.com/facebook/graphql)
+
+
+#### GraphQL Tools
+* [GraphCMS - The GraphQL Headless CMS](https://graphcms.com)
+* [GraphQL CMS](https://github.com/sarkistlt/graphql-auto-generating-cms)
+* [Mongoose schema To GraphQL](https://github.com/sarkistlt/mongoose-schema-to-graphql)
+* [GraphQL bridge to REST API](https://github.com/dacz/apollo-bridge-link)
+* [GraphQL Playground - GraphQL IDE for better development workflows](https://github.com/graphcool/graphql-playground)
+
+#### GraphQL Tutorials
+
+##### React
+* [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
+* [Build an online text RPG with React and GraphQL](https://learn.pusher.com/rpg)
+
+##### Angular
+
+* [GraphQL Introduction](https://www.howtographql.com/angular-apollo/0-introduction/)
+* [Apollo Client for Angular, GraphQL](https://medium.com/codingthesmartway-com-blog/apollo-client-for-angular-making-use-of-graphql-8d9a571e020c)
+* [GraphQL, Angular Example](https://github.com/graphcool-examples/angular-graphql)
+* [Building Application with GraphQL](https://blog.hackages.io/fullstack-tutorial-with-graphql-angular-apollo-introduction-af478b041656)
+
+##### Vue
+
+* [GraphQL Introduction](https://github.com/Akryum/vue-apollo)
+* [Build a blog with GraphQL, Vue](https://scotch.io/tutorials/build-a-blog-with-vue-graphql-and-apollo-client)
+* [Examples with GraphQL](https://medium.com/@lachlanmiller_52885/graphql-basics-and-practical-examples-with-vue-6b649b9685e0)
+
+##### VanillaJS
+
+* [GraphQL-Vanilla-JS](https://github.com/nwoodthorpe/GraphQL-Vanilla-JS)
+
+
+#### Server Integration
+* [express-graphql - Create a GraphQL HTTP server with **Express**](https://github.com/graphql/express-graphql)
+* [graphql-yoga - Easiest way to run a GraphQL server](https://github.com/graphcool/graphql-yoga)
+
+#### Database Integration
+
+* [graffiti - Node.js GraphQL ORM](https://github.com/RisingStack/graffiti)
+* [Hasura - Build scalable GraphQL applications on Postgres in minutes. Create tables and relationships and get GraphQL APIs instantly with fine grained permissions and access control.](https://hasura.io/) 
+* [Prisma - a performant open-source GraphQL ORM-like * layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
+* [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models](https://github.com/brysgo/graphql-bookshelf)
+
+
 
 ## Node-Powered CMS Frameworks
 
