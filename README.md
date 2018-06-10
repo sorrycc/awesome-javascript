@@ -79,6 +79,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for javascript.
 * [Bower](https://github.com/bower/bower) - A package manager for the web.
+* [Bit](https://bitsrc.io) - A component and module management and distribution system to scale code reuse and reduce overhead.
 * [component](https://github.com/componentjs/component) - Client package management for building better web applications.
 * [spm](https://github.com/spmjs/spm) - Brand new static package manager.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
