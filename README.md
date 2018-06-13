@@ -376,6 +376,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mori](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
+* [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option, Either and Future, and combinators. Implemented in Typescript but supports javascript too.
 
 
 ## Date
