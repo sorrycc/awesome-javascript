@@ -911,7 +911,7 @@ http://www.listjs.com
 
 # Contributing
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Read the [contribution guidelines](.github/CONTRIBUTING.md) first.
 
 # License
 
