@@ -230,11 +230,12 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
-* [swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [swig](http://node-swig.github.io/swig-templates/) - A simple, powerful, and extendable JavaScript Template Engine.
 
 ## Articles and Posts
 
-* [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
+* [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706)
+- Article about concepts of JavaScript Functional. (in Portuguese)
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 
 ## Data Visualization
@@ -242,7 +243,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
-* [pykcharts.js](https://github.com/pykih/PykCharts.js) - Well designed d3.js charting without the complexity of d3.js.
+* [pykcharts.js](http://www.pykih.com/products/pykCharts) - Well designed d3.js charting without the complexity of d3.js.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
@@ -277,9 +278,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [c3](https://github.com/c3js/c3) - D3-based reusable chart library.
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - A framework for building 3D games with HTML 5 and WebGL.
 * [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
-* [GraphicsJS](https://www.graphicsjs.org) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 
-There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
+There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com), [plotly](https://plot.ly/), and [highchart](https://www.highcharts.com/).
 
 
 ## Timeline
