@@ -503,6 +503,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## API
 
+* [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 * [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 * [amygdala](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
@@ -833,6 +834,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
 * [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
+* [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## Image Processing
 
