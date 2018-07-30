@@ -837,6 +837,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Anime.js](http://animejs.com) - A JavaScript animation engine http://animejs.com.
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web http://mojs.io.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+* [between.js](https://github.com/sasha240100/between.js) - A lightweight ES6 tweening library.
 
 ## Image Processing
 
