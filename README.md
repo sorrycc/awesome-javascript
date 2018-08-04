@@ -417,6 +417,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript
+* [Length.js](https://github.com/appalaszynski/length.js) - JavaScript library for length units conversion
 
 
 ## Storage
