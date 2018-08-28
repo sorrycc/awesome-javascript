@@ -236,6 +236,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
+* [What Every JavaScript Developer Should Know About Floating Points](https://modernweb.com/what-every-javascript-developer-should-know-about-floating-points/) - A Must read for every Javascript developer
 
 ## Data Visualization
 *Data visualization tools for the web.*
