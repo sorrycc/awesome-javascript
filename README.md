@@ -133,8 +133,12 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [Enzyme](http://airbnb.io/enzyme/index.html) - Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
-* [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+
+### Mocking
+
+* [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
+* [Mockttp](https://github.com/pimterry/mockttp) - HTTP/HTTPS stubbing & mocking tool for integration testing.
 
 ### Coverage
 
