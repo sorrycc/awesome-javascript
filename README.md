@@ -775,6 +775,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
 * [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 * [Dragula](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
+* [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+).
 
 
 ## Maps
