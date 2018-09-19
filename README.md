@@ -158,6 +158,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## QA Tools
 
 * [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+* [puppeteer](https://pptr.dev/) - Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
 * [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
