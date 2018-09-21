@@ -201,6 +201,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+* [Polymer](https://github.com/Polymer/polymer) - Build modern apps using web components.
 
 ## Node-Powered CMS Frameworks
 
@@ -214,6 +215,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers
 * [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform
+* [enduro.js](https://github.com/Gottwik/Enduro) - Minimalistic, lean & mean, node.js cms
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
