@@ -803,6 +803,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
+ * [Slang](https://github.com/kylestetz/slang) - An audio programming language built in JS <http://slang.kylestetz.com/>
 
 ## Typography
 
