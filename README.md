@@ -414,6 +414,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript
+* [Math.js](https://github.com/josdejong/mathjs/) - An extensive math library for JavaScript and Node.js
 
 
 ## Storage
