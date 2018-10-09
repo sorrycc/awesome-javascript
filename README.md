@@ -28,7 +28,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Storage](#storage)
     * [Color](#color)
     * [I18n And L10n](#i18n-and-l10n)
-    * [Class](#class)
     * [Control Flow](#control-flow)
     * [Routing](#routing)
     * [Security](#security)
@@ -112,6 +111,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
+* [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
 
 ## Testing Frameworks
@@ -165,6 +165,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
+* [JavaScript Standard Style](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
 
 
 ## MVC Frameworks and Libraries
@@ -172,7 +173,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
 * [aurelia](http://aurelia.io) - A Javascript client framework for mobile, desktop and web.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
-* [batman.js](http://batmanjs.org/) - The best JavaScript framework for Rails developers.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
 * [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
@@ -182,7 +182,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [espresso.js](https://github.com/techlayer/espresso.js) - A minimal javascript library for crafting user interfaces.
 * [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 * [react](https://facebook.github.io/react/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
-* [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications. 
+* [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications.
 * [preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
@@ -200,6 +200,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+* [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 
 ## Node-Powered CMS Frameworks
 
@@ -225,7 +226,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [eco](https://github.com/sstephenson/eco/) - Embedded CoffeeScript templates.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
-* [Jade](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs.
+* [Pug](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
@@ -234,6 +235,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## Articles and Posts
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
+* [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 
 ## Data Visualization
 *Data visualization tools for the web.*
@@ -282,8 +284,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Timeline
 
-* [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript.
-* [timesheet.js](https://github.com/semu/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
+* [TimelineJS v3](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+* [timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ## Spreadsheet
 
@@ -324,6 +326,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
 * [dox](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 * [jsdox](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+* [ESDoc](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 * [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 * [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
 * [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
@@ -332,7 +335,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
 * [JavaScript.info](https://javascript.info/) - A modern JavaScript tutorial. From the basics to advanced topics with simple, but detailed explanations.
-
 
 ## Files
 *Libraries for working with files.*
@@ -362,7 +364,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [RxJs](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
 * [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
-* [Highland] (http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
+* [Highland](http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
@@ -388,10 +390,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [countdown.js](https://github.com/gumroad/countdown.js) - Super simple countdowns.
 * [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
+* [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
 ## String
 *String Libraries.*
 
+* [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 * [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
 * [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
@@ -427,9 +431,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jquery-cookie](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 * [Cookies](https://github.com/ScottHamper/Cookies) - JavaScript Client-Side Cookie Manipulation Library.
-* [DB.js] (https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
-* [lawnchair.js] (https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-* [sql.js] (https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+* [DB.js](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library
+* [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
+* [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 
 ## Color
@@ -440,7 +444,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
-* [Vibrant.js] (https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [Vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -448,13 +452,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [i18next](https://github.com/i18next/i18next) - internationalisation (i18n) with javascript the easy way.
 * [polyglot](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
-
-## Class
-
-* [ClassManager](https://github.com/kogarashisan/ClassManager) - One of the fastest and most convenient class systems in the world
-* [klass](https://github.com/ded/klass) - A utility for creating expressive classes in JavaScript.
-* [augment](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
-
 
 ## Control Flow
 
@@ -506,10 +503,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## API
 
+* [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 * [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 * [amygdala](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) - An opinionated REST client for Ruby on Rails APIs.
 
 ## Streaming
 
@@ -529,6 +528,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Brain.js](https://github.com/harthur/brain) - Neural networks in JavaScript.
 * [Mind.js](https://github.com/stevenmiller888/mind) - A flexible neural network library.
 * [Synaptic.js](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
+* [deeplearn.js](https://deeplearnjs.org/) - A hardware-accelerated machine intelligence library for the web.
 
 
 ## Browser Detection
@@ -601,6 +601,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Notifications
 
+* [iziToast](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 * [messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app.
 * [noty](https://github.com/needim/noty) - jQuery notification plugin.
 * [pnotify](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.
@@ -735,7 +736,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Menu
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
-* [jQuery contextMenu] (https://github.com/swisnl/jQuery-contextMenu) -  contextMenu manager.
+* [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) -  contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
@@ -773,7 +774,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures.
 * [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
-* [Dragula] (https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
+* [Dragula](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
 
 
 ## Maps
@@ -820,7 +821,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
-* [imrpess.js](https://github.com/impress/impress.js) - Make Prezi-like presentations with CSS3 transformations/transitions in an HTML document.
+* [impress.js](https://github.com/impress/impress.js) - Make Prezi-like presentations with CSS3 transformations/transitions in an HTML document.
 * [bounce.js](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 * [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
@@ -833,6 +834,9 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possiblities
 * [shuffle-images](https://github.com/peachananr/shuffle-images) -  The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
+* [Anime.js](http://animejs.com) - A JavaScript animation engine http://animejs.com.
+* [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web http://mojs.io.
+* [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## Image Processing
 
@@ -873,6 +877,8 @@ http://www.listjs.com
 * [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 * [survey.js](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
+* [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://sdras.github.io/object-explorer/) - Resources to help figure out what native JavaScript method would be best to use at any given time
+* [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
@@ -885,6 +891,7 @@ http://www.listjs.com
 * [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
 * [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
+* [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 
 
 # Other Awesome Lists
@@ -907,11 +914,9 @@ http://www.listjs.com
 * [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
 
 # License
 
