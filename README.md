@@ -888,6 +888,7 @@ http://www.listjs.com
 * [Javascript Jabber](https://devchat.tv/js-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 
 # Worth Reading
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
 * [JSbooks](https://github.com/revolunet/JSbooks)
 * [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
