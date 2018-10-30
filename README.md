@@ -88,7 +88,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
-:arrow_up: [return to top](#awesome-javascript)
+:arrow_up: [Awesome JavaScript](#awesome-javascript)
 
 
 ## Loaders
