@@ -88,7 +88,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Loaders
@@ -106,7 +106,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Bundlers
@@ -117,7 +117,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Testing Frameworks
 
@@ -134,7 +134,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 * [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ### Assertion
 
@@ -143,7 +143,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ### Coverage
 
@@ -151,7 +151,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for javascript. Designed to be easy to install and use, for both browser and nodejs.
 * [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ### Runner
 
@@ -165,7 +165,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 * [yolpo](http://www.yolpo.com) - A statement-by-statement javascript interpreter in the browser.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## QA Tools
@@ -180,7 +180,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
 * [JavaScript Standard Style](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## MVC Frameworks and Libraries
@@ -217,7 +217,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Node-Powered CMS Frameworks
 
@@ -232,7 +232,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
@@ -251,14 +251,14 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Articles and Posts
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Data Visualization
 *Data visualization tools for the web.*
@@ -304,7 +304,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Timeline
@@ -312,13 +312,13 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [TimelineJS v3](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
 * [timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Spreadsheet
 
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Editors
 
@@ -345,7 +345,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Documentation
@@ -366,7 +366,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Files
 *Libraries for working with files.*
@@ -376,7 +376,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Functional Programming
@@ -391,7 +391,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Reactive Programming
@@ -405,7 +405,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
@@ -415,7 +415,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Date
@@ -432,7 +432,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## String
 *String Libraries.*
@@ -449,7 +449,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 * [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Number
 
@@ -462,7 +462,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Storage
@@ -481,7 +481,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
 * [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Color
@@ -494,7 +494,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -503,7 +503,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [polyglot](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Control Flow
 
@@ -515,7 +515,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
 * [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Routing
@@ -526,7 +526,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [crossroads](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
 * [davis.js](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Security
@@ -535,7 +535,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 * [xss-filters](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Log
@@ -547,14 +547,14 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends
 * [storyboard](http://guigrpa.github.io/storyboard/) - Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## RegExp
 * [RegEx101](https://regex101.com/#javascript) - Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.
 * [RegExr](http://regexr.com) - HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 * [RegExpBuilder](https://github.com/thebinarysearchtree/regexpbuilderjs) - Create regular expressions using chained methods.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Voice Command
@@ -562,7 +562,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [annyang](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
 * [voix.js](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## API
@@ -574,13 +574,13 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) - An opinionated REST client for Ruby on Rails APIs.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Streaming
 
 * [Tailor](https://github.com/zalando/tailor) - Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Vision Detection
@@ -588,7 +588,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Machine Learning
@@ -600,28 +600,28 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Synaptic.js](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
 * [deeplearn.js](https://deeplearnjs.org/) - A hardware-accelerated machine intelligence library for the web.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Browser Detection
 
 * [bowser](https://github.com/ded/bowser) - a browser detector
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Benchmark
 
 * [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 * [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Code highlighting
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter.
 * [PrismJS](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Loading Status
@@ -642,7 +642,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Validation
@@ -656,7 +656,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [is.js](https://github.com/arasatasaygin/is.js) -  Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Keyboard Wrappers
@@ -668,7 +668,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
 * [jwerty](https://github.com/keithamus/jwerty) - Awesome handling of keyboard events.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Tours And Guides
@@ -683,7 +683,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [joyride](https://github.com/zurb/joyride) - jQuery feature tour plugin.
 * [focusable](https://github.com/zzarcon/focusable) - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Notifications
 
@@ -696,7 +696,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for javascript.
 * [notie](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Sliders
@@ -722,7 +722,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Glide.js](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Range Sliders
 
@@ -731,7 +731,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [noUiSlider](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
 * [rangeslider.js](https://github.com/andreruffert/rangeslider.js) - HTML5 input range slider element polyfill.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Form Widgets
@@ -748,7 +748,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete/
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ### Calendar
 
@@ -759,7 +759,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [rome](https://github.com/bevacqua/rome) - A customizable date (and time) picker. Dependency free, opt-in UI.
 * [datedropper](https://github.com/felicegattuso/datedropper) -  datedropper is a jQuery plugin that provides a quick and easy way to manage dates for input fields.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ### Select
@@ -768,7 +768,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [select2](https://github.com/select2/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [chosen](https://github.com/harvesthq/chosen) - A library for making long, unwieldy select boxes more friendly.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ### File Uploader
 
@@ -779,7 +779,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [FileAPI](https://github.com/mailru/FileAPI) - A set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [plupload](https://github.com/moxiecode/plupload) - A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ### Other
 
@@ -789,7 +789,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Tips
@@ -803,7 +803,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 * [hint.css](https://github.com/chinchang/hint.css) - A tooltip library in CSS for your lovely websites.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Modals and Popups
 
@@ -821,7 +821,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [swipebox](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
 * [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Scroll
 
@@ -839,7 +839,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 * [Scrollsmooth](https://gist.github.com/AlexandreRStos/996187933de4ced049c6ccdcf9526a63) - This is a small scroll-based scroll smoth code in Javascript Varilla.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Menu
@@ -849,7 +849,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Table/Grid
@@ -862,7 +862,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Isotope](http://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Frameworks
 
@@ -871,7 +871,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Boilerplates
 
@@ -885,7 +885,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
 
- :arrow_up: [Awesome JavaScript](#awesome-javascript)
+ :arrow_up: [return to top](#awesome-javascript)
 
 ## Gesture
 
@@ -893,7 +893,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 * [Dragula](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Maps
@@ -907,7 +907,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Video/Audio
 
@@ -925,7 +925,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
 
- :arrow_up: [Awesome JavaScript](#awesome-javascript)
+ :arrow_up: [return to top](#awesome-javascript)
 
 ## Typography
 
@@ -939,7 +939,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
  * [Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript `<span>` injector for radical Web Typography
 
- :arrow_up: [Awesome JavaScript](#awesome-javascript)
+ :arrow_up: [return to top](#awesome-javascript)
 
 
 ## Animations
@@ -963,7 +963,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web http://mojs.io.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Image Processing
 
@@ -971,7 +971,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## ES6
@@ -983,7 +983,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## SDK
@@ -991,7 +991,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 ## Misc
@@ -1013,14 +1013,14 @@ http://www.listjs.com
 * [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://sdras.github.io/object-explorer/) - Resources to help figure out what native JavaScript method would be best to use at any given time
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 * [Javascript Jabber](https://devchat.tv/js-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 # Worth Reading
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/)
@@ -1030,7 +1030,7 @@ http://www.listjs.com
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 * [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 
 # Other Awesome Lists
@@ -1053,7 +1053,7 @@ http://www.listjs.com
 * [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
 
 # Contributing
 
@@ -1065,4 +1065,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
 
-:arrow_up: [Awesome JavaScript](#awesome-javascript)
+:arrow_up: [return to top](#awesome-javascript)
