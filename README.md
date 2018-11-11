@@ -202,6 +202,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+* [icomponent](https://github.com/prasannavl/icomponent) - A super simple, zero-overhead component library for the modern web that emphasizes framework and renderer freedom.
 
 ## Node-Powered CMS Frameworks
 
