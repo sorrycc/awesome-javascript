@@ -243,6 +243,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
+* [Kepler.gl](https://github.com/uber/kepler.gl) - kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.
 * [pykcharts.js](https://github.com/pykih/PykCharts.js) - Well designed d3.js charting without the complexity of d3.js.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
