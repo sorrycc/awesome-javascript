@@ -913,6 +913,7 @@ http://www.listjs.com
 * [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
 * [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
 * [instanceofpro/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
+* [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
