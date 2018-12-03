@@ -650,13 +650,13 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) - A fast and fully-featured autocomplete library.
 * [tag-it](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-* [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application.
+* [At.js](https://github.com/ichord/At.js) - Add GitHub like mentions autocomplete to your application.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 * [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - A pure javascript mask input.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
-* [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete/
+* [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete
 
 ### Calendar
 
