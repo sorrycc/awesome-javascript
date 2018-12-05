@@ -463,6 +463,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
 * [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+* [Concurrent Tasks](https://github.com/samrith-s/concurrent-tasks) - A simple task runner which will run all tasks till completion, while maintaining concurrency limits.
 
 
 ## Routing
