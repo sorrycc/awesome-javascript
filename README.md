@@ -147,6 +147,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 * [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
+* [puppeteer](https://pptr.dev/) - Headless Chrome(browser) Node API by Google.
 * [casperjs](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
 * [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
