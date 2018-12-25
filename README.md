@@ -351,6 +351,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
 * [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
+* [lzdash](https://github.com/Shalimov/lzdash) - A set of utilities to operate over large collection effeciently, like lodash/fp, but based on non-strict/lazy evaluation.
 * [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
