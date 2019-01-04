@@ -112,6 +112,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
+* [Refo](https://github.com/kireerik/refo) - A static site and resume build tool with hot JavaScript module replacement.
 
 
 ## Testing Frameworks
