@@ -859,6 +859,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
 
+## Generators
+
+* [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
+
+
 ## SDK
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
