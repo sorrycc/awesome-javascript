@@ -922,7 +922,7 @@ http://www.listjs.com
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 * [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
-* [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
+* [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 # Contributing
