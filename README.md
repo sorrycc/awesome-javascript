@@ -393,6 +393,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+* [dayjs](https://github.com/iamkun/dayjs) - 2KB immutable date library alternative to Moment.js with the same modern API.
 
 ## String
 *String Libraries.*
