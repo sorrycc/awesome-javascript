@@ -80,12 +80,9 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [npm](https://www.npmjs.com/) - npm is the package manager for javascript.
 * [Bower](https://github.com/bower/bower) - A package manager for the web.
 * [component](https://github.com/componentjs/component) - Client package management for building better web applications.
-* [spm](https://github.com/spmjs/spm) - Brand new static package manager.
 * [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
 * [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
-* [Ender](https://github.com/ender-js/Ender) - The no-library library.
 * [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
-* [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
 
@@ -95,7 +92,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [RequireJS](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
 * [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [SeaJS](https://github.com/seajs/seajs) - A Module Loader for the Web.
-* [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
 * [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asyncronous JavaScript loader and dependency manager.
@@ -365,7 +361,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [RxJs](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
 * [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript.
-* [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
+* [Kefir](https://github.com/kefirjs/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [Highland](http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
