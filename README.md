@@ -281,7 +281,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 * [GraphicsJS](https://www.graphicsjs.org) - A lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology.
 
-There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
+There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), [highchart](http://www.highcharts.com/), and [JSCharting](https://JSCharting.com/)
 
 
 ## Timeline
