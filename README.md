@@ -904,6 +904,7 @@ http://www.listjs.com
 * [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 * [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
+* [JavaScript Beginner? Start Here](https://snipcart.com/blog/javascript-beginner-intro-exercises) - An excellent guide for people just getting started with JavaScript including resources and exercises which range from beginner to intermediate levels. 
 
 
 # Other Awesome Lists
