@@ -202,6 +202,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+* [AdonisJS](https://adonisjs.com/) - The Node.js Framework highly focused on developer ergonomics, stability and confidence
 
 ## Node-Powered CMS Frameworks
 
@@ -358,6 +359,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
+* [sanctuary](https://github.com/sanctuary-js/sanctuary) - Refuge from unsafe Javascript
 
 
 ## Reactive Programming
@@ -378,7 +380,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mori](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
-
+* [Iterable](https://github.com/LXSMNSYC/iterable-js) - Extensions for objects with Iterations Protocol.
+* [Endless](https://github.com/LXSMNSYC/endless.js) - Infinite List in JS similar to Haskell's InfList
 
 ## Date
 *Date Libraries.*
@@ -858,6 +861,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+* [TC39 Proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 
 
 ## Generators
