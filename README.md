@@ -792,6 +792,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
+* [indoor.js](https://github.com/mudin/indoorjs) - A lightweight JavaScript library for interactive indoor maps.
 
 ## Video/Audio
 
