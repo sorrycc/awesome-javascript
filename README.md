@@ -128,6 +128,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [tape](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 * [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
+* [Convector](https://github.com/worldsibu) - 🛠 JavaScript fullstack smart contract systems development framework (Hyperledger Fabric, agnostic).
 
 ### Assertion
 
