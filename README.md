@@ -247,6 +247,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [pykcharts.js](https://github.com/pykih/PykCharts.js) - Well designed d3.js charting without the complexity of d3.js.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
+* [ZingChart](https://github.com/zingchart/ZingChart) - A dynamic and powerful Javascript library for visualizing data.
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 * [fabric.js](https://github.com/kangax/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
@@ -750,6 +751,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 * [DataTables](https://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
 * [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
+* [ZingGrid](https://github.com/ZingGrid/zinggrid) - A powerful Javascript library for building responsive, interactive data grids and tables.
 * [Bootstrap Table](http://bootstrap-table.wenzhixin.net.cn/) - An Extension to the popular Bootstrap framework for creating tables that fit the style of your site with no need for additional markup.
 * [floatThead](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
 * [Masonry](http://masonry.desandro.com/) - A cascading grid layout library.
