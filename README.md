@@ -616,6 +616,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Sliders
 
+* [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 * [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
 * [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 * [slidesJs](http://www.slidesjs.com) - Is a ressponsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions
