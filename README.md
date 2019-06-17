@@ -636,6 +636,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 * [Glide.js](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
+* [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 
 ## Range Sliders
 
