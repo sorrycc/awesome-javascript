@@ -390,10 +390,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [date](https://github.com/MatthewMueller/date) - Date() for humans.
 * [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 * [countdown.js](https://github.com/gumroad/countdown.js) - Super simple countdowns.
-* [map-countdown](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps
 * [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+* [map-countdown](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps
 
 ## String
 *String Libraries.*
