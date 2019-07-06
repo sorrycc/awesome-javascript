@@ -358,7 +358,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
-
+* [Ferrum](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaluation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS.
 
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
