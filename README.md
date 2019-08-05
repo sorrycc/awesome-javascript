@@ -346,6 +346,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
+* [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 
 ## Functional Programming
