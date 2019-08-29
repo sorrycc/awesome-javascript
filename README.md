@@ -696,6 +696,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Countable](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
+* [analytics](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 
 
 ## Tips
