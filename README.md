@@ -244,7 +244,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
-* [pykcharts.js](https://github.com/pykih/PykCharts.js) - Well designed d3.js charting without the complexity of d3.js.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
@@ -269,7 +268,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
 * [heatmap.js](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps.
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery JavaScript library to generate small sparkline charts directly in the browser.
-* [xCharts](https://github.com/tenxer/xCharts) - A D3-based library for building custom charts and graphs.
 * [trianglify](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js.
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
