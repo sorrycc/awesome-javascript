@@ -364,7 +364,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
 
-* [RxJs](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript.
+* [RxJS](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
 * [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for JavaScript.
 * [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [Highland](http://highlandjs.org/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
@@ -440,6 +440,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
 * [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 * [endb](https://github.com/chroventer/endb) - Simple key-value database with multi adapter support.
+* [crumbsjs](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
+
 
 ## Color
 
