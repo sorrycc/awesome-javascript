@@ -135,6 +135,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Enzyme](http://airbnb.io/enzyme/index.html) - Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
 * [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+* [should.js](https://github.com/shouldjs/should.js) - should.js is an expressive, readable, framework-agnostic assertion library.
 
 ### Coverage
 
