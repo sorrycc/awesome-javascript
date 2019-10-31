@@ -524,6 +524,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Streaming
 
 * [Tailor](https://github.com/zalando/tailor) - Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
+* [PeerJS](https://peerjs.com/) - PeerJS wraps the browser's WebRTC implementation to provide a complete, configurable, and easy-to-use peer-to-peer connection API.
 
 
 ## Vision Detection
