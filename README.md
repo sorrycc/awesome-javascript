@@ -854,7 +854,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Anime.js](http://animejs.com) - A JavaScript animation engine http://animejs.com.
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web http://mojs.io.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
-* [Proton](https://github.com/a-jie/Proton) - Proton is a lightweight and powerful Javascript particle animation library. http://a-jie.github.io/Proton/
+* [Proton](https://github.com/a-jie/Proton) - Proton is a lightweight and powerful Javascript particle animation library.
 
 ## Image Processing
 
