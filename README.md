@@ -212,10 +212,10 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [We.js](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
 * [Hatch.js](https://github.com/inventures/hatchjs) - CMS platform with social features.
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
-* [Strapi](https://github.com/strapi/strapi) - Headless CMS to easily build customizable APIs
 * [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
 * [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
+* [Strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
