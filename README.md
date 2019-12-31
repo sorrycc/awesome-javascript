@@ -544,6 +544,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Brain.js](https://github.com/harthur/brain) - Neural networks in JavaScript.
 * [Mind.js](https://github.com/stevenmiller888/mind) - A flexible neural network library.
 * [Synaptic.js](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
+* [Synapses](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 * [TensorFlow.js](https://js.tensorflow.org) - A JavaScript library for training and deploying ML models in the browser and on Node.js.
 * [ml5.js](https://ml5js.org) - Friendly Machine Learning for the Web.
 
