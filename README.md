@@ -546,6 +546,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Synaptic.js](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
 * [TensorFlow.js](https://js.tensorflow.org) - A JavaScript library for training and deploying ML models in the browser and on Node.js.
 * [ml5.js](https://ml5js.org) - Friendly Machine Learning for the Web.
+* [Synapses](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 
 
 ## Browser Detection
