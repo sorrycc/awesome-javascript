@@ -913,6 +913,7 @@ http://www.listjs.com
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
+* [UndoRedo.js](https://github.com/iMrDJAi/UndoRedo.js) - A powerful and simple javascript library provides a history for undo/redo functionality. Just like a time machine!
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
