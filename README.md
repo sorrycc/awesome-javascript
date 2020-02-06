@@ -137,6 +137,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [react testing library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
 * [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+* [proxyquire](https://github.com/thlorenz/proxyquire) - Stub nodejs's require.
 
 ### Coverage
 
