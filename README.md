@@ -352,6 +352,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 * [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+* [lookpath](https://github.com/otiai10/lookpath) - The minimum and most straightforward way to check if command exists and where the executable is.
 
 
 ## Functional Programming
