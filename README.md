@@ -206,6 +206,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+* [@amrayn/mypromise](https://www.npmjs.com/package/@amrayn/mypromise) - Use promise once it is satisfied otherwise wait for the promise. mypromisify all your functions.
 
 ## Node-Powered CMS Frameworks
 
