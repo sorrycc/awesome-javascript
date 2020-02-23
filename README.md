@@ -220,6 +220,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 * [Strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
+* [Factor](https://github.com/fiction-com/factor) - The Javascript CMS
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
