@@ -884,6 +884,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Generators
 
+* [Docusaurus](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, focused on content-driven websites
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 
