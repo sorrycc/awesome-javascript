@@ -866,6 +866,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery. http://smoothstate.com/
 * [Anime.js](http://animejs.com) - A JavaScript animation engine http://animejs.com.
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web http://mojs.io.
+* [tsParticles](https://github.com/matteobruni/tsparticles) - A lightweight TypeScript library for creating particles. A new and improved version of particles.js with bug fixes and many new features https://particles.matteobruni.it
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## Image Processing
