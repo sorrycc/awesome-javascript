@@ -597,6 +597,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [FormValidation](http://formvalidation.io/) - The best jQuery plugin to validate form fields. Formerly BootstrapValidator.
 * [is.js](https://github.com/arasatasaygin/is.js) - Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
+* [Funval](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 
 
 ## Keyboard Wrappers
