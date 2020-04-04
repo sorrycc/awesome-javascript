@@ -787,6 +787,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
+* [SapphireDb](https://github.com/SapphireDb/SapphireDb) - SapphireDb is a self-hosted, easy to use realtime database for Asp.Net Core and EF Core. It creates a generic API you can easily use with different clients (including javascript) to effortlessly create applications with realtime data synchronization.
 
 ## Boilerplates
 
