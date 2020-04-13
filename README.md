@@ -114,6 +114,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 
+
 ## Type Checkers
 
 * [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
