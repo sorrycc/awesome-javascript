@@ -6,6 +6,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
+  * [Type Checkers](#type-checkers)
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
@@ -112,6 +113,15 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
+
+
+## Type Checkers
+
+* [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
+* [Flow.js](https://flow.org/en/) - A static type checker for JavaScript from Facebook.
+* [Hegel](https://jsmonk.github.io/hegel/) -  A static type checker for JavaScript with a bias on type inference an strong type system.
+* [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
+* [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 
 
 ## Testing Frameworks
