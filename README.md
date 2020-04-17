@@ -9,7 +9,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Type Checkers](#type-checkers)
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
-  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
+  * [MVC Frameworks and Libraries](#mvc-frameworks-and-librareposries)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Articles/Posts](#articles-and-posts)
@@ -19,7 +19,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Editors](#editors)
   * [Documentation](#documentation)
   * Utilities
-    * [Files](#files)
+    * [Files](#files)repos
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
     * [Data Structure](#data-structure)
@@ -171,7 +171,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## QA Tools
 
-* [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+* [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code atter.
 * [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
@@ -933,7 +933,7 @@ http://www.listjs.com
 * [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component
 * [ink-components](https://github.com/ink-components/ink-components) - Web-components for interactive scientific writing, reactive documents and explorable explanations.
 * [Idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
-
+* [deepforms](https://github.com/rory660/deepforms) - Send deep nested JSON-encoded objects from HTML forms, in a single function call.
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
