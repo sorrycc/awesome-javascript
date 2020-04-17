@@ -934,6 +934,9 @@ http://www.listjs.com
 * [ink-components](https://github.com/ink-components/ink-components) - Web-components for interactive scientific writing, reactive documents and explorable explanations.
 * [Idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 
+## Developer Tools
+
+* [friendly](https://github.com/rocketlaunchr/friendly) - Lightweight local development webserver (with https).
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
