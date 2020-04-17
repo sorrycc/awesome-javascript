@@ -9,7 +9,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Type Checkers](#type-checkers)
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
-  * [MVC Frameworks and Libraries](#mvc-frameworks-and-librareposries)
+  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Articles/Posts](#articles-and-posts)
@@ -19,7 +19,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Editors](#editors)
   * [Documentation](#documentation)
   * Utilities
-    * [Files](#files)repos
+    * [Files](#files)
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
     * [Data Structure](#data-structure)
@@ -171,7 +171,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## QA Tools
 
-* [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code atter.
+* [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 * [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
