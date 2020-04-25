@@ -250,6 +250,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
 
 ## Articles and Posts
 
@@ -797,6 +798,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
+* [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
 
 ## Boilerplates
 
