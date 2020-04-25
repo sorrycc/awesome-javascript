@@ -34,7 +34,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Security](#security)
     * [Log](#log)
     * [RegExp](#regexp)
-    * [Media](#media)
+    * [Media](#videoaudio)
     * [Voice Command](#voice-command)
     * [API](#api)
     * [Streaming](#streaming)
