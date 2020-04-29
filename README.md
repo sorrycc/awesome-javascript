@@ -933,7 +933,7 @@ http://www.listjs.com
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
 * [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component
-* [ink-components](https://github.com/ink-components/ink-components) - Web-components for interactive scientific writing, reactive documents and explorable explanations.
+* [iooxa](https://github.com/iooxa/article) - Web-components for interactive scientific writing, reactive documents and explorable explanations.
 * [Idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 
 
