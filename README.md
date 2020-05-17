@@ -113,6 +113,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
+* [Microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 
 
 ## Type Checkers
@@ -974,6 +975,7 @@ http://www.listjs.com
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 * [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
 
 # Contributing
 
