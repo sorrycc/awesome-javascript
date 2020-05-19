@@ -847,6 +847,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
  * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
+ * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 
 ## Typography
 
