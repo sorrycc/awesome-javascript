@@ -182,6 +182,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
 * [JavaScript Standard Style](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
 * [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
+* [JS-Beautifier](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 
 ## MVC Frameworks and Libraries
 
