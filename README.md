@@ -367,6 +367,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 * [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+* [EncryptedFS](https://github.com/matrixai/js-encryptedfs) - Encrypted filesystem written in JavaScript.
 
 
 ## Functional Programming
