@@ -958,6 +958,9 @@ http://www.listjs.com
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
+# Videos
+
+* [Javascript Online Courses and Tutorials at Classpert](https://classpert.com/javascript-programming) - List of over 600 Javascript Online Courses from Udemy, Skillshare, Pluralsight and other course providers.
 
 # Other Awesome Lists
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
