@@ -259,6 +259,40 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 
+*Javascript Fundamentals:*
+
+* [Syntax & Structure](https://itnext.io/javascript-fundamentals-syntax-structure-5e9badd0cc4f?source=friends_link&sk=311ce8059ea6219d0cf610c0b898aca1) - In JavaScript there are two types of values: Fixed values (or literals) and Variable values (variables).
+
+* [Mastering Objects](https://itnext.io/javascript-fundamentals-mastering-objects-7936db8156e0?source=friends_link&sk=8d3364109caed3afc77241c102b41de0) - Objects in JavaScript are used to store collections of data in the format of “key: value” pairs.
+
+* [Mastering Functions](https://itnext.io/javascript-fundamentals-mastering-functions-351594da10f5?source=friends_link&sk=c7233b302cd032e4ed690638e9d3b9a3) - Functions can be thought of as one of the core building blocks of our JavaScript programs.
+
+* [An Introduction to REST APIs](https://itnext.io/javascript-fundamentals-an-introduction-to-rest-apis-7cbe8a809d3b?source=friends_link&sk=b0658669b2d45b5dcaf46f46f05149ac) - REpresentational State Transfer (REST) is an architectural style that handles the client-server relationship, with the purpose of aiming for speed and performance by using re-usable components.
+
+* [Fetching Data from a server](https://itnext.io/javascript-fundamentals-fetching-data-from-a-server-100ee464231c?source=friends_link&sk=e5342bc892f4a02f8d72aaeae9e2d45d) - In this article, we’ll be looking at how we can go about retrieving data from a server.
+
+* [Understanding APIs](https://itnext.io/javascript-fundamentals-understanding-apis-3552c822c3e8?source=friends_link&sk=3161f706bec79e2ad64d56f782c99e77) - Application Programming Interfaces (APIs) can be defined as sets of functions and procedures which are created by an operating system, application or other service. 
+
+* [Mastering Classes](https://itnext.io/javascript-fundamentals-mastering-classes-38e7668023be?source=friends_link&sk=86c383b2b0b099990eff010f1678f40b) - JavaScript classes we’re introduced with ECMAScript 2015, they’re often described as syntactical sugar over JavaScript’s existing structure of prototypical inheritance. 
+
+* [Mastering Loops](https://itnext.io/javascript-fundamentals-mastering-loops-6788687a9293?source=friends_link&sk=166ac05d956039b79448930292170a30) - In JavaScript, we use loops when we want an easy way to handle repetition.
+
+* [Understanding Regex](https://itnext.io/javascript-fundamentals-understanding-regex-fd81891375e0?source=friends_link&sk=5e776563482b2d8385c1a694dc60591c) - A JavaScript Regular Expression (or Regex) is a sequence of characters that we can utilize to work effectively with strings.
+
+* [Data Types](https://itnext.io/javascript-fundamentals-data-types-29ba4a49470d?source=friends_link&sk=29f21f3980c09bf62a7deb7799833eb5) - Data types are classifications of specific types of data.
+
+* [Mastering Arrays](https://itnext.io/javascript-fundamentals-mastering-arrays-4f5b446287db?source=friends_link&sk=d45883bcf940848d06bc62731b948741) - An array in JavaScript can be looked at as a kind of special variable, which is able to hold more than one value at a time.
+
+* [Working with Strings](https://itnext.io/javascript-fundamentals-working-with-strings-3b14a9e08134?source=friends_link&sk=0ff64af9830a70a819ac1cb93f50a469) - JavaScript strings are used for storing and manipulating text — they can consist of a sequence of letters, numbers and/or symbols. 
+
+* [Understanding ES6](https://itnext.io/javascript-fundamentals-understanding-es6-583efbe43c4f?source=friends_link&sk=4193951d45e84109aa823037408524a0) - ES6 (or ECMAScript 2015) is the 6th version of the ECMAScript programming language.
+
+* [Using Conditionals](https://itnext.io/javascript-fundamentals-using-conditionals-ce707939a388?source=friends_link&sk=4acbb1a12989d5106e0f6b44f974ad17) - With conditionals, we can control the behavior of our code — by determining whether or not pieces of code can run.
+
+* [Array & Object Methods](https://itnext.io/javascript-fundamentals-array-object-methods-1f3f4adc025c?source=friends_link&sk=1821fe89abce1fa14458ed2c41ef69c9) - The eloquence of these methods will help us to write very clean and readable code — as we go about manipulating our arrays & objects.
+
+* [Syntax & Structure](https://itnext.io/javascript-fundamentals-syntax-structure-5e9badd0cc4f?source=friends_link&sk=311ce8059ea6219d0cf610c0b898aca1) - The rules (or syntax) are what we follow when we write our code, which form the logical structure of our programs.
+  
 ## Data Visualization
 *Data visualization tools for the web.*
 
