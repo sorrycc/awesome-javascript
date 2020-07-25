@@ -527,6 +527,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [RegEx101](https://regex101.com/#javascript) - Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.
 * [RegExr](http://regexr.com) - HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 * [RegExpBuilder](https://github.com/thebinarysearchtree/regexpbuilderjs) - Create regular expressions using chained methods.
+* [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/) - Learn Regular Expressions with hundreds of examples and exercises.
 
 
 ## Voice Command
