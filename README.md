@@ -726,6 +726,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ### Other
 
+* [Jafar](https://github.com/yahoo/jafar) - A form class which can serve any UI library (such as react, angular and vue). React Form component supported as well.
 * [form](https://github.com/malsup/form) - jQuery Form Plugin.
 * [Garlic.js](https://github.com/guillaumepotier/Garlic.js) - Automatically persist your forms' text and select field values locally, until the form is submitted.
 * [Countable](https://github.com/RadLikeWhoa/Countable) - A JavaScript function to add live paragraph-, word- and character-counting to an HTML element.
