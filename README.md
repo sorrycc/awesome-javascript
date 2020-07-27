@@ -630,7 +630,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Tours And Guides
 
-* [GuideChimp](https://github.com/Labs64/GuideChimp) - Create interactive guided product tours in minutes with the most non-technical friendly, lightweight and extendable library.
 * [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 * [shepherd](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app.
 * [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
@@ -641,6 +640,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [joyride](https://github.com/zurb/joyride) - jQuery feature tour plugin.
 * [focusable](https://github.com/zzarcon/focusable) - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.
 * [driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+* [GuideChimp](https://github.com/Labs64/GuideChimp) - Create interactive guided product tours in minutes with the most non-technical friendly, lightweight and extendable library.
 
 ## Notifications
 
