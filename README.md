@@ -889,6 +889,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web http://mojs.io.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features
+* [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
 ## Image Processing
 
