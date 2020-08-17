@@ -746,6 +746,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 * [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 * [hint.css](https://github.com/chinchang/hint.css) - A tooltip library in CSS for your lovely websites.
+* [tooltip-sequence](https://github.com/SoorajSNBlaze333/tooltip-sequence) - A simple yet creative chain/sequence of tooltips to help guide users in your site.
 
 ## Modals and Popups
 
