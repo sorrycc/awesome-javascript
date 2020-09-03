@@ -792,6 +792,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
+* [mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 
 
 ## Table/Grid
