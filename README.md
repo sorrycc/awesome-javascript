@@ -93,7 +93,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Component Managment
 
-* [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Anular, Node etc.) across applications.
+* [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
 
 ## Loaders
 *Module or loading system for JavaScript.*
