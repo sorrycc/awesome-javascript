@@ -265,6 +265,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
+* [Callback vs Promises vs Async Await](https://www.loginradius.com/engineering/blog/callback-vs-promises-vs-async-await/) - Article about promises, callback and async-await.
 
 ## Data Visualization
 *Data visualization tools for the web.*
