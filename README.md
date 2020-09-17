@@ -4,6 +4,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
+  * [Component managment](#component-managment)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
   * [Type Checkers](#type-checkers)
@@ -88,7 +89,12 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
+* [pnpm](https://pnpm.js.org/) - Fast, disk space efficient package manager.
 
+
+## Component Managment
+
+* [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
 
 ## Loaders
 *Module or loading system for JavaScript.*
@@ -169,6 +175,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [yolpo](http://www.yolpo.com) - A statement-by-statement JavaScript interpreter in the browser.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
+* [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
 
 ## QA Tools
 
@@ -713,7 +720,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ### Select
 
-* [selectize.js](https://github.com/brianreavis/selectize.js) - Selectize is the hybrid of a textbox and select box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
+* [selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and `<select>` box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 * [select2](https://github.com/select2/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [chosen](https://github.com/harvesthq/chosen) - A library for making long, unwieldy select boxes more friendly.
 
@@ -725,6 +732,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.
 * [FileAPI](https://github.com/mailru/FileAPI) - A set of JavaScript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [plupload](https://github.com/moxiecode/plupload) - A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.
+* [filepond](https://github.com/pqina/filepond) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 
 ### Other
 
@@ -762,6 +770,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 * [swipebox](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
 * [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
+* [lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 * [keukenhof](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
 
 ## Scroll
@@ -787,6 +796,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
+* [mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
 
 
 ## Table/Grid
