@@ -771,6 +771,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [swipebox](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
 * [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
+* [keukenhof](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
 
 ## Scroll
 
