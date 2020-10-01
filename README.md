@@ -4,7 +4,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
-  * [Component managment](#component-managment)
+  * [Component management](#component-management)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
   * [Type Checkers](#type-checkers)
@@ -92,7 +92,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [pnpm](https://pnpm.js.org/) - Fast, disk space efficient package manager.
 
 
-## Component Managment
+## Component Management
 
 * [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
 
@@ -108,7 +108,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [script.js](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
 * [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
-* [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+* [ESL](https://github.com/ecomfe/esl) - Module loader browser first, supports lazy define and AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
 
@@ -126,7 +126,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
 * [Flow.js](https://flow.org/en/) - A static type checker for JavaScript from Facebook.
-* [Hegel](https://jsmonk.github.io/hegel/) -  A static type checker for JavaScript with a bias on type inference an strong type system.
+* [Hegel](https://jsmonk.github.io/hegel/) -  A static type checker for JavaScript with a bias on type inference and a strong type system.
 * [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 
@@ -188,7 +188,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
 * [JavaScript Standard Style](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
-* [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
+* [Pre-evaluate code at build time](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 * [JS-Beautifier](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 * [husky](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
 
@@ -221,7 +221,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [derby-awesome](https://github.com/russll/awesome-derby) - A collection of awesome derby components
 * [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding.
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
-* [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
+* [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is a better MV-ish framework.
 * [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
@@ -238,7 +238,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Hatch.js](https://github.com/inventures/hatchjs) - CMS platform with social features.
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
 * [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
-* [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
+* [Cody](https://github.com/jcoppieters/cody) - CMS with WYSIWYG editor.
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 * [Strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
 * [Factor](https://github.com/fiction-com/factor) - The Javascript CMS
@@ -335,7 +335,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
 * [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
 * [ckeditor-releases](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
-* [editor](https://github.com/lepture/editor) - A markdown editor. still on development.
+* [editor](https://github.com/lepture/editor) - A markdown editor. still in development.
 * [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 * [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent `~/.vimrc`.
@@ -357,7 +357,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
 * [docco](http://jashkenas.github.io/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 * [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
-* [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
+* [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable text files to roff for terminal display, and also to HTML for the web.
 * [dox](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 * [jsdox](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 * [ESDoc](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
@@ -424,7 +424,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [date](https://github.com/MatthewMueller/date) - Date() for humans.
 * [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 * [countdown.js](https://github.com/gumroad/countdown.js) - Super simple countdowns.
-* [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
+* [timeago.js](https://github.com/hustcc/timeago.js) - Simple library (less than 2kb) used to format date with `*** time ago` statement.
 * [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 * [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
@@ -462,7 +462,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [store.js](https://github.com/marcuswestin/store.js) - LocalStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood.
 * [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-* [jStorage](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
+* [jStorage](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on the browser side.
 * [cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
 * [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
 * [bag.js](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
@@ -502,7 +502,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [contra](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 * [Bluebird](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
 * [when](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
-* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
+* [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that adds support to event listeners (with the same behavior of EventTarget from DOMElements available on browsers).
 * [sporadic](https://github.com/marcoonroad/sporadic) - Composable concurrency abstractions (such as streams, coroutines and Go-like channels) on top of promises, for Node and browser engines.
 
 
@@ -597,12 +597,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 
 ## Loading Status
-*Libraries for indicate load status.*
+*Libraries to indicate load status.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 * [NProgress](http://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
 * [Spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator.
-* [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
+* [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bars for every object on the page.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars with animated SVG paths.
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
@@ -612,7 +612,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 
-Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
+Besides libraries, there're [Collections on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
 
 
 ## Validation
@@ -648,7 +648,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [pageguide](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
 * [hopscotch](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 * [joyride](https://github.com/zurb/joyride) - jQuery feature tour plugin.
-* [focusable](https://github.com/zzarcon/focusable) - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.
+* [focusable](https://github.com/zzarcon/focusable) - Set a spotlight focus on the DOM element adding an overlay layer to the rest of the page.
 * [driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## Notifications
@@ -701,7 +701,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [typeahead.js](https://github.com/twitter/typeahead.js) - A fast and fully-featured autocomplete library.
 * [tag-it](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-* [At.js](https://github.com/ichord/At.js) - Add GitHub like mentions autocomplete to your application.
+* [At.js](https://github.com/ichord/At.js) - Add GitHub like mentioned autocomplete to your application.
 * [Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 * [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
@@ -728,10 +728,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ### File Uploader
 
 * [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&amp;drop support, progress bar, validation and preview images, audio and video for jQuery.
-* [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+* [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag & drop library. It supports image previews and shows nice progress bars.
 * [flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
 * [fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 uploading.
-* [FileAPI](https://github.com/mailru/FileAPI) - A set of JavaScript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
+* [FileAPI](https://github.com/mailru/FileAPI) - A set of JavaScript tools for working with files. Multiupload, drag & drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [plupload](https://github.com/moxiecode/plupload) - A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.
 * [filepond](https://github.com/pqina/filepond) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 
@@ -760,7 +760,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
 * [jquery-popbox](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
-* [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups.
+* [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new model concept for pop ups.
 * [vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 * [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
@@ -768,7 +768,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
 * [colorbox](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery.
-* [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+* [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi media on your web pages.
 * [swipebox](https://github.com/brutaldesign/swipebox) - A touchable jQuery lightbox
 * [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
@@ -786,25 +786,25 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [plax](https://github.com/cameronmcefee/plax) - jQuery powered parallaxing.
 * [jparallax](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
-* [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+* [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace the old boring scrollbar.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 * [simpleParallax](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
 
 ## Menu
 
-* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
+* [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when the user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - contextMenu manager.
 * [Slideout](https://github.com/mango/slideout) - A responsive touch slideout navigation menu for mobile web apps.
 * [Slide and swipe](https://github.com/JoanClaret/slide-and-swipe-menu) - A sliding swipe menu that works with touchSwipe library.
-* [mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.
+* [mmenu](https://github.com/FrDH/jQuery.mmenu) - The best jQuery plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and web app.
 
 
 ## Table/Grid
 
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 * [DataTables](https://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
-* [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
+* [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that creates tables with a range of interactive features from any JSON data source or existing HTML table.
 * [Bootstrap Table](http://bootstrap-table.wenzhixin.net.cn/) - An Extension to the popular Bootstrap framework for creating tables that fit the style of your site with no need for additional markup.
 * [floatThead](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
 * [Masonry](http://masonry.desandro.com/) - A cascading grid layout library.
@@ -816,7 +816,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [Semantic UI](http://semantic-ui.com/) - UI Kit with lots of themes and elements.
 * [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
-* [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
+* [fluidity](https://github.com/mrmrs/fluidity) - The world's smallest fully-responsive css framework.
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 * [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
@@ -890,7 +890,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [impress.js](https://github.com/impress/impress.js) - Make Prezi-like presentations with CSS3 transformations/transitions in an HTML document.
 * [bounce.js](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
-* [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitioned event.
+* [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitioned events.
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - JavaScript library to create physics-based CSS animations.
 * [the-cube](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
 * [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
@@ -917,7 +917,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
 * [es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison.
-* [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets.
+* [es6-cheat sheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheat sheet containing tips, tricks, best practices and code snippets.
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
