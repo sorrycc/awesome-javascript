@@ -407,6 +407,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
+* [Statek](https://statek.dev) - State management library that connects reactive & declarative programming
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
