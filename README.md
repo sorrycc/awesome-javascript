@@ -867,7 +867,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  <https://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
- * [Howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web. This makes working with audio in JavaScript easy and reliable across all platforms.
  * [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
@@ -876,6 +875,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
  * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
+  * [Howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web. This makes working with audio in JavaScript easy and reliable across all platforms.
 
 ## Typography
 
