@@ -407,6 +407,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Most.js](https://github.com/cujojs/most) - high performance FRP library.
 * [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 * [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
+* [concent](https://github.com/concentjs/concent) - Definitely the ❤️ simplest but ⚡️ strongest state management for react, it is predictable、progressive and efficient.
 
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
