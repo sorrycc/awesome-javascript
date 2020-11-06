@@ -352,6 +352,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 * [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
+* [brace](https://github.com/thlorenz/brace) - browserify compatible version of the ace editor.
 
 
 ## Documentation
