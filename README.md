@@ -230,6 +230,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [makefun](https://www.npmjs.com/package/makefun) - Use promise values as they are satisfied otherwise wait for the promise
 * [Alpine.js](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 * [inferno](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
+* [vesselize](https://github.com/vesselize/vesselize) - ⛵ A JavaScript IoC container that works seamlessly with Vue.js and React.
 
 ## Node-Powered CMS Frameworks
 
