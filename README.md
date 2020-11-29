@@ -397,6 +397,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
+* [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
 
 
 ## Reactive Programming
