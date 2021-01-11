@@ -121,6 +121,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
 * [Microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 * [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right
+* [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 
 
 ## Type Checkers
