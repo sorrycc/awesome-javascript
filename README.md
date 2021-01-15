@@ -329,6 +329,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
 * [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data. 
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+* [SheetJS](https://github.com/SheetJS/sheetjs) - Read, edit, and export spreadsheets. Works in web browsers and servers.
 
 ## Editors
 
