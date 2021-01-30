@@ -284,7 +284,9 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [fabric.js](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
-* [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts.
+* [echarts](https://github.com/apache/echarts) - Enterprise Charts.
+* [G2](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
+* [G2Plot](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 * [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
 * [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 * [g.raphael](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
