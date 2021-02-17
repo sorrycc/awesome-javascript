@@ -429,6 +429,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in JavaScript.
 * [moment-timezone](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
+* [moment-immutable](https://github.com/smartin85/moment-immutable) - Make moment.js immutable.
 * [jquery-timeago](https://github.com/rmm5t/jquery-timeago) - A jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. "4 minutes ago").
 * [timezone-js](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 * [date](https://github.com/MatthewMueller/date) - Date() for humans.
