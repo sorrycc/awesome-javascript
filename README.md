@@ -801,7 +801,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 * [simpleParallax](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 * [rellax](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
-
+* [Sections](https://github.com/peteringram0/sections) - A tiny class to detect page sections as user scrolls and triggers events on fixed elements.
 
 ## Menu
 
