@@ -323,7 +323,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 
 ## Timeline
-
+* [video-editing-timeline](https://github.com/chenguzhen87/video-editing-timeline) - Timeline for video editing.
 * [TimelineJS v3](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
 * [timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
