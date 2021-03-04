@@ -196,7 +196,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## MVC Frameworks and Libraries
 
-* [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps.
+* [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
+* [angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
 * [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
