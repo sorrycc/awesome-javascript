@@ -232,6 +232,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Alpine.js](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 * [inferno](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [FoalTS](https://foalts.org) - Elegant and all-inclusive Node.JS framework for building web applications (TypeScript).
+* [Lucia](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 
 ## Node-Powered CMS Frameworks
 
