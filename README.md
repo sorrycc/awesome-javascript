@@ -573,6 +573,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
 * [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 * [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
+* [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
 ## Streaming
 
