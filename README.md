@@ -271,11 +271,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Articles and Posts
 
-* [JavaScript Podcasts to Listen to in 2021](https://snipcart.com/blog/javascript-podcasts) - Curated list of the best JavaScript podcasts in 2021.
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-você-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 * [Multi-threading using web-workers](https://www.loginradius.com/engineering/blog/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers: Adding Multi-threading to JavaScript
 * [this keyword in JavaScript](https://www.loginradius.com/engineering/blog/breaking-down-this-keyword-in-javascript/) - Breaking down the 'this' keyword in JavaScript
+* [JavaScript Podcasts to Listen to in 2021](https://snipcart.com/blog/javascript-podcasts) - Curated list of the best JavaScript podcasts in 2021.
 
 ## Data Visualization
 *Data visualization tools for the web.*
