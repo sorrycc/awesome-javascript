@@ -321,7 +321,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [G2](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 * [G2Plot](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 
-There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), and [highchart](http://www.highcharts.com/).
+There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), [highchart](http://www.highcharts.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
 
 ## Timeline
