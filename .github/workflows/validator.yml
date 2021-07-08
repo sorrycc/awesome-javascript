@@ -1,0 +1,43 @@
+name: Validator
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      
+env:
+  RUBY_VERSION: '2.6'
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  validator:
+    name: Validator
+    runs-on: ubuntu-latest
+    steps:
+    - id: setup-ruby
+      name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: ${{ env.RUBY_VERSION }}
+
+    - id: checkout
+      name: Checkout
+      uses: actions/checkout@v2
+
+    - id: install-gem
+      name: Install gem
+      run: |
+        gem install awesome_bot
+
+    - id: validate
+      name: Validate
+      run: |
+        awesome_bot README.md --allow-timeout --allow-redirect --allow-ssl
