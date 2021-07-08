@@ -40,4 +40,17 @@ jobs:
     - id: validate
       name: Validate
       run: |
-        awesome_bot README.md --allow-timeout --allow-redirect --allow-ssl --allow 429
+        awesome_bot README.md --request-delay 1 --allow-timeout --allow-redirect --allow-ssl --allow 429
+        
+    - id: upload-artifact
+      name: Upload artifact
+      uses: actions/upload-artifact@v2
+      if: failure()
+      with:
+        if-no-files-found: warn
+        name: ab-results
+        path: |
+          ab-results-README.md.json
+          ab-results-README.md-filtered.json
+          ab-results-README.md-markdown-table.json
+
