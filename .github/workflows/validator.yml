@@ -40,7 +40,7 @@ jobs:
     - id: validate
       name: Validate
       run: |
-        awesome_bot README.md --request-delay 1 --allow-timeout --allow-redirect --allow-ssl --allow 429
+        awesome_bot README.md --request-delay 0.5 --allow-timeout --allow-redirect
         
     - id: upload-artifact
       name: Upload artifact
