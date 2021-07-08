@@ -40,4 +40,4 @@ jobs:
     - id: validate
       name: Validate
       run: |
-        awesome_bot README.md --allow-timeout --allow-redirect --allow-ssl
+        awesome_bot README.md --allow-timeout --allow-redirect --allow-ssl --allow 429
