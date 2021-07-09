@@ -4,7 +4,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
-  * [Component managment](#component-managment)
+  * [Component management](#component-management)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
   * [Type Checkers](#type-checkers)
@@ -92,7 +92,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [pnpm](https://pnpm.js.org/) - Fast, disk space efficient package manager.
 
 
-## Component Managment
+## Component Management
 
 * [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
 
