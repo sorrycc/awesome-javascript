@@ -1008,6 +1008,7 @@ http://www.listjs.com
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+* [Service Worker Cookbook](https://serviceworke.rs/) - A collection of working, practical examples of using service workers in modern web sites.
 
 
 # Other Awesome Lists
