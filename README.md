@@ -865,7 +865,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
-* [H3js](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization
+* [H3js](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
 
 ## Video/Audio
 
@@ -883,9 +883,9 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
  * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
- * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+ * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
- * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js
+ * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
 
 ## Typography
 
@@ -909,17 +909,17 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitioned event.
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - JavaScript library to create physics-based CSS animations.
 * [the-cube](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
-* [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
+* [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library.
 * [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 * [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations.
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework.
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possibilities.
-* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way
+* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way.
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
 * [Anime.js](http://animejs.com) - A JavaScript animation engine.
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
-* [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features
+* [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
 ## Image Processing
@@ -927,11 +927,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
-
-## Emscripten Ported Libraries
-
-* [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc
-
+* * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
 
 ## ES6
 
@@ -951,15 +947,15 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## SDK
 
-* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience
+* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience.
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
  
 ## Full Text Search
 
-* [lunr](https://github.com/olivernn/lunr.js) - full-text search library for use in the browser. It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
-* [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
-* [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
+* [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser. It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
+* [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
+* [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
  
 ## Misc
 
@@ -968,7 +964,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
-* [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation
+* [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation.
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
 * [jquery.vibrate.js](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
 * [list.js](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
@@ -977,18 +973,18 @@ http://www.listjs.com
 * [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 * [survey.js](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
-* [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time
+* [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
-* [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
-* [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component
+* [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator.
+* [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component.
 * [iooxa](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 * [Idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
-* [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API
+* [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
-* [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
+* [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
