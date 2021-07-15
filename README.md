@@ -488,7 +488,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 * [crumbsjs](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
 * [awesome-web-storage](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
-
+* [datavore](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
 
 ## Color
 
@@ -865,6 +865,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
+* [H3js](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization
 
 ## Video/Audio
 
@@ -884,6 +885,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
  * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
+ * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js
 
 ## Typography
 
@@ -926,6 +928,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
+## Emscripten Ported Libraries
+
+* [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc
+
 
 ## ES6
 
@@ -948,8 +954,13 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
+ 
+## Full Text Search
 
-
+* [lunr](https://github.com/olivernn/lunr.js) - full-text search library for use in the browser. It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
+* [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+* [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
+ 
 ## Misc
 
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes.
@@ -975,7 +986,9 @@ http://www.listjs.com
 * [Idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
-
+* [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API
+* [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
+* [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
