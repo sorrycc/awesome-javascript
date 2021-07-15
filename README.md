@@ -486,9 +486,11 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [DB.js](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
 * [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
 * [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+* [pouchdb](https://github.com/pouchdb/pouchdb) - Javascript db inspired by Apache CouchDB to run well within the browser.
 * [crumbsjs](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
 * [awesome-web-storage](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
 * [datavore](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
+* [Hoodie](https://github.com/hoodiehq/hoodie) - Offline First backend to work in browser without internet connectivity.
 
 ## Color
 
