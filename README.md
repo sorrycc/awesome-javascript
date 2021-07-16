@@ -235,6 +235,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Adonis](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
 * [GrapesJS](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
 * [Rete.js](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
+* [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
+* [Drawflow](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
 
 ## Node-Powered CMS Frameworks
 
