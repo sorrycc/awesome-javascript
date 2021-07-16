@@ -283,7 +283,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *Data visualization tools for the web.*
 
 * [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
-  * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
+* [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag.
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
@@ -291,7 +291,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
 * [echarts](https://github.com/apache/echarts) - Enterprise Charts.
-* [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
+* [visjs](https://github.com/visjs) - Multiple Libraries for dynamic, browser-based data visualization.
 * [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 * [g.raphael](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
 * [sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
@@ -323,6 +323,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Frappe Gantt](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 * [G2](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 * [G2Plot](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
+* [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), [highchart](http://www.highcharts.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
