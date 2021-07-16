@@ -429,6 +429,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mori](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
+* [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
 
 
 ## Date
@@ -897,6 +898,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
  * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
+ * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
 
 ## Typography
 
@@ -939,7 +941,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
-* * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
 
 ## ES6
 
