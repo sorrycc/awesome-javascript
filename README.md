@@ -237,6 +237,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Rete.js](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
 * [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
 * [Drawflow](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
+* [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 
 ## Node-Powered CMS Frameworks
 
