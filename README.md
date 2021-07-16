@@ -232,7 +232,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [inferno](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [FoalTS](https://foalts.org) - Elegant and all-inclusive Node.JS framework for building web applications (TypeScript).
 * [Lucia](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
-* [Adonis](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence
+* [Adonis](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
+* [GrapesJS](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 
 ## Node-Powered CMS Frameworks
 
