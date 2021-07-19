@@ -883,6 +883,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
  * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
+  * [Howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web. This makes working with audio in JavaScript easy and reliable across all platforms.
 
 ## Typography
 
