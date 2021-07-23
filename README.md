@@ -55,6 +55,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     - [Form Widgets](#form-widgets)
     - [Tips](#tips)
     - [Modals and Popups](#modals-and-popups)
+    - [Image](#image)
     - [Scroll](#scroll)
     - [Menu](#menu)
     - [Table/Grid](#tablegrid)
@@ -785,6 +786,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 - [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 - [lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 - [keukenhof](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
+
+## Image
+
+- [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+- [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
 
 ## Scroll
 
