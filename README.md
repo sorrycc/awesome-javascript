@@ -60,6 +60,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Table/Grid](#tablegrid)
     * [Frameworks](#frameworks-1)
     * [Boilerplates](#boilerplates)
+    * [Image](#image)
   * [Gesture](#gesture)
   * [Maps](#maps)
   * [Typography](#typography)
@@ -862,6 +863,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Mobile-First-RWD](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design.
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive.
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
+
+## Images
+
+ * [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+ * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
 
 ## Gesture
 
