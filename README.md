@@ -66,6 +66,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Animations](#animations)
   * [Image processing](#image-processing)
   * [ES6](#es6)
+  * [Generators](#generators)
+  * [Full Text Search](#full-text-search)
   * [SDK](#sdk)
   * [Misc](#misc)
   * [Podcasts](#podcasts)
