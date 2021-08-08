@@ -911,6 +911,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
  * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
  * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
+ * [flv.js](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
 
 ## Typography
 
