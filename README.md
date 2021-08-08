@@ -41,6 +41,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Streaming](#streaming)
     * [Vision Detection](#vision-detection)
     * [Browser Detection](#browser-detection)
+    * [Operating System](#operating-system)
     * [Benchmark](#benchmark)
     * [Machine Learning](#machine-learning)
   * UI
@@ -614,6 +615,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [bowser](https://github.com/ded/bowser) - a browser detector.
 
+## Operating System
+* [os.js](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
+
 ## Benchmark
 
 * [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
@@ -772,7 +776,6 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 * [analytics](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 * [dat.GUI](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
-
 ## Tips
 
 * [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
