@@ -121,6 +121,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 * [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right
 * [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
+* [bundle](https://bundle.js.org) - A quick online npm package size checker.
 
 
 ## Type Checkers
