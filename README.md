@@ -918,6 +918,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
+* [@okikio/animate](https://github.com/okikio/native/tree/master/packages/animate#readme) - A js animation library focused on performance and ease of use, powered by the Web Animation API (WAAPI).
 
 ## Image Processing
 
