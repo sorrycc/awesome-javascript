@@ -952,6 +952,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 * [barbajs](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
+* [typicaljs](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 
 ## Image Processing
 
