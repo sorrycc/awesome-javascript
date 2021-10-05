@@ -899,6 +899,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Animations
 
+* [Animate.js](https://github.com/koffiisen/Animate.js) - Simple javascript library to animate any html element.
 * [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 * [bounce.js](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
