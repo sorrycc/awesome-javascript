@@ -41,6 +41,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Streaming](#streaming)
     * [Vision Detection](#vision-detection)
     * [Browser Detection](#browser-detection)
+    * [Operating System](#operating-system)
     * [Benchmark](#benchmark)
     * [Machine Learning](#machine-learning)
   * UI
@@ -60,12 +61,15 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Table/Grid](#tablegrid)
     * [Frameworks](#frameworks-1)
     * [Boilerplates](#boilerplates)
+    * [Image](#image)
   * [Gesture](#gesture)
   * [Maps](#maps)
   * [Typography](#typography)
   * [Animations](#animations)
   * [Image processing](#image-processing)
   * [ES6](#es6)
+  * [Generators](#generators)
+  * [Full Text Search](#full-text-search)
   * [SDK](#sdk)
   * [Misc](#misc)
   * [Podcasts](#podcasts)
@@ -232,7 +236,12 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [inferno](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [FoalTS](https://foalts.org) - Elegant and all-inclusive Node.JS framework for building web applications (TypeScript).
 * [Lucia](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
-* [Adonis](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence
+* [Adonis](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
+* [GrapesJS](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+* [Rete.js](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
+* [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
+* [Drawflow](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
+* [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 
 ## Node-Powered CMS Frameworks
 
@@ -278,7 +287,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *Data visualization tools for the web.*
 
 * [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
-  * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
+* [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
 * [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag.
 * [paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
@@ -286,7 +295,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [peity](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
 * [echarts](https://github.com/apache/echarts) - Enterprise Charts.
-* [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library.
+* [visjs](https://github.com/visjs) - Multiple Libraries for dynamic, browser-based data visualization.
 * [two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 * [g.raphael](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
 * [sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
@@ -318,7 +327,9 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Frappe Gantt](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 * [G2](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 * [G2Plot](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
-
+* [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
+* [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
+* [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), [highchart](http://www.highcharts.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
 
@@ -423,6 +434,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [mori](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
+* [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
 
 
 ## Date
@@ -486,9 +498,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [DB.js](https://github.com/aaronpowell/db.js/) - Promise based IndexDB Wrapper library.
 * [lawnchair.js](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
 * [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+* [pouchdb](https://github.com/pouchdb/pouchdb) - Javascript db inspired by Apache CouchDB to run well within the browser.
 * [crumbsjs](https://github.com/nirtz89/crumbsjs) - A lightweight vanilla ES6 cookies and local storage JavaScript library.
 * [awesome-web-storage](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
-
+* [datavore](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
+* [Hoodie](https://github.com/hoodiehq/hoodie) - Offline First backend to work in browser without internet connectivity.
+* [NeDB](https://github.com/louischatriot/nedb) - Embedded Persistent database for Browsers, nw.js, electron.
 
 ## Color
 
@@ -599,6 +614,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Browser Detection
 
 * [bowser](https://github.com/ded/bowser) - a browser detector.
+
+## Operating System
+* [os.js](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
 
 ## Benchmark
 
@@ -731,7 +749,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [rome](https://github.com/bevacqua/rome) - A customizable date (and time) picker. Dependency free, opt-in UI.
 * [Date Range Picker](https://github.com/dangrossman/daterangepicker) - creates a dropdown menu from which a user can select a range of dates.
 * [Duet Date Picker](https://github.com/duetds/date-picker) - open source version of Duet Design System’s accessible date picker, WCAG 2.1 accessibility complaint
-
+* [tui.calendar](https://github.com/nhn/tui.calendar) - A JavaScript schedule calendar that is full featured. Now your service just got the customizable calendar.
 
 ### Select
 
@@ -757,8 +775,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [card](https://github.com/jessepollak/card) - Make your credit card form better in one line of code.
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 * [analytics](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
-
-
+* [dat.GUI](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
 ## Tips
 
 * [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
@@ -779,6 +796,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [css-modal](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 * [SweetAlert](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.
+* [SweetAlert2](https://github.com/sweetalert2/sweetalert2) - An awesome replacement for JavaScript's alert.
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
 * [colorbox](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery.
 * [fancyBox](https://github.com/fancyapps/fancyBox) - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
@@ -786,6 +804,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 * [keukenhof](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
+* [screenfull.js](https://github.com/sindresorhus/screenfull.js) - the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen. Smoothens out the browser implementation differences, so you don't have to.
 
 ## Scroll
 
@@ -803,7 +822,10 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 * [simpleParallax](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 * [rellax](https://github.com/dixonandmoe/rellax) - Buttery smooth, super lightweight, vanilla javascript parallax library.
-
+* [asscroll](https://github.com/ashthornton/asscroll) - A hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
+* [stroll](https://github.com/hakimel/stroll.js) - A collection of CSS List scroll effects bind to dom through javascript.
+* [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
+* [elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 
 ## Menu
 
@@ -825,6 +847,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Packery](http://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](http://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
+* [Jspreadsheet](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 
 ## Frameworks
 
@@ -847,6 +870,11 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive.
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
 
+## Images
+
+ * [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
+ * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
+ * [Panolens.js](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
@@ -864,6 +892,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [mapbox.js](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](http://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
+* [H3js](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
 
 ## Video/Audio
 
@@ -881,8 +910,12 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
  * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
- * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+ * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
+ * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
+ * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
+ * [flv.js](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
+ * [hls.js](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
 
 ## Typography
 
@@ -906,25 +939,26 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [TransitionEnd](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitioned event.
 * [Dynamic.js](https://github.com/michaelvillar/dynamics.js) - JavaScript library to create physics-based CSS animations.
 * [the-cube](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
-* [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
+* [Effeckt.css](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library.
 * [animate.css](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 * [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations.
 * [move.js](https://github.com/visionmedia/move.js) - CSS3 backed JavaScript animation framework.
 * [animatable](https://github.com/LeaVerou/animatable) - One property, two values, endless possibilities.
-* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way
+* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way.
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
 * [Anime.js](http://animejs.com) - A JavaScript animation engine.
 * [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
-* [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features
+* [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
+* [barbajs](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
+* [typicaljs](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 
 ## Image Processing
 
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
-
 
 ## ES6
 
@@ -944,11 +978,16 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## SDK
 
-* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience
+* [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience.
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
+ 
+## Full Text Search
 
-
+* [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
+* [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
+* [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
+ 
 ## Misc
 
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes.
@@ -956,7 +995,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
 * [json3](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
-* [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation
+* [BitSet.js](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation.
 * [spoiler-alert](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
 * [jquery.vibrate.js](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
 * [list.js](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
@@ -965,16 +1004,18 @@ http://www.listjs.com
 * [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 * [survey.js](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
-* [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time
+* [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
-* [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator
-* [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component
+* [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator.
+* [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component.
 * [iooxa](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 * [Idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
-
+* [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
+* [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
+* [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
@@ -992,6 +1033,7 @@ http://www.listjs.com
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+* [Service Worker Cookbook](https://serviceworke.rs/) - A collection of working, practical examples of using service workers in modern web sites.
 
 
 # Other Awesome Lists
