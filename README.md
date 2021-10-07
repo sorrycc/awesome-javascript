@@ -328,8 +328,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [G2](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 * [G2Plot](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 * [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
+* [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
-
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/), [highchart](http://www.highcharts.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
 
