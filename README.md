@@ -543,6 +543,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [crossroads](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
 * [davis.js](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 * [navaid](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes~!
+* [fc-hash-router](https://github.com/agrublev/fc-hash-router) - The simplest JS routing ever!!
 
 
 ## Security
