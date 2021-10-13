@@ -224,7 +224,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views.
 * [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
 * [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
-    * [derby-awesome](https://github.com/russll/awesome-derby) - A collection of awesome derby components
+* [derby-awesome](https://github.com/russll/awesome-derby) - A collection of awesome derby components
 * [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding.
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
