@@ -275,6 +275,9 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+* [Jsuites.template](https://jsuites.net/v4/javascript-template) - The Jsuites.template is a lightweight JavaScript plugin which allows users to upload data remotely or locally to a template, search and page automatically.
+
+
 
 ## Articles and Posts
 
@@ -343,6 +346,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
 * [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data. 
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+* [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet CE is a free (MIT) lightweight agnostic JavaScript plugin to create online datagrids and spreadsheets.
+* [Jspreadsheet PRO](https://jspreadsheet.com) - Jspreadsheet is a lightweight Vanilla JavaScript plugin, can help you create exceptional web-based interactive tables and spreadsheets. 
+  
+ 
 
 ## Editors
 
@@ -369,6 +376,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 * [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
+* [Jsuites.editor](https://jsuites.net/v4/text-editor) - A lightweight JavaScript html editor.
 
 
 ## Documentation
@@ -480,7 +488,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
-* [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+* [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript.
+* [Jsuites.masks](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
 
 
 ## Storage
@@ -514,6 +523,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [Jsuites.color](https://jsuites.net/v4/color-picker) - The jSuites.color is a lightweight JavaScript color picker plugin.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
@@ -717,6 +727,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Flickity](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 * [Glide.js](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 * [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
+* [Jsuites.slider](https://jsuites.net/v4/image-slider) - The jSuites.slider is a lightweight useful JavaScript image slider plugin.
 
 ## Range Sliders
 
@@ -750,6 +761,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Date Range Picker](https://github.com/dangrossman/daterangepicker) - creates a dropdown menu from which a user can select a range of dates.
 * [Duet Date Picker](https://github.com/duetds/date-picker) - open source version of Duet Design System’s accessible date picker, WCAG 2.1 accessibility complaint
 * [tui.calendar](https://github.com/nhn/tui.calendar) - A JavaScript schedule calendar that is full featured. Now your service just got the customizable calendar.
+* [Jsuites.calendar](https://jsuites.net/v4/javascript-calendar) - The jSuites.calendar is a lightweight responsive JavaScript calendar, date and date-time picker web component plugin.
 
 ### Select
 
@@ -805,6 +817,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 * [keukenhof](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
 * [screenfull.js](https://github.com/sindresorhus/screenfull.js) - the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen. Smoothens out the browser implementation differences, so you don't have to.
+* [Jsuites.modal](https://jsuites.net/v4/modal) - The Jsuites.modal is a lightweight responsive and flexible JavaScript modal plugin.
 
 ## Scroll
 
@@ -874,7 +887,8 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
  * [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
  * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
- * [Panolens.js](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+ * [Panolens.js](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible.
+ 
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
