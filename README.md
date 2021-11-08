@@ -694,6 +694,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system.
 * [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
 * [notie](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
+* [notifire](https://github.com/notifirehq/notifire) - Open-source notification infrastructure for products.
 
 
 ## Sliders
