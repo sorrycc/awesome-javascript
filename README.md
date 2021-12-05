@@ -181,6 +181,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 * [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
+* [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## QA Tools
 
@@ -695,6 +696,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [humane-js](https://github.com/wavded/humane-js) - A simple, modern, browser notification system.
 * [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
 * [notie](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
+* [notifire](https://github.com/notifirehq/notifire) - Open-source notification infrastructure for products.
 
 
 ## Sliders
@@ -1004,7 +1006,7 @@ http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - A Filter & Sort Plugin.
 * [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
-* [survey.js](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
+* [SurveyJS](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. https://surveyjs.io/
 * [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
@@ -1034,7 +1036,6 @@ http://www.listjs.com
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
-* [Service Worker Cookbook](https://serviceworke.rs/) - A collection of working, practical examples of using service workers in modern web sites.
 
 
 # Other Awesome Lists
