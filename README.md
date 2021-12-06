@@ -610,6 +610,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [TensorFlow.js](https://js.tensorflow.org) - A JavaScript library for training and deploying ML models in the browser and on Node.js.
 * [ml5.js](https://ml5js.org) - Friendly Machine Learning for the Web.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 
 
 ## Browser Detection
