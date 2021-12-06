@@ -213,7 +213,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 * [espresso.js](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
 * [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
-* [react](http://reactjs.org/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
+* [react](https://reactjs.org/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 * [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications.
 * [preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 * [nativescript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript.
@@ -263,7 +263,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *Templating engines allow you to perform string interpolation.*
 
 * [mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
-* [handlebars.js](https://github.com/wycats/handlebars.js/) - An extension to the Mustache templating language.
+* [handlebars.js](https://github.com/handlebars-lang/handlebars.js) - An extension to the Mustache templating language.
 * [nunjucks](https://mozilla.github.io/nunjucks/) - A rich and powerful templating language for JavaScript from Mozilla.
 * [hogan.js](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language.
 * [doT](https://github.com/olado/doT) - The fastest + concise JavaScript template engine for nodejs and browsers.
