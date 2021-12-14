@@ -649,8 +649,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 
-Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/), and generators like [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) and [CSSLoad](http://cssload.net/).
-
 
 ## Validation
 
