@@ -333,6 +333,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+ 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), [highchart](https://www.highcharts.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
 ## Timeline
