@@ -61,7 +61,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Table/Grid](#tablegrid)
     * [Frameworks](#frameworks-1)
     * [Boilerplates](#boilerplates)
-    * [Image](#image)
+    * [Images](#images)
   * [Gesture](#gesture)
   * [Maps](#maps)
   * [Typography](#typography)
@@ -880,12 +880,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
  * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
  * [Panolens.js](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
 * [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 * [Dragula](https://github.com/bevacqua/dragula/) - Drag and drop so simple it hurts.
-
 
 ## Maps
 
