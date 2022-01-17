@@ -2,7 +2,7 @@
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript/)](#awesome-javascript)
+- [Awesome JavaScript](#awesome-javascript)
   - [Package Managers](#package-managers)
   - [Component Management](#component-management)
   - [Loaders](#loaders)
