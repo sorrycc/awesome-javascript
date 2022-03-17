@@ -116,6 +116,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
 
+## Transpilers
+
+* [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
+
+
 ## Bundlers
 
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
