@@ -6,6 +6,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Package Managers](#package-managers)
   * [Component management](#component-management)
   * [Loaders](#loaders)
+  * [Transpilers](#transpilers)
   * [Bundlers](#bundlers)
   * [Type Checkers](#type-checkers)
   * [Testing Frameworks](#testing-frameworks)
@@ -117,6 +118,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 
 ## Transpilers
+
+*Software that converts the modern javascript syntax into the older javascript syntax.*
 
 * [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
 
