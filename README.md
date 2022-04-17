@@ -13,6 +13,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
+  * [Game Engines](#game-engines)
   * [Articles/Posts](#articles-and-posts)
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
@@ -277,6 +278,18 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+
+## Game Engines
+* [A-Frame](https://aframe.io) - Make WebVR.
+* [Cocos](https://www.cocos.com) - Open Source Cross-Platform Game Development Framework.
+* [Impact](https://impactjs.com) - Impact - HTML5 Canvas & JavaScript Game Engine.
+* [GDevelop](https://gdevelop.io) - Free and Easy Game-Making App.
+* [Kaboom.js](https://kaboomjs.com) - A game programming library that helps you make games fast and fun.
+* [Matter.js](https://brm.io/matter-js) - A 2D rigid body JavaScript physics engine.
+* [melonJS](https://melonjs.org) - Open source HTML5 game engine that empowers developers and designers to focus on content.
+* [Phaser](https://phaser.io) - Phaser - A fast, fun and free open source HTML5 game framework.
+* [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
+* [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
 
 ## Articles and Posts
 
