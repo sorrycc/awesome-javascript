@@ -1042,6 +1042,7 @@ https://listjs.com
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 * [The joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - The key design concepts for clean, and easy-to-maintain code.
 * [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A guide to building a comprehensive and reliable JS application testing suite.
+* [D3.js in Action, Third Edition](https://www.manning.com/books/d3js-in-action-third-edition) - A book about D3.js that guides you from simple charts to powerful interactive graphics.
 
 
 # Other Awesome Lists
