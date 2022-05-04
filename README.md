@@ -676,6 +676,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
 * [Funval](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 * [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
+* [Fogex](https://github.com/fogex-js/fogex) - A library for validate a string using regular expressions.
 
 
 ## Keyboard Wrappers
