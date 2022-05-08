@@ -426,7 +426,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for JavaScript programmers.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
-* [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
 * [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
