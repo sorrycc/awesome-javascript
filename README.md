@@ -75,6 +75,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Misc](#misc)
   * [Podcasts](#podcasts)
 * [Worth Reading](#worth-reading)
+* [Alternatives and extensions](#alternatives)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -129,7 +130,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Type Checkers
 
-* [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
 * [Flow.js](https://flow.org/en/) - A static type checker for JavaScript from Facebook.
 * [Hegel](https://hegel.js.org/) -  A static type checker for JavaScript with a bias on type inference an strong type system.
 * [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
@@ -208,7 +208,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
 * [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 * [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
-* [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 * [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 * [espresso.js](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
@@ -274,7 +273,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Pug](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)
 * [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
-* [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
 
 ## Game Engines
@@ -1035,6 +1033,7 @@ https://listjs.com
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 ## Podcasts
+
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 * [JavaScript Jabber](https://devchat.tv/show/javascript-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
@@ -1051,8 +1050,45 @@ https://listjs.com
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
+# Alternatives and extensions
+
+## Dedicated JS alternatives
+
+* [CoffeeScript](https://coffeescript.org/) - A little language that compiles into JavaScript.
+* [Dart](http://www.dartlang.org/) - A client-optimized language for fast apps on any platform.
+* [Elm](https://elm-lang.org/) - A delightful, functional language for reliable webapps.
+* [Grain](https://grain-lang.org/) - A programming language that compiles to WebAssembly, which aims to modernize and popularize innovative features from functional and academic programming languages.
+* [Imba](https://imba.io/) - A friendly full-stack programming language for the web that compiles to performant JavaScript.
+* [JSX](https://github.com/facebook/jsx) - JSX is an XML-like syntax extension to ECMAScript that can be transpiled to standard ECMAScript.
+* [LiveScript](http://livescript.net/) - A language which compiles to JavaScript that allows you to write expressive code devoid of repetitive boilerplate.
+* [Marko](https://markojs.com/) - Marko is HTML re-imagined as a language for building dynamic and reactive user interfaces.
+* [Mint](https://mint-lang.com/) - A programming language for front-end development, aiming to solve the most common issues of Single Page Applications (SPAs) at a language level.
+* [PureScript](http://purescript.org) - A strongly-typed functional programming language that compiles to JavaScript.
+* [ReScript](https://rescript-lang.org/) - A robustly-typed language that compiles to efficient and human-readable JavaScript.
+* [Svelte](https://svelte.dev/) - A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+* [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
+
+## General-purpose languages that transpile to JS
+
+* [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) - A framework for building interactive client-side web UIs using C# and the .NET ecosystem.
+* [ClojureScript](https://clojurescript.org/) - A robust, practical, and fast programming language with a set of useful features that together form a simple, coherent, and powerful tool.
+* [Emscripten](https://emscripten.org/) - A complete compiler toolchain to WebAssembly, using LLVM, with a special focus on speed, size, and the Web platform.
+* [Fable](https://fable.io/) - A compiler that brings F# into the JavaScript ecosystem.
+* [Fengari](https://fengari.io/) - A Lua VM for Node and the browser.
+* [GHCJS](https://github.com/ghcjs/ghcjs) - A Haskell to JavaScript compiler based on GHC.
+* [GopherJS](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser.
+* [GWT](https://www.gwtproject.org/) - A development toolkit for building and optimizing complex browser-based applications.
+* [Haxe](https://haxe.org/) - An open source high-level strictly-typed programming language with a fast optimizing cross-compiler.
+* [Idris](https://www.idris-lang.org/) - A language for Type-Driven Development which bundles JavaScript code generators for Node and the browser.
+* [Kotlin/JS](https://kotlinlang.org/docs/js-overview.html) - A Kotlin-to-JavaScript transpiler.
+* [Nim](https://nim-lang.org/features.html) - A statically-typed compiled systems programming language.
+* [Opal](https://opalrb.com/) - A Ruby to JavaScript source-to-source compiler.
+* [Pyodide](https://pyodide.org/) - A Python distribution for the browser and Node.js based on WebAssembly.
+* [Scala.js](http://www.scala-js.org/) - An optimizing Scala-to-JavaScript compiler that provides  strong typing and compatiblity with common JavaScript libraries.
+* [Shift.JS](https://github.com/shift-js/shift-js) - A Swift-to-JavaScript transpiler.
 
 # Other Awesome Lists
+
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
