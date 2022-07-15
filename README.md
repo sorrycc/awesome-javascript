@@ -1072,6 +1072,7 @@ https://listjs.com
 * [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
+* [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun)
 
 # Contributing
 
