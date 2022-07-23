@@ -428,6 +428,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
 * [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
+* [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 
 
 ## Reactive Programming
