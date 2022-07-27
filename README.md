@@ -243,6 +243,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Drawflow](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
 * [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
+* [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 
 ## Node-Powered CMS Frameworks
 
