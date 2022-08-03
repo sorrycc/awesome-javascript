@@ -604,6 +604,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 * [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
 * [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+* [SWRV](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
+* [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
 
 ## Streaming
 
