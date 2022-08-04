@@ -451,7 +451,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 * [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
-
+* [js-sdsl](https://github.com/zly201/js-sdsl) - Refer to the javascript standard data structure library implemented by c++ stl, which supports c++ bidirectional iterator mode.
 
 ## Date
 *Date Libraries.*
