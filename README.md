@@ -177,7 +177,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
-* [yolpo](http://www.yolpo.com) - A statement-by-statement JavaScript interpreter in the browser.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 * [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
