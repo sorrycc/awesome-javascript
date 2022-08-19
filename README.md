@@ -7,7 +7,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Component management](#component-management)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
-  * [Minifiers](#minifiers)
+  * [Minimizers](#minimizers)
   * [Type Checkers](#type-checkers)
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
@@ -127,7 +127,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right
 * [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 
-# Minifiers
+# Minimizers
 
 * [Terser](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 * [Uglify](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
