@@ -351,7 +351,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
- 
+
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), [highchart](https://www.highcharts.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
 ## Timeline
@@ -362,7 +362,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Spreadsheet
 
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
-* [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data. 
+* [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
  * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 
@@ -396,7 +396,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Documentation
 
 * [DevDocs](https://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
-* [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
 * [docco](http://ashkenas.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 * [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 * [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
@@ -491,7 +490,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 * [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
 * [plexis](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
-* [url-state-machine](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js. 
+* [url-state-machine](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
 
 ## Number
 
@@ -528,7 +527,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Hoodie](https://github.com/hoodiehq/hoodie) - Offline First backend to work in browser without internet connectivity.
 * [NeDB](https://github.com/louischatriot/nedb) - Embedded Persistent database for Browsers, nw.js, electron.
 * [Lovefield](https://google.github.io/lovefield) - Lovefield is a relational database for web apps, By Google.
- 
+* [Dexie.js](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
+
 ## Color
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
@@ -875,7 +875,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Packery](https://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](https://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
- 
+
 
 ## Frameworks
 
@@ -1010,13 +1010,13 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience.
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
- 
+
 ## Full Text Search
 
 * [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
- 
+
 ## Misc
 
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes.
