@@ -982,6 +982,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [barbajs](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 * [typicaljs](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * [AutoAnimate](https://auto-animate.formkit.com) - Add motion to your apps with a single line of code.
+* [TxtAnime.js](https://github.com/mohamedfrindi/TxtAnime.js) - It is a JavaScript library, which contains many beautiful and free text effects.
+
 
 ## Image Processing
 
