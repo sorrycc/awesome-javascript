@@ -528,6 +528,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [NeDB](https://github.com/louischatriot/nedb) - Embedded Persistent database for Browsers, nw.js, electron.
 * [Lovefield](https://google.github.io/lovefield) - Lovefield is a relational database for web apps, By Google.
 * [Dexie.js](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
+* [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage) - Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires.
 
 ## Color
 
