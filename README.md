@@ -46,6 +46,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Operating System](#operating-system)
     * [Benchmark](#benchmark)
     * [Machine Learning](#machine-learning)
+    * [Web Worker](#web-worker)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -651,6 +652,19 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 * [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+
+## Web Worker
+
+* [partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+* [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink is a tiny library (1.1kB), that removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
+* [greenlet](https://github.com/developit/greenlet) - Move an async function into its own thread.
+* [workerize](https://github.com/developit/workerize) - Moves a module into a Web Worker, automatically reflecting exported functions as asynchronous proxies.
+* [worker-dom](https://github.com/ampproject/worker-dom) - An in-progress implementation of the DOM API intended to run within a Web Worker.
+* [threads.js](https://github.com/andywer/threads.js) - Offload CPU-intensive tasks to worker threads in node.js, web browsers and electron using one uniform API.
+* [workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker.
+* [stockroom](https://github.com/developit/stockroom) - Offload your store management to a worker easily.
+* [workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser.
+* [clooney](https://github.com/GoogleChromeLabs/clooney) - Clooney is an actor library for the web. Use workers without thinking about workers.
 
 ## Code highlighting
 
