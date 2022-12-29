@@ -5,7 +5,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Component Management](#component-management)
-  * [Component Management](#component-management)
   * [Loaders](#loaders)
   * [Bundlers](#bundlers)
   * [Minimizers](#minimizers)
@@ -90,7 +89,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 * [License](#license)
-
 
 ----
 
