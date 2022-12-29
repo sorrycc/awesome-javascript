@@ -2,90 +2,95 @@
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-- [Awesome JavaScript](#awesome-javascript)
-  - [Package Managers](#package-managers)
-  - [Component Management](#component-management)
-  - [Loaders](#loaders)
-  - [Bundlers](#bundlers)
-  - [Type Checkers](#type-checkers)
-  - [Testing Frameworks](#testing-frameworks)
-    - [Frameworks](#frameworks)
-    - [Assertion](#assertion)
-    - [Coverage](#coverage)
-    - [Runner](#runner)
-  - [QA Tools](#qa-tools)
-  - [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
-  - [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
-  - [Templating Engines](#templating-engines)
-  - [Articles and Posts](#articles-and-posts)
-  - [Data Visualization](#data-visualization)
-  - [Timeline](#timeline)
-  - [Spreadsheet](#spreadsheet)
-  - [Editors](#editors)
-  - [Documentation](#documentation)
+* [Awesome JavaScript](#awesome-javascript)
+  * [Package Managers](#package-managers)
+  * [Component Management](#component-management)
+  * [Component Management](#component-management)
+  * [Loaders](#loaders)
+  * [Bundlers](#bundlers)
+  * [Minimizers](#minimizers)
+  * [Type Checkers](#type-checkers)
+  * [Testing Frameworks](#testing-frameworks)
+    * [Frameworks](#frameworks)
+    * [Assertion](#assertion)
+    * [Coverage](#coverage)
+    * [Runner](#runner)
+  * [QA Tools](#qa-tools)
+  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
+  * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
+  * [Templating Engines](#templating-engines)
+  * [Game Engines](#game-engines)
+  * [Articles and Posts](#articles-and-posts)
+  * [Data Visualization](#data-visualization)
+  * [Timeline](#timeline)
+  * [Spreadsheet](#spreadsheet)
+  * [Editors](#editors)
+  * [Documentation](#documentation)
   - Utilities
-    - [Files](#files)
-    - [Functional Programming](#functional-programming)
-    - [Reactive Programming](#reactive-programming)
-    - [Data Structure](#data-structure)
-    - [Date](#date)
-    - [String](#string)
-    - [Number](#number)
-    - [Storage](#storage)
-    - [Color](#color)
-    - [I18n And L10n](#i18n-and-l10n)
-    - [Control Flow](#control-flow)
-    - [Routing](#routing)
-    - [Security](#security)
-    - [Log](#log)
-    - [RegExp](#regexp)
-    - [Voice Command](#voice-command)
-    - [API](#api)
-    - [Streaming](#streaming)
-    - [Vision Detection](#vision-detection)
-    - [Machine Learning](#machine-learning)
-    - [Browser Detection](#browser-detection)
-    - [Operating System](#operating-system)
-    - [Benchmark](#benchmark)
+    * [Files](#files)
+    * [Functional Programming](#functional-programming)
+    * [Reactive Programming](#reactive-programming)
+    * [Data Structure](#data-structure)
+    * [Date](#date)
+    * [String](#string)
+    * [Number](#number)
+    * [Storage](#storage)
+    * [Color](#color)
+    * [I18n And L10n](#i18n-and-l10n)
+    * [Control Flow](#control-flow)
+    * [Routing](#routing)
+    * [Security](#security)
+    * [Log](#log)
+    * [RegExp](#regexp)
+    * [Voice Command](#voice-command)
+    * [API](#api)
+    * [Streaming](#streaming)
+    * [Vision Detection](#vision-detection)
+    * [Machine Learning](#machine-learning)
+    * [Browser Detection](#browser-detection)
+    * [Operating System](#operating-system)
+    * [Benchmark](#benchmark)
+    * [Web Worker](#web-worker)
   - UI
-    - [Code highlighting](#code-highlighting)
-    - [Loading Status](#loading-status)
-    - [Validation](#validation)
-    - [Keyboard Wrappers](#keyboard-wrappers)
-    - [Tours And Guides](#tours-and-guides)
-    - [Notifications](#notifications)
-    - [Sliders](#sliders)
-    - [Range Sliders](#range-sliders)
-    - [Form Widgets](#form-widgets)
-      - [Input](#input)
-      - [Calendar](#calendar)
-      - [Select](#select)
-      - [File Uploader](#file-uploader)
-      - [Other](#other)
-    - [Tips](#tips)
-    - [Modals and Popups](#modals-and-popups)
-    - [Scroll](#scroll)
-    - [Menu](#menu)
-    - [Table/Grid](#tablegrid)
-    - [Frameworks](#frameworks)
-    - [Boilerplates](#boilerplates)
-    - [Images](#images)
-  - [Gesture](#gesture)
-  - [Maps](#maps)
-  - [Video/Audio](#videoaudio)
-  - [Typography](#typography)
-  - [Animations](#animations)
-  - [Image Processing](#image-processing)
-  - [ES6](#es6)
-  - [Generators](#generators)
-  - [SDK](#sdk)
-  - [Full Text Search](#full-text-search)
-  - [Misc](#misc)
-  - [Podcasts](#podcasts)
-- [Worth Reading](#worth-reading)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
-- [License](#license)
+    * [Code highlighting](#code-highlighting)
+    * [Loading Status](#loading-status)
+    * [Validation](#validation)
+    * [Keyboard Wrappers](#keyboard-wrappers)
+    * [Tours And Guides](#tours-and-guides)
+    * [Notifications](#notifications)
+    * [Sliders](#sliders)
+    * [Range Sliders](#range-sliders)
+    * [Form Widgets](#form-widgets)
+      * [Input](#input)
+      * [Calendar](#calendar)
+      * [Select](#select)
+      * [File Uploader](#file-uploader)
+      * [Other](#other)
+    * [Tips](#tips)
+    * [Modals and Popups](#modals-and-popups)
+    * [Scroll](#scroll)
+    * [Menu](#menu)
+    * [Table/Grid](#tablegrid)
+    * [Frameworks](#frameworks)
+    * [Boilerplates](#boilerplates)
+    * [Images](#images)
+  * [Gesture](#gesture)
+  * [Maps](#maps)
+  * [Video/Audio](#videoaudio)
+  * [Typography](#typography)
+  * [Animations](#animations)
+  * [Image Processing](#image-processing)
+  * [ES6](#es6)
+  * [Generators](#generators)
+  * [SDK](#sdk)
+  * [Full Text Search](#full-text-search)
+  * [Misc](#misc)
+  * [Podcasts](#podcasts)
+* [Worth Reading](#worth-reading)
+* [Other Awesome Lists](#other-awesome-lists)
+* [Contributing](#contributing)
+* [License](#license)
+
 
 ----
 
@@ -117,7 +122,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [SeaJS](https://github.com/seajs/seajs) - A Module Loader for the Web.
 * [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
-* [curl](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
 * [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
@@ -135,6 +139,12 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 * [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right
 * [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
+
+
+# Minimizers
+
+* [Terser](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
+* [Uglify](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
 
 
 ## Type Checkers
@@ -187,7 +197,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
-* [yolpo](http://www.yolpo.com) - A statement-by-statement JavaScript interpreter in the browser.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 * [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
@@ -239,7 +248,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding.
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
 * [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
-* [LiquidLava](http://www.lava-framework.com/) - Transparent MVC framework for building user interfaces.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
 * [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 * [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
@@ -254,6 +262,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Drawflow](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
 * [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
+* [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 
 ## Node-Powered CMS Frameworks
 
@@ -287,6 +296,18 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [xtemplate](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+
+## Game Engines
+* [A-Frame](https://aframe.io) - Make WebVR.
+* [Cocos](https://www.cocos.com) - Open Source Cross-Platform Game Development Framework.
+* [Impact](https://impactjs.com) - Impact - HTML5 Canvas & JavaScript Game Engine.
+* [GDevelop](https://gdevelop.io) - Free and Easy Game-Making App.
+* [Kaboom.js](https://kaboomjs.com) - A game programming library that helps you make games fast and fun.
+* [Matter.js](https://brm.io/matter-js) - A 2D rigid body JavaScript physics engine.
+* [melonJS](https://melonjs.org) - Open source HTML5 game engine that empowers developers and designers to focus on content.
+* [Phaser](https://phaser.io) - Phaser - A fast, fun and free open source HTML5 game framework.
+* [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
+* [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
 
 ## Articles and Posts
 
@@ -343,7 +364,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
- 
+
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), [highchart](https://www.highcharts.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
 ## Timeline
@@ -354,8 +375,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Spreadsheet
 
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers
-* [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data. 
+* [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+ * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 
 ## Editors
 
@@ -387,7 +409,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Documentation
 
 * [DevDocs](https://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
-* [dexy](http://www.dexy.it/) is a free-form literate documentation tool for writing any kind of technical document incorporating code.
 * [docco](http://ashkenas.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 * [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 * [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
@@ -397,7 +418,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 * [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
 * [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
-* [Using JSDoc](http://usejsdoc.org/)
 * [Beautiful docs](https://github.com/beautiful-docs/beautiful-docs) is a documentation viewer based on markdown files.
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
@@ -421,12 +441,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 * [Sugar](https://github.com/andrewplummer/Sugar) - A JavaScript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
-* [ramda](https://github.com/CrossEye/ramda) - A practical functional library for JavaScript programmers.
+* [ramda](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
-* [mesh](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
 * [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
+* [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 
 
 ## Reactive Programming
@@ -449,7 +469,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 * [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
-
+* [js-sdsl](https://github.com/zly201/js-sdsl) - Refer to the javascript standard data structure library implemented by c++ stl, which supports c++ bidirectional iterator mode.
 
 ## Date
 *Date Libraries.*
@@ -483,6 +503,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [sprintf.js](https://github.com/alexei/sprintf.js) - A sprintf implementation.
 * [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
 * [plexis](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
+* [url-state-machine](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
 
 ## Number
 
@@ -518,6 +539,9 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [datavore](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
 * [Hoodie](https://github.com/hoodiehq/hoodie) - Offline First backend to work in browser without internet connectivity.
 * [NeDB](https://github.com/louischatriot/nedb) - Embedded Persistent database for Browsers, nw.js, electron.
+* [Lovefield](https://google.github.io/lovefield) - Lovefield is a relational database for web apps, By Google.
+* [Dexie.js](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
+* [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage) - Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires.
 
 ## Color
 
@@ -536,6 +560,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [polyglot](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 * [ttag](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
+* [attranslate](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
 
 ## Control Flow
 
@@ -601,6 +626,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 * [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
 * [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+* [SWRV](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
+* [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
 
 ## Streaming
 
@@ -637,6 +664,19 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 * [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+
+## Web Worker
+
+* [partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker.
+* [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink is a tiny library (1.1kB), that removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers.
+* [greenlet](https://github.com/developit/greenlet) - Move an async function into its own thread.
+* [workerize](https://github.com/developit/workerize) - Moves a module into a Web Worker, automatically reflecting exported functions as asynchronous proxies.
+* [worker-dom](https://github.com/ampproject/worker-dom) - An in-progress implementation of the DOM API intended to run within a Web Worker.
+* [threads.js](https://github.com/andywer/threads.js) - Offload CPU-intensive tasks to worker threads in node.js, web browsers and electron using one uniform API.
+* [workly](https://github.com/pshihn/workly) - A really simple way to move a function or class to a web worker.
+* [stockroom](https://github.com/developit/stockroom) - Offload your store management to a worker easily.
+* [workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser.
+* [clooney](https://github.com/GoogleChromeLabs/clooney) - Clooney is an actor library for the web. Use workers without thinking about workers.
 
 ## Code highlighting
 
@@ -861,7 +901,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Packery](https://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](https://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
-* [Jspreadsheet](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
+
 
 ## Frameworks
 
@@ -883,6 +923,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Mobile-First-RWD](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design.
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive.
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
+ * [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 
 ## Images
 
@@ -911,7 +952,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Video/Audio
 
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
- * [html5media](https://github.com/etianen/html5media) - Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
  * [Play-em JS](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
  * [polyplayer](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - The HTML5 video player for the web
@@ -967,6 +1007,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 * [barbajs](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 * [typicaljs](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
+* [AutoAnimate](https://auto-animate.formkit.com) - Add motion to your apps with a single line of code.
 
 ## Image Processing
 
@@ -995,13 +1036,13 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience.
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
- 
+
 ## Full Text Search
 
 * [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
- 
+
 ## Misc
 
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes.
@@ -1034,7 +1075,6 @@ https://listjs.com
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
-* [JavaScript Jabber](https://devchat.tv/show/javascript-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
 
 # Worth Reading
 
@@ -1069,6 +1109,7 @@ https://listjs.com
 * [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
+* [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun)
 
 # Contributing
 
