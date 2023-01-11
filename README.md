@@ -504,6 +504,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
 * [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+* [n2words](https://github.com/forzagreen/n2words) - Convert numerical numbers to written numbers, in 25+ languages.
 
 
 ## Storage
