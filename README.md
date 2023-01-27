@@ -1019,6 +1019,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 * [Docusaurus](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
+* [Flatlogic Platform](https://flatlogic.com/crud-app) - Create full-stack CRUD web application boilerplate in minutes. Define database schema and get production-ready full-stack web app built with React, Angular or Vue.
+
 
 ## SDK
 
