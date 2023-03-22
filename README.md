@@ -1109,3 +1109,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
+
+<div align="center">
+  <a href="https://commons.wikimedia.org/wiki/Category:JavaScript_mascot"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/JavaScript_mascot_bliss.png/562px-JavaScript_mascot_bliss.png" width="450px"></a>
+</div>
+ 
