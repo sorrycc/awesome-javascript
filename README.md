@@ -919,6 +919,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
  * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
  * [Panolens.js](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+ * [Merge-images](https://github.com/lukechilds/merge-images) - Images can be overlaid on top of each other and repositioned
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
