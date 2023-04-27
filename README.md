@@ -1019,6 +1019,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 * [Docusaurus](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
+* [Next.js](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 
 ## SDK
 
