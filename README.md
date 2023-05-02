@@ -76,8 +76,10 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [SDK](#sdk)
   * [Misc](#misc)
   * [Podcasts](#podcasts)
+
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
+* [Roadmaps](#roadmaps)
 * [Contributing](#contributing)
 
 ----
@@ -1098,9 +1100,14 @@ https://listjs.com
 * [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
 * [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun)
 
+# Roadmap
+
+* [JavaScript Roadmap](https://roadmap.sh/javascript)
+
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
 
 # License
 
