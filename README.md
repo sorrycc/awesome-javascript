@@ -640,6 +640,11 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 
+## JS Communications
+
+* [Socket.IO](https://github.com/socketio/socket.io) - Socket.IO is a library that enables low-latency, bidirectional and event-based communication between a client and a server.
+* [WebRTC](https://webrtc.org/) - Add real-time communication capabilities to your application that works on top of an open standard. It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice- and video-communication solutions.
+* [PeerJS](https://github.com/peers/peerjs) - PeerJS wraps the browser's WebRTC implementation to provide a complete, configurable, and easy-to-use peer-to-peer connection API. Equipped with nothing but an ID, a peer can create a P2P data or media stream connection to a remote peer.
 
 ## Browser Detection
 
