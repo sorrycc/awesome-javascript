@@ -138,7 +138,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## Type Checkers
 
 * [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
-* [Flow.js](https://flow.org/en/) - A static type checker for JavaScript from Facebook.
+* [Flow.js](https://flow.org/) - A static type checker for JavaScript from Facebook.
 * [Hegel](https://hegel.js.org/) -  A static type checker for JavaScript with a bias on type inference an strong type system.
 * [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
@@ -353,7 +353,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 
-There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), [highchart](https://www.highcharts.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
+There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
 ## Timeline
 
@@ -719,8 +719,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [shepherd](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app.
 * [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
 * [tourist](https://github.com/easelinc/tourist) - Simple, flexible tours for your app.
-* [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
-* [pageguide](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
 * [hopscotch](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 * [joyride](https://github.com/zurb/joyride) - jQuery feature tour plugin.
 * [focusable](https://github.com/zzarcon/focusable) - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.
@@ -1064,7 +1062,6 @@ https://listjs.com
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 ## Podcasts
-* [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 
 # Worth Reading
