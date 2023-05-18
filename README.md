@@ -1018,6 +1018,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 * [Docusaurus](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 * [Next.js](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+* [Lume](https://github.com/lumeland/lume) - Static site generator for Deno.
 
 ## SDK
 
@@ -1061,7 +1062,7 @@ https://listjs.com
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 ## Podcasts
-* [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
+* [Web of Tomorrow](https://www.orbit.fm/weboftomorrow) - Podcast about JavaScript for beginners.
 
 # Worth Reading
 
