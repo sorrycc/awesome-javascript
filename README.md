@@ -1062,7 +1062,7 @@ https://listjs.com
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 ## Podcasts
-* [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
+* [Web of Tomorrow](https://www.orbit.fm/weboftomorrow) - Podcast about JavaScript for beginners.
 
 # Worth Reading
 
