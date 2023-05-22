@@ -1059,6 +1059,7 @@ https://listjs.com
 * [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
+* [mapfun](https://www.npmjs.com/package/mapfun) - a mapping function to an infinite number of input elements, with options to skip certain elements and selectively apply the mapping to keys and/or values of objects.
 
 ## Podcasts
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
