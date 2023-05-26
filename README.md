@@ -303,6 +303,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 * [Multi-threading using web-workers](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers: Adding Multi-threading to JavaScript
 * [this keyword in JavaScript](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Breaking down the 'this' keyword in JavaScript
+* [Javascript-vs-typescript](https://dev.to/alishaas11/javascript-vs-typescript-know-the-difference-4dg6) - JavaScript vs. TypeScript: Unraveling the Key Differences
 
 ## Data Visualization
 *Data visualization tools for the web.*
