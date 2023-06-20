@@ -712,6 +712,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
 * [notie](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 * [notifire](https://github.com/notifirehq/notifire) - Open-source notification infrastructure for products.
+* [toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.
 
 ## Sliders
 
