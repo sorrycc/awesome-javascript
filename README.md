@@ -116,7 +116,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
 ## Transpilers
-*Software that converts the modern javascript syntax into the older javascript syntax.*
+*Software that converts the modern JavaScript syntax into the older JavaScript syntax.*
 
 * [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
 
