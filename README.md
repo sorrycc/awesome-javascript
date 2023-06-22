@@ -6,6 +6,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Package Managers](#package-managers)
   * [Component management](#component-management)
   * [Loaders](#loaders)
+  * [Transpilers](#transpilers)
   * [Bundlers](#bundlers)
   * [Minimizers](#minimizers)
   * [Type Checkers](#type-checkers)
@@ -113,6 +114,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
+
+## Transpilers
+*Software that converts the modern JavaScript syntax into the older JavaScript syntax.*
+
+* [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
 
 ## Bundlers
 
