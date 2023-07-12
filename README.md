@@ -203,6 +203,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 * [JS-Beautifier](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 * [husky](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+* [Hreflang checker](https://localizely.com/hreflang-checker/) - Tests configured Hreflang tags on multilingual web pages.
 
 ## MVC Frameworks and Libraries
 
