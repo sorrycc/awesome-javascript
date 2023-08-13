@@ -147,6 +147,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ### Frameworks
 
+* [qunitx](https://github.com/izelnakri/qunitx) - Zero dependency, universal, fully customizable, mature JavaScript & TypeScript test API that can run interchangably in node.js, deno & browser, using default runtime test runners.
 * [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 * [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
