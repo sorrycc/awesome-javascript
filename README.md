@@ -427,6 +427,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Sugar](https://github.com/andrewplummer/Sugar) - A JavaScript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers.
+* [sweet-monads](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
