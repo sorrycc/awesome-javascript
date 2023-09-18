@@ -299,7 +299,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## Articles and Posts
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
-* [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles about the building blocks of JavaScript.
 * [Multi-threading using web-workers](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers: Adding Multi-threading to JavaScript
 * [this keyword in JavaScript](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Breaking down the 'this' keyword in JavaScript
 
@@ -323,7 +322,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [cubism](https://github.com/square/cubism) - A D3 plugin for visualizing time series.
 * [dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 * [vega](https://github.com/trifacta/vega) - A visualization grammar.
-* [processing.js](http://processingjs.org/) - Processing.js makes your data visualizations work using web standards and without any plug-ins.
 * [envisionjs](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization.
 * [rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs.
 * [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
@@ -432,6 +430,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
 * [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
 * [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
+* [sweet-monads](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
 
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
