@@ -474,7 +474,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## String
 *String Libraries.*
 
-* [string-ts](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 * [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 * [selecting](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
 * [underscore.string](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js JavaScript library.
@@ -488,6 +487,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
 * [plexis](https://github.com/plexis-js/plexis) - Lo-fi, powerful, community-driven string manipulation library.
 * [url-state-machine](https://github.com/anonrig/url-js) - Super fast spec-compliant URL parser state machine for Node.js.
+* [string-ts](https://github.com/gustavoguichard/string-ts) - Strongly-typed string functions for all
 
 ## Number
 
