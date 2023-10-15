@@ -470,6 +470,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 * [luxon](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+* [moment-immutable](https://github.com/smartin85/moment-immutable) - Make moment.js immutable.
 
 ## String
 *String Libraries.*
