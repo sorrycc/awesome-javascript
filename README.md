@@ -966,7 +966,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way.
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
 * [Anime.js](https://animejs.com/) - A JavaScript animation engine.
-* [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web.
+* [Mo.js](https://mojs.github.io/) - Motion graphics toolbelt for the web.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
