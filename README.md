@@ -966,7 +966,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way.
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
 * [Anime.js](https://animejs.com/) - A JavaScript animation engine.
-* [Mo.js](http://mojs.io) - Motion graphics toolbelt for the web.
+* [Mo.js](https://mojs.github.io/) - Motion graphics toolbelt for the web.
 * [particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 * [tsParticles](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
@@ -985,7 +985,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features.
 * [es6-features](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison.
 * [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets.
-* [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
+* [ECMAScript 6 compatibility table](https://compat-table.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
