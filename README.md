@@ -6,7 +6,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Package Managers](#package-managers)
   * [Component management](#component-management)
   * [Loaders](#loaders)
-  * [Transpilers](#transpilers)a
+  * [Transpilers](#transpilers)
   * [Bundlers](#bundlers)
   * [Minimizers](#minimizers)
   * [Type Checkers](#type-checkers)
