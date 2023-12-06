@@ -1037,7 +1037,7 @@ https://listjs.com
 * [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
-* [dir2tree](https://github.com/zakarialaoui10/dir2tree) - a user-friendly Node.js tool for creating organized json tree from a root directory .
+* [dir2tree](https://github.com/zakarialaoui10/dir2tree) - A user-friendly Node.js tool for creating organized json tree from a root directory .
 
 
 
