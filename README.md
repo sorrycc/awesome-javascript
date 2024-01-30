@@ -301,6 +301,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [Multi-threading using web-workers](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers: Adding Multi-threading to JavaScript
 * [this keyword in JavaScript](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Breaking down the 'this' keyword in JavaScript
+* [How JavaScript and Hardware Work Together](https://freecontent.manning.com/how-javascript-and-hardware-work-together/) - An article about using JavaScript for amazing and fun hardware projects.
+* [Building a Lock and Key System with JavaScript](https://freecontent.manning.com/building-a-lock-and-key-system/) - An article about building a lock and key system.
 
 ## Data Visualization
 *Data visualization tools for the web.*
@@ -1050,6 +1052,9 @@ https://listjs.com
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+* [The joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - The key design concepts for clean, and easy-to-maintain code.
+* [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A guide to building a comprehensive and reliable JS application testing suite.
+* [D3.js in Action, Third Edition](https://www.manning.com/books/d3js-in-action-third-edition) - A book about D3.js that guides you from simple charts to powerful interactive graphics.
 
 
 # Other Awesome Lists
