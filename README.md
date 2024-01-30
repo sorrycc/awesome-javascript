@@ -301,6 +301,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [Multi-threading using web-workers](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers: Adding Multi-threading to JavaScript
 * [this keyword in JavaScript](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Breaking down the 'this' keyword in JavaScript
+* [Javascript-vs-typescript](https://dev.to/alishaas11/javascript-vs-typescript-know-the-difference-4dg6) - JavaScript vs. TypeScript: Unraveling the Key Differences
 
 ## Data Visualization
 *Data visualization tools for the web.*
