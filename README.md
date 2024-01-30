@@ -4,25 +4,29 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
-  * [Component management](#component-management)
+  * [Component Management](#component-management)
   * [Loaders](#loaders)
   * [Transpilers](#transpilers)
   * [Bundlers](#bundlers)
   * [Minimizers](#minimizers)
   * [Type Checkers](#type-checkers)
   * [Testing Frameworks](#testing-frameworks)
+    * [Frameworks](#frameworks)
+    * [Assertion](#assertion)
+    * [Coverage](#coverage)
+    * [Runner](#runner)
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Game Engines](#game-engines)
-  * [Articles/Posts](#articles-and-posts)
+  * [Articles and Posts](#articles-and-posts)
   * [Data Visualization](#data-visualization)
-    * [Timeline](#timeline)
-    * [Spreadsheet](#spreadsheet)
+  * [Timeline](#timeline)
+  * [Spreadsheet](#spreadsheet)
   * [Editors](#editors)
   * [Documentation](#documentation)
-  * Utilities
+  - Utilities
     * [Files](#files)
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
@@ -38,18 +42,17 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Security](#security)
     * [Log](#log)
     * [RegExp](#regexp)
-    * [Media](#videoaudio)
     * [Voice Command](#voice-command)
     * [API](#api)
     * [Streaming](#streaming)
     * [Vision Detection](#vision-detection)
+    * [Machine Learning](#machine-learning)
     * [Browser Detection](#browser-detection)
     * [Operating System](#operating-system)
     * [Benchmark](#benchmark)
-    * [Machine Learning](#machine-learning)
     * [Web Worker](#web-worker)
-  * UI
-    * [Code Highlighting](#code-highlighting)
+  - UI
+    * [Code highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
     * [Validation](#validation)
     * [Keyboard Wrappers](#keyboard-wrappers)
@@ -58,27 +61,34 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Sliders](#sliders)
     * [Range Sliders](#range-sliders)
     * [Form Widgets](#form-widgets)
+      * [Input](#input)
+      * [Calendar](#calendar)
+      * [Select](#select)
+      * [File Uploader](#file-uploader)
+      * [Other](#other)
     * [Tips](#tips)
     * [Modals and Popups](#modals-and-popups)
     * [Scroll](#scroll)
     * [Menu](#menu)
     * [Table/Grid](#tablegrid)
-    * [Frameworks](#frameworks-1)
+    * [Frameworks](#frameworks)
     * [Boilerplates](#boilerplates)
-    * [Image](#image)
+    * [Images](#images)
   * [Gesture](#gesture)
   * [Maps](#maps)
+  * [Video/Audio](#videoaudio)
   * [Typography](#typography)
   * [Animations](#animations)
-  * [Image processing](#image-processing)
+  * [Image Processing](#image-processing)
   * [ES6](#es6)
   * [Generators](#generators)
-  * [Full Text Search](#full-text-search)
   * [SDK](#sdk)
+  * [Full Text Search](#full-text-search)
   * [Misc](#misc)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
+* [License](#license)
 
 ----
 
@@ -723,7 +733,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
 * [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
-* [slidesJs](http://www.slidesjs.com) - Is a responsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions
 * [FlexSlider](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
 * [sly](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
 * [vegas](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
@@ -898,6 +907,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
  * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
  * [Panolens.js](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
