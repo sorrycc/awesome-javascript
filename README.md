@@ -16,6 +16,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Game Engines](#game-engines)
+  * [Workflow Engines](#workflow-engines)
   * [Articles/Posts](#articles-and-posts)
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
@@ -295,6 +296,10 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Phaser](https://phaser.io) - Phaser - A fast, fun and free open source HTML5 game framework.
 * [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
 * [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
+
+## Workflow Engines
+
+* [Streamdal](https://github.com/streamdal/streamdal) - Wasm-powered workflow engine embedded directly in your javascript/node application code. Adds highly-performant, real-time data transformation and validation capabilities at runtime.
 
 ## Articles and Posts
 
