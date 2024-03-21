@@ -543,6 +543,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 * [ttag](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
 * [attranslate](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
+* [ParaglideJS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) - A tiny, type-safe i18n library with tree-shakeable messages.
 
 ## Control Flow
 
