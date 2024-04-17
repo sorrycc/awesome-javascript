@@ -159,6 +159,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 * [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
+* [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 
 ### Assertion
 
