@@ -250,7 +250,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
-
+* [pouchlite](https://pouchlite.vercel.app) -A pure javascript json and files storage engine.
 ## Node-Powered CMS Frameworks
 
 * [KeystoneJS](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
