@@ -930,7 +930,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
  * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
- * [exifr](https://github.com/MikeKovarik/exifr) - The fastest and most versatile EXIF reading library. https://mutiny.cz/exifr/
  * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
  * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
