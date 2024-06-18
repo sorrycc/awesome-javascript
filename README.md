@@ -250,6 +250,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
+* [Primate](https://primatejs.com) - A polymorhic development platform
 
 ## Node-Powered CMS Frameworks
 
@@ -892,6 +893,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive.
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
  * [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+ * [FastestEngineer](https://fastest.engineer) A SaaS boilerplate that supports Deno, Bun and Node.js
 
 ## Images
 
