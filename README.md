@@ -114,6 +114,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
+* [Sail.js](https://github.com/SebastianSava/sail.js) - Sailing Through Scripts: Smooth Library Loading Ahead.
 
 ## Transpilers
 *Software that converts the modern JavaScript syntax into the older JavaScript syntax.*
