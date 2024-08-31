@@ -529,6 +529,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Dexie.js](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
 * [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage) - Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires.
 * [PostgreSQL Browser](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+* [WeaveDB](https://github.com/weavedb/weavedb) - Decentralized NoSQL Database powered by Arweave.
   
 ## Color
 
