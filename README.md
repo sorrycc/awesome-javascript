@@ -631,6 +631,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [ml5.js](https://ml5js.org) - Friendly Machine Learning for the Web.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
+* [JS-PyTorch](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
 
 ## Browser Detection
 
