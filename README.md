@@ -817,6 +817,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [simptip](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 * [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 * [hint.css](https://github.com/chinchang/hint.css) - A tooltip library in CSS for your lovely websites.
+* [tippy](https://github.com/atomiks/tippyjs) - A tooltip, popover, dropdown, and menu solution for the web.
 
 ## Modals and Popups
 
