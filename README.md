@@ -586,6 +586,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends.
 * [storyboard](http://guigrpa.github.io/storyboard/) - Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.
 * [LogTape](https://logtape.org/) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions.
+* [LogLayer](https://loglayer.dev) - Provides a consistent logging experience for your favorite logging libraries. Easily add metadata, prefixes, and errors to your logs.
 
 ## RegExp
 * [RegEx101](https://regex101.com/#javascript) - Online regex tester and debugger for JavaScript. Also supports Python, PHP and PCRE.
