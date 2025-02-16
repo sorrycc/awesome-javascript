@@ -1024,6 +1024,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
   
 ## ORM
 
+* [Prisma](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+
 ## Misc
 
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes.
