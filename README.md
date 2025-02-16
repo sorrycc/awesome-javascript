@@ -1029,7 +1029,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Mongoose](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
 * [TypeORM](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 * [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
-* [kysely](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder. 
+* [Kysely](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
+* [Knex](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 
 ## Misc
 
