@@ -75,6 +75,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Generators](#generators)
   * [Full Text Search](#full-text-search)
   * [SDK](#sdk)
+  * [ORM](#orm)
   * [Misc](#misc)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -1020,6 +1021,17 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
+  
+## ORM
+
+* [Prisma](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+* [Sequelize](https://github.com/sequelize/sequelize) Feature-rich ORM for modern Node.js and TypeScript | PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB...
+* [Mongoose](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
+* [TypeORM](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+* [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
+* [Kysely](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
+* [Knex](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+* [MikroORM](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 
 ## Misc
 
