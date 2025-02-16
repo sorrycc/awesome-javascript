@@ -75,6 +75,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Generators](#generators)
   * [Full Text Search](#full-text-search)
   * [SDK](#sdk)
+  * [ORM](#orm)
   * [Misc](#misc)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -1020,6 +1021,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
+  
+## ORM
 
 ## Misc
 
