@@ -13,6 +13,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Testing Frameworks](#testing-frameworks)
   * [QA Tools](#qa-tools)
   * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
+  * [Backend Frameworks](#backend-frameworks)
   * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
   * [Templating Engines](#templating-engines)
   * [Game Engines](#game-engines)
@@ -256,6 +257,13 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 * [Remult](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+
+## Backend Frameworks
+
+* [Express](https://github.com/expressjs/express) Fast, unopinionated, minimalist web framework for node.
+* [Nest](https://github.com/nestjs/nest) A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript.
+* [Fastify](https://github.com/fastify/fastify) Fast and low overhead web framework, for Node.js.
+* [Koa](https://github.com/koajs/koa) Expressive middleware for node.js using ES2017 async functions.
 
 ## Node-Powered CMS Frameworks
 
