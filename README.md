@@ -143,6 +143,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Hegel](https://hegel.js.org/) -  A static type checker for JavaScript with a bias on type inference an strong type system.
 * [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
+* [Zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
 
 ## Testing Frameworks
 
