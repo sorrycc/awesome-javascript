@@ -76,6 +76,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Full Text Search](#full-text-search)
   * [SDK](#sdk)
   * [ORM](#orm)
+  * [WebSockets](#websockets)
   * [Misc](#misc)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -1034,6 +1035,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Kysely](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
 * [Knex](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 * [MikroORM](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
+
+## WebSockets
+
+* [Socket.io](https://github.com/socketio/socket.io) The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
 
 ## Misc
 
