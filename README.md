@@ -1039,7 +1039,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## WebSockets
 
 * [Socket.io](https://github.com/socketio/socket.io) The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
-* [WS](https://github.com/websockets/ws) The most popular and efficient WebSocket library for Node.js. Simple to use, blazing fast and thoroughly tested.
+* [ws](https://github.com/websockets/ws) The most popular and efficient WebSocket library for Node.js. Simple to use, blazing fast and thoroughly tested.
 
 ## Misc
 
