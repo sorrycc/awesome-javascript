@@ -1036,7 +1036,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Kysely](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
 * [Knex](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 * [MikroORM](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
-* [Ojection.js](https://github.com/Vincit/objection.js) A SQL-friendly ORM for Node.js built on top of Knex.js, with powerful relational support.
+* [Objection.js](https://github.com/Vincit/objection.js) A SQL-friendly ORM for Node.js built on top of Knex.js, with powerful relational support.
 
 
 ## WebSockets
