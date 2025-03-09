@@ -1018,8 +1018,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - JavaScript SDK design guide extracted from work and personal experience.
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
-* [OpenAI SDK](https://github.com/openai/openai-node) - JavaScript client for interacting with OpenAI’s APIs (ChatGPT, DALL·E, etc.).
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
+* [OpenAI SDK](https://github.com/openai/openai-node) - JavaScript client for interacting with OpenAI’s APIs (ChatGPT, DALL·E, etc.).
 
 ## Full Text Search
 
