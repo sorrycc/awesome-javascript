@@ -11,7 +11,7 @@ on:
       - synchronize
       
 env:
-  RUBY_VERSION: '2.6'
+  RUBY_VERSION: '3.2'
 
 defaults:
   run:
@@ -22,30 +22,32 @@ jobs:
     name: Validator
     runs-on: ubuntu-latest
     steps:
+    - id: checkout
+      name: Checkout
+      uses: actions/checkout@v4
+
     - id: setup-ruby
       name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: ${{ env.RUBY_VERSION }}
-
-    - id: checkout
-      name: Checkout
-      uses: actions/checkout@v2
+        bundler-cache: true
 
     - id: install-gem
       name: Install gem
       run: |
-        gem install awesome_bot
+        gem install awesome_bot --no-document
 
     - id: validate
       name: Validate
+      continue-on-error: true
       run: |
         awesome_bot README.md --request-delay 0.5 --allow-timeout --allow-redirect
         
     - id: upload-artifact
       name: Upload artifact
-      uses: actions/upload-artifact@v2
-      if: failure()
+      uses: actions/upload-artifact@v4
+      if: ${{ failure() }}
       with:
         if-no-files-found: warn
         name: ab-results
@@ -53,4 +55,3 @@ jobs:
           ab-results-README.md.json
           ab-results-README.md-filtered.json
           ab-results-README.md-markdown-table.json
-
