@@ -124,7 +124,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Bundlers
 
-* [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 * [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
@@ -133,6 +132,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right
 * [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 * [bundle](https://bundle.js.org) - A quick online npm package size checker.
+* [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
 
 # Minimizers
 
