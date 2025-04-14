@@ -143,7 +143,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
 * [Flow.js](https://flow.org/) - A static type checker for JavaScript from Facebook.
-* [Hegel](https://hegel.js.org/) -  A static type checker for JavaScript with a bias on type inference an strong type system.
+* [Hegel](https://hegel.js.org/) -  A static type checker for JavaScript with a bias on type inference a strong type system.
 * [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 * [Zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
@@ -679,7 +679,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 * [NProgress](https://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
 * [Spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator.
-* [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
+* [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every object on the page.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars with animated SVG paths.
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
 * [topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
@@ -891,7 +891,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Semantic UI](https://semantic-ui.com/) - UI Kit with lots of themes and elements.
 * [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
-* [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
+* [fluidity](https://github.com/mrmrs/fluidity) - The world's smallest fully-responsive css framework.
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 * [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
