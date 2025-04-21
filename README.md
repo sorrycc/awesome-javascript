@@ -20,6 +20,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
     * [Spreadsheet](#spreadsheet)
+  * [AI Frameworks](#ai-frameworks)
   * [Editors](#editors)
   * [Documentation](#documentation)
   * Utilities
@@ -373,6 +374,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
  * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
  * [RevoGrid](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
+
+## AI Frameworks
+
+* [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 
 ## Editors
 
