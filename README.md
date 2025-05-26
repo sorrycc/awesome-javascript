@@ -608,6 +608,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 * [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+* [creatify-api-ts](https://github.com/TSavo/creatify-api-ts) - TypeScript client library for Creatify AI's video generation API, providing type-safe access to avatar videos, URL-to-video conversion, text-to-speech, and AI editing tools.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 * [amygdala](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
@@ -632,6 +633,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Machine Learning
 
 * [ConvNetJS](https://github.com/karpathy/convnetjs) - Deep Learning in JavaScript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+* [Creatify MCP](https://github.com/TSavo/creatify-mcp) - Model Context Protocol server that exposes Creatify AI's video generation capabilities to AI assistants, enabling natural language video creation workflows.
 * [DN2A](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
 * [Brain.js](https://github.com/harthur/brain) - Neural networks in JavaScript.
 * [Mind.js](https://github.com/stevenmiller888/mind) - A flexible neural network library.
