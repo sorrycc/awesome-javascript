@@ -48,6 +48,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Benchmark](#benchmark)
     * [Machine Learning](#machine-learning)
     * [Web Worker](#web-worker)
+    * [Browser Permissions](#browser-permissions)
   * UI
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
@@ -667,6 +668,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [stockroom](https://github.com/developit/stockroom) - Offload your store management to a worker easily.
 * [workerpool](https://github.com/josdejong/workerpool) - Offload tasks to a pool of workers on node.js and in the browser.
 * [clooney](https://github.com/GoogleChromeLabs/clooney) - Clooney is an actor library for the web. Use workers without thinking about workers.
+
+## Browser Permissions
+
+* [Browser Permissions Helper](https://github.com/darshitdudhaiya/browser-permissions-helper) - A simple utility to manage and request browser permissions seamlessly.
 
 ## Code highlighting
 
