@@ -2,106 +2,110 @@
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-* [Awesome JavaScript](#awesome-javascript)
-  * [Package Managers](#package-managers)
-  * [Component management](#component-management)
-  * [Loaders](#loaders)
-  * [Transpilers](#transpilers)
-  * [Bundlers](#bundlers)
-  * [Minimizers](#minimizers)
-  * [Type Checkers](#type-checkers)
-  * [Testing Frameworks](#testing-frameworks)
-  * [QA Tools](#qa-tools)
-  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
-  * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
-  * [Templating Engines](#templating-engines)
-  * [Game Engines](#game-engines)
-  * [Articles/Posts](#articles-and-posts)
-  * [Data Visualization](#data-visualization)
-    * [Timeline](#timeline)
-    * [Spreadsheet](#spreadsheet)
-  * [Editors](#editors)
-  * [Documentation](#documentation)
-  * Utilities
-    * [Files](#files)
-    * [Functional Programming](#functional-programming)
-    * [Reactive Programming](#reactive-programming)
-    * [Data Structure](#data-structure)
-    * [Date](#date)
-    * [String](#string)
-    * [Number](#number)
-    * [Storage](#storage)
-    * [Color](#color)
-    * [I18n And L10n](#i18n-and-l10n)
-    * [Control Flow](#control-flow)
-    * [Routing](#routing)
-    * [Security](#security)
-    * [Log](#log)
-    * [RegExp](#regexp)
-    * [Media](#videoaudio)
-    * [Voice Command](#voice-command)
-    * [API](#api)
-    * [Streaming](#streaming)
-    * [Vision Detection](#vision-detection)
-    * [Browser Detection](#browser-detection)
-    * [Operating System](#operating-system)
-    * [Benchmark](#benchmark)
-    * [Machine Learning](#machine-learning)
-    * [Web Worker](#web-worker)
-  * UI
-    * [Code Highlighting](#code-highlighting)
-    * [Loading Status](#loading-status)
-    * [Validation](#validation)
-    * [Keyboard Wrappers](#keyboard-wrappers)
-    * [Tours And Guides](#tours-and-guides)
-    * [Notifications](#notifications)
-    * [Sliders](#sliders)
-    * [Range Sliders](#range-sliders)
-    * [Form Widgets](#form-widgets)
-    * [Tips](#tips)
-    * [Modals and Popups](#modals-and-popups)
-    * [Scroll](#scroll)
-    * [Menu](#menu)
-    * [Table/Grid](#tablegrid)
-    * [Frameworks](#frameworks-1)
-    * [Boilerplates](#boilerplates)
-    * [Image](#image)
-  * [Gesture](#gesture)
-  * [Maps](#maps)
-  * [Typography](#typography)
-  * [Animations](#animations)
-  * [Image processing](#image-processing)
-  * [ES6](#es6)
-  * [Generators](#generators)
-  * [Full Text Search](#full-text-search)
-  * [SDK](#sdk)
-  * [ORM](#orm)
-  * [WebSockets](#websockets)
-  * [Misc](#misc)
+<details>
+
+<summary>Contents</summary>
+
+* [Package Managers](#package-managers)
+* [Component management](#component-management)
+* [Loaders](#loaders)
+* [Transpilers](#transpilers)
+* [Bundlers](#bundlers)
+* [Minimizers](#minimizers)
+* [Type Checkers](#type-checkers)
+* [Testing Frameworks](#testing-frameworks)
+* [QA Tools](#qa-tools)
+* [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
+* [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
+* [Templating Engines](#templating-engines)
+* [Game Engines](#game-engines)
+* [Articles/Posts](#articles-and-posts)
+* [Data Visualization](#data-visualization)
+  * [Timeline](#timeline)
+  * [Spreadsheet](#spreadsheet)
+* [Editors](#editors)
+* [Documentation](#documentation)
+* Utilities
+  * [Files](#files)
+  * [Functional Programming](#functional-programming)
+  * [Reactive Programming](#reactive-programming)
+  * [Data Structure](#data-structure)
+  * [Date](#date)
+  * [String](#string)
+  * [Number](#number)
+  * [Storage](#storage)
+  * [Color](#color)
+  * [I18n And L10n](#i18n-and-l10n)
+  * [Control Flow](#control-flow)
+  * [Routing](#routing)
+  * [Security](#security)
+  * [Log](#log)
+  * [RegExp](#regexp)
+  * [Media](#videoaudio)
+  * [Voice Command](#voice-command)
+  * [API](#api)
+  * [Streaming](#streaming)
+  * [Vision Detection](#vision-detection)
+  * [Browser Detection](#browser-detection)
+  * [Operating System](#operating-system)
+  * [Benchmark](#benchmark)
+  * [Machine Learning](#machine-learning)
+  * [Web Worker](#web-worker)
+* UI
+  * [Code Highlighting](#code-highlighting)
+  * [Loading Status](#loading-status)
+  * [Validation](#validation)
+  * [Keyboard Wrappers](#keyboard-wrappers)
+  * [Tours And Guides](#tours-and-guides)
+  * [Notifications](#notifications)
+  * [Sliders](#sliders)
+  * [Range Sliders](#range-sliders)
+  * [Form Widgets](#form-widgets)
+  * [Tips](#tips)
+  * [Modals and Popups](#modals-and-popups)
+  * [Scroll](#scroll)
+  * [Menu](#menu)
+  * [Table/Grid](#tablegrid)
+  * [Frameworks](#frameworks-1)
+  * [Boilerplates](#boilerplates)
+  * [Images](#images)
+* [Gesture](#gesture)
+* [Maps](#maps)
+* [Typography](#typography)
+* [Animations](#animations)
+* [Image processing](#image-processing)
+* [ES6](#es6)
+* [Generators](#generators)
+* [Full Text Search](#full-text-search)
+* [SDK](#sdk)
+* [ORM](#orm)
+* [WebSockets](#websockets)
+* [Misc](#misc)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
+
+</details>
 
 ----
 
 ## Package Managers
 *Host the JavaScript libraries and provide tools for fetching and packaging them.*
 
-* [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
-* [Bower](https://github.com/bower/bower) - A package manager for the web.
-* [component](https://github.com/componentjs/component) - Client package management for building better web applications.
-* [spm](https://github.com/spmjs/spm) - Brand new static package manager.
-* [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
-* [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
-* [Ender](https://github.com/ender-js/Ender) - The no-library library.
-* [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
-* [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
-* [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
-* [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
+| Name | Repository | Description | Badges |
+|:-----|:-----------|:------------|:------|
+| [npm](https://npmjs.com) | [npm/cli](https://github.com/npm/cli) | the package manager for JavaScript. | ![GitHub](https://img.shields.io/github/stars/npm/cli) |
+| [Bower](https://bower.io) | [bower/bower](https://github.com/bower/bower) | A package manager for the web. | ![GitHub](https://img.shields.io/github/stars/bower/bower) |
+| [jspm](https://jspm.org) | [jspm/jspm-cli](https://github.com/jspm/jspm-cli) | Import Map Package Manager. | ![GitHub](https://img.shields.io/github/stars/jspm/jspm-cli) |
+| [yarn](https://yarnpkg.com) | [yarnpkg/berry](https://github.com/yarnpkg/berry) | Fast, reliable, and secure dependency management. | ![GitHub](https://img.shields.io/github/stars/yarnpkg/berry) |
+| [pnpm](https://pnpm.io) | [pnpm/pnpm](https://github.com/pnpm/pnpm) | Fast, disk space efficient package manager. | ![GitHub](https://img.shields.io/github/stars/pnpm/pnpm) |
+| [bun](https://bun.com) | [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | ![GitHub](https://img.shields.io/github/stars/oven-sh/bun) |
 
 ## Component Management
 
-* [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
+| Name | Repository | Description | Badges |
+|:-----|:-----------|:------------|:------|
+| [Bit](https://bit.dev) | [teambit/bit](https://github.com/teambit/bit) | AI-powered development workspaces with reusable components, architectural clarity and zero overhead. | ![GitHub](https://img.shields.io/github/stars/teambit/bit) |
 
 ## Loaders
 *Module or loading system for JavaScript.*
@@ -123,6 +127,10 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
 
 ## Bundlers
+
+| Name | Repository | Description | Badges |
+|:-----|:-----------|:------------|:------|
+| [webpack](https://webpack.js.org) | [webpack/webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends. | ![GitHub](https://img.shields.io/github/stars/webpack/webpack) ![NPM](https://img.shields.io/npm/dm/webpack) |
 
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
@@ -816,6 +824,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 * [analytics](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 * [dat.GUI](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
+
 ## Tips
 
 * [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
@@ -914,6 +923,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
  * [Magnificent.js](https://github.com/AndersDJohnson/magnificent.js) - Zoom responsively, images & more, w/ jQuery.
  * [Panolens.js](https://github.com/pchen66/panolens.js) - Panolens.js is an event-driven and WebGL based panorama viewer. Lightweight and flexible
+
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A JavaScript library for multi-touch gestures.
@@ -1085,7 +1095,6 @@ https://listjs.com
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 * [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
-
 
 # Other Awesome Lists
  
