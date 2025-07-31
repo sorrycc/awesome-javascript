@@ -462,7 +462,7 @@ _Reactive programming libraries to extend JavaScript’s capabilities._
 - [MobX](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 - [Cycle.js](https://cycle.js.org) - A functional and reactive JavaScript library for cleaner code.
 - [concent](https://github.com/concentjs/concent) - Definitely the ❤️ simplest but ⚡️ strongest state management for react, it is predictable、progressive and efficient.
-- [stunk](https://github.com/I-am-abdulazeez/stunk) Lightweight, framework-agnostic state management library with atomic chunks for fine-grained reactivity, simple and applicable for any JS/TS frameworks
+- [stunk](https://github.com/I-am-abdulazeez/stunk) - Lightweight, framework-agnostic state management library with atomic chunks for fine-grained reactivity, simple and applicable for any JS/TS frameworks
 
 ## Data Structure
 
