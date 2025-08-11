@@ -292,6 +292,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [marko](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
 * [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
+* [custom-string-formatter](https://github.com/vitaly-t/custom-string-formatter) - string templating engine, with rich variable syntax.
 
 ## Game Engines
 * [A-Frame](https://aframe.io) - Make WebVR.
