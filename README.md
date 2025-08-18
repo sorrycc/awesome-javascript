@@ -147,6 +147,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 * [Zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
+* [Yup](https://github.com/jquense/yup) - JavaScript schema builder and validator.
 
 ## Testing Frameworks
 
