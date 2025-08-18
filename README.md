@@ -1022,6 +1022,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 * [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - JavaScript client library for payments and other Square APIs.
 * [OpenAI SDK](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API.
+* [Stripe Node.js SDK](https://github.com/stripe/stripe-node) - Stripe Node.js SDK lets you integrate payments, subscriptions, and billing into your JavaScript/TypeScript apps.
 
 ## Full Text Search
 
