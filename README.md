@@ -99,6 +99,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 * [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
+* [bun](https://bun.sh/) - Bun is a fast JavaScript all-in-one toolkit.
 
 ## Component Management
 
