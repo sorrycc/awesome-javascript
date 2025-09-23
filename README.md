@@ -77,6 +77,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [SDK](#sdk)
   * [ORM](#orm)
   * [WebSockets](#websockets)
+  * [Generative AI](#generative-ai) 
   * [Misc](#misc)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -98,6 +99,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 * [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
+* [bun](https://bun.sh/) - Bun is a fast JavaScript all-in-one toolkit.
 
 ## Component Management
 
@@ -147,6 +149,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 * [Zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
+* [Yup](https://github.com/jquense/yup) - JavaScript schema builder and validator.
 
 ## Testing Frameworks
 
@@ -673,6 +676,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js) - JavaScript syntax highlighter.
 * [PrismJS](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+* [shiki](https://github.com/shikijs/shiki) - Code highlighter powered by VS Code TextMate grammars. Accurate, themeable, works in Node or browser, great for JS and TS.
 
 ## Loading Status
 *Libraries for indicate load status.*
@@ -1045,6 +1049,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Socket.io](https://github.com/socketio/socket.io) The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
 * [ws](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+
+## Generative AI
+
+* [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
 
 ## Misc
 
