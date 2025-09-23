@@ -77,6 +77,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [SDK](#sdk)
   * [ORM](#orm)
   * [WebSockets](#websockets)
+  * [Generative AI](#generative-ai) 
   * [Misc](#misc)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -98,6 +99,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 * [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
+* [bun](https://bun.sh/) - Bun is a fast JavaScript all-in-one toolkit.
 
 ## Component Management
 
@@ -1045,6 +1047,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Socket.io](https://github.com/socketio/socket.io) The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
 * [ws](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+
+## Generative AI
+
+* [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
 
 ## Misc
 
