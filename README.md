@@ -729,6 +729,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Notifications
 
+* [customizable-toast-notification](https://www.npmjs.com/package/customizable-toast-notification) - A lightweight, zero-dependency toast notification library for modern JavaScript applications. Built with production-grade reliability and comprehensive secret mechanisms.
 * [iziToast](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 * [messenger](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app.
 * [noty](https://github.com/needim/noty) - jQuery notification plugin.
