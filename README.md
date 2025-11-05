@@ -22,6 +22,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Spreadsheet](#spreadsheet)
   * [Editors](#editors)
   * [Documentation](#documentation)
+  * [Date & Time Libraries](#date-and-time-libraries)
+
   * Utilities
     * [Files](#files)
     * [Functional Programming](#functional-programming)
@@ -1131,3 +1133,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
+
+### Date & Time Libraries
+
+-  **Day.js** — A minimalist alternative to Moment.js for handling dates and time.
+  [https://day.js.org/](https://day.js.org/)
