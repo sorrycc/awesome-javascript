@@ -444,6 +444,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
 * [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 * [sweet-monads](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
+* [iterflow](https://github.com/gv-sh/iterflow) - Iterator utilities with statistical operations, windowing, and lazy evaluation for TypeScript.
 
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
