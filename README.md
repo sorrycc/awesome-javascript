@@ -1021,6 +1021,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Next.js](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 * [Lume](https://github.com/lumeland/lume) - Static site generator for Deno.
 * [Astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
+* [Nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 
 ## SDK
 
