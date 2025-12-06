@@ -1123,6 +1123,7 @@ https://listjs.com
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
 * [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun)
+* [libs.tech](https://libs.tech/js)
 
 # Contributing
 
