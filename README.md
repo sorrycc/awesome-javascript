@@ -136,7 +136,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [bundle](https://bundle.js.org) - A quick online npm package size checker.
 * [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
 
-# Minimizers
+## Minimizers
 
 * [Terser](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 * [Uglify](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
