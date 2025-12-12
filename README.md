@@ -263,6 +263,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 * [Remult](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+- [Mettle](https://github.com/maomincoding/mettle) - A approachable, fast, flexible and lightweight JavaScript library for building user interfaces.
 
 ## Node-Powered CMS Frameworks
 
@@ -543,7 +544,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Dexie.js](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
 * [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage) - Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires.
 * [PostgreSQL Browser](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
-  
+
 ## Color
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
@@ -1037,7 +1038,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
-  
+
 ## ORM
 
 * [Prisma](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
@@ -1090,7 +1091,7 @@ https://listjs.com
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 # Worth Reading
- 
+
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [JSbooks](https://github.com/revolunet/JSbooks) - Directory of free JavaScript ebooks.
@@ -1104,7 +1105,7 @@ https://listjs.com
 
 
 # Other Awesome Lists
- 
+
 * [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
 * [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
