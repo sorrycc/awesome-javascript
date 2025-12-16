@@ -1089,6 +1089,11 @@ https://listjs.com
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
+## Online Compilers
+
+* [PlayCode](https://playcode.io/javascript-compiler) - JavaScript compiler with TypeScript/JSX compilation, AI coding assistant, npm packages, and real-time execution. Used by 1M+ developers.
+
+
 # Worth Reading
  
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
