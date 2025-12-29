@@ -364,6 +364,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 * [G6](https://github.com/antvis/g6) - A graph visualization engine.
+* [Infographic](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
