@@ -627,6 +627,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 * [SWRV](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 * [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
+* [Vedika API](https://vedika.io) - AI-powered Vedic astrology REST API with 108+ endpoints.
 
 ## Streaming
 
