@@ -614,6 +614,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## API
 
+* [Vedika API](https://vedika.io) - REST API for Vedic astrology with AI chatbot, 108+ endpoints for birth charts, horoscopes, kundali matching, panchang, numerology, and more.
 * [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 * [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
