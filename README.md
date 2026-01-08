@@ -20,6 +20,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Data Visualization](#data-visualization)
     * [Timeline](#timeline)
     * [Spreadsheet](#spreadsheet)
+  * [Configuration](#configuration)
+  * [Feature Management](#feature-management)
   * [Editors](#editors)
   * [Documentation](#documentation)
   * Utilities
@@ -424,6 +426,16 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
 * [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) is a visual tool for learning and documenting a codebase by putting breadcrumbs in source code.
+
+## Configuration
+*Libraries for managing configuration for applications.*
+
+* [@azure/app-configuration-provider](https://github.com/Azure/AppConfiguration-JavaScriptProvider) - A configuration provider for applications that connects to Azure App Configuration, a free service enabling centralized management and real-time dynamic configuration refresh without redeployment. Supports CDN integration for configuration edge delivery.
+
+## Feature Management
+*Libraries for managing feature flags and experiments.*
+
+* [@microsoft/feature-management](https://github.com/microsoft/FeatureManagement-JavaScript) - A library developed by Microsoft for managing feature flags and experiments in JavaScript applications. It also integrates with Azure App Configuration to enable centralized feature flag management and dynamic configuration updates without redeploying applications. 
 
 ## Files
 *Libraries for working with files.*
