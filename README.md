@@ -375,12 +375,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Spreadsheet
 
-* [SpreadJS](https://developer.mescius.com/spreadjs) - SpreadJS is a JavaScript spreadsheet product that brings the full Excel-like experience to web applications, including Import/Export, Ribbon, Formulas, PivotTables and much more.
 * [HANDSONTABLE](https://github.com/handsontable/handsontable) - Handsontable is a JavaScript/HTML5 Spreadsheet Library for Developers.
 * [Frappe Datatable](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 * [RevoGrid](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
+* [SpreadJS](https://developer.mescius.com/spreadjs) - SpreadJS is a JavaScript spreadsheet product that brings the full Excel-like experience to web applications, including Import/Export, Ribbon, Formulas, PivotTables and much more.
 
 ## Editors
 
