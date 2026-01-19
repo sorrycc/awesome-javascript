@@ -826,6 +826,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 * [analytics](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 * [dat.GUI](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
+* [react-feedback-surveys](https://github.com/feedback-tools-platform/react-feedback-surveys) - Lightweight, zero-dependency survey widgets for collecting user feedback (NPS, CSAT, CES) in React apps.
+
 ## Tips
 
 * [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
