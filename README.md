@@ -168,6 +168,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
 * [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 * [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
+* [Sherlo](https://sherlo.io) - Visual testing platform for React Native Storybook that captures screenshots on iOS and Android simulators in the cloud.
 
 ### Assertion
 
