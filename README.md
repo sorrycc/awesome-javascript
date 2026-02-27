@@ -806,6 +806,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and `<select>` box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 * [select2](https://github.com/select2/select2) - a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * [chosen](https://github.com/harvesthq/chosen) - A library for making long, unwieldy select boxes more friendly.
+* [snapselect](https://gitcom.com/liedekef/snapselect) - maintained version of snapselect. Vanilla JS library that converts selects into user-friendly dropdowns, AJAX and keyboard navigation included.
 
 ### File Uploader
 
