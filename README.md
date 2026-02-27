@@ -800,6 +800,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Duet Date Picker](https://github.com/duetds/date-picker) - open source version of Duet Design System’s accessible date picker, WCAG 2.1 accessibility complaint
 * [tui.calendar](https://github.com/nhn/tui.calendar) - A JavaScript schedule calendar that is full featured. Now your service just got the customizable calendar.
 * [Schedule-X](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+* [fdatepicker](https://github.com/liedekef/fdatepicker) - Vanilla JS datetime picker with keyboard navigation and using PHP date-syntax for datetime formatting.
 
 ### Select
 
