@@ -380,6 +380,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
  * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
  * [RevoGrid](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
+ * [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) - A canvas-based spreadsheet engine with zero dependencies, rendering 100K+ rows at 60fps with editing, formulas, sorting, filtering, and collaboration. Wrappers for React, Vue, and Angular.
 
 ## Editors
 
