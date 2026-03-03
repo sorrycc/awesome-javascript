@@ -112,7 +112,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## Loaders
 *Module or loading system for JavaScript.*
 
-* [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 
@@ -132,29 +131,36 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *Software that converts the modern JavaScript syntax into the older JavaScript syntax.*
 
 * [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
+* [Babel](https://github.com/babel/babel) - The compiler for writing next generation JavaScript.
+* [Oxc](https://github.com/oxc-project/oxc) - A suite of high-performance JavaScript tooling written in Rust (linter, formatter, parser, transformer, resolver).
 
 ## Runtimes
 *JavaScript runtimes and execution environments.*
 
 * [Deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript.
+* [Bun](https://bun.sh/) - Bun is a fast JavaScript all-in-one toolkit (runtime, package manager, bundler, test runner).
 
 ## Bundlers
 
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
-* [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
-* [Parcel](https://github.com/parcel) - Blazing fast, zero configuration web application bundler.
-* [Microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
-* [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right
-* [bundle](https://bundle.js.org) - A quick online npm package size checker.
 * [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
-* [Rspack](https://www.rspack.dev/) - A fast Rust-based web bundler.
+* [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript/TypeScript bundler written in Go.
+* [Parcel](https://github.com/parcel) - Blazing fast, zero configuration web application bundler.
+* [Rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler.
 * [Turbopack](https://turbo.build/pack) - Rust-based bundler from Vercel.
+* [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
+* [Microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
+* [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right.
+* [bundle](https://bundle.js.org) - A quick online npm package size checker.
+* [lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS bundler and minifier, written in Rust.
 
 # Minimizers
 
 * [Terser](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 * [Uglify](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
+* [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript/TypeScript minifier written in Go.
+* [lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS minifier written in Rust.
 
 ## Type Checkers
 
@@ -175,6 +181,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
 * [vitest](https://github.com/vitest/vitest) - A blazing fast unit test framework powered by Vite.
+* [bun:test](https://bun.sh/) - Bun's built-in test runner. Fast, built-in expect matchers, and native Watch mode.
 * [prova](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 
 
@@ -219,6 +226,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 * [Biome](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second.
+* [oxlint](https://github.com/oxc-project/oxc/tree/main/npm/oxlint) - A fast, native JavaScript linter written in Rust.
 * [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
@@ -230,6 +238,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 * [JS-Beautifier](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 * [husky](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+* [lint-staged](https://github.com/lint-staged/lint-staged) - Run linters against staged git files.
 
 ## MVC Frameworks and Libraries
 
@@ -634,13 +643,16 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## API
 
 * [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+* [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
+* [undici](https://github.com/nodejs/undici) - Node.js HTTP client with pipelining, retries, and a fully documented API.
+* [ofetch](https://github.com/unjs/ofetch) - Better fetch API for Node.js and browsers with auto-serialization.
+* [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
 * [bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 * [amygdala](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 * [Rails Ranger](https://github.com/victor-am/rails-ranger) - An opinionated REST client for Ruby on Rails APIs.
-* [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
-* [FarFetch](https://github.com/WebsiteBeaver/far-fetch) - Modern Fetch API wrapper for simplicity, with concise file uploading.
 * [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 * [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
 * [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
@@ -1020,9 +1032,12 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Image Processing
 
+* [Sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images.
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+* [browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Client-side image compression in the browser.
+* [jimp](https://github.com/jimp-dev/jimp) - The "JavaScript Image Manipulation Program" - A fully JS-native image processing library.
 
 ## ES6
 
@@ -1072,12 +1087,17 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## WebSockets
 
-* [Socket.io](https://github.com/socketio/socket.io) The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
-* [ws](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+* [Socket.io](https://github.com/socketio/socket.io) - The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
+* [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+* [undici](https://github.com/nodejs/undici) - Also includes WebSocket support in Node.js with native performance.
+* [SocketCluster](https://github.com/SocketCluster/socketcluster) - A scalable WebSocket framework for Node.js.
 
 ## Generative AI
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - A powerful visual tool for building, debugging, and deploying multi-agent AI systems directly in your browser.
+* [Vercel AI SDK](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid. Stream UI and multi-model support.
+* [LangChain.js](https://github.com/langchain-ai/langchainjs) - Build context-aware, reasoning applications with LangChain.
+* [Xenova/transformers.js](https://github.com/xenova/transformers.js) - Run ML models in the browser using Hugging Face transformers.
 
 ## Misc
 
