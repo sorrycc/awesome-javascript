@@ -135,6 +135,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 * [bundle](https://bundle.js.org) - A quick online npm package size checker.
 * [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
+* [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler written in Go.
 
 # Minimizers
 
@@ -168,6 +169,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
 * [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 * [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
+* [Vitest](https://github.com/vitest/vitest) - A blazing fast unit test framework powered by Vite.
 
 ### Assertion
 
@@ -312,7 +314,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Articles and Posts
 
-* [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [Multi-threading using web-workers](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers: Adding Multi-threading to JavaScript
 * [this keyword in JavaScript](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Breaking down the 'this' keyword in JavaScript
 
@@ -448,6 +449,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
 * [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 * [sweet-monads](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
+* [nanostores](https://github.com/nanostores/nanostores) - A tiny state manager for JS/TS apps that works with React, Preact, Vue, Svelte, and vanilla JS.
 
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
@@ -1074,7 +1076,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [list.js](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 https://listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - A Filter & Sort Plugin.
-* [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 * [SurveyJS](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. https://surveyjs.io/
 * [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
@@ -1089,6 +1090,8 @@ https://listjs.com
 * [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
+* [zx](https://github.com/google/zx) - A tool for writing better shell scripts.
+* [pm2](https://github.com/Unitech/pm2) - Advanced Process Manager for Node.js.
 
 # Worth Reading
  
