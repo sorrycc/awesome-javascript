@@ -89,17 +89,21 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *Host the JavaScript libraries and provide tools for fetching and packaging them.*
 
 * [npm](https://www.npmjs.com/) - npm is the package manager for JavaScript.
-* [Bower](https://github.com/bower/bower) - A package manager for the web.
-* [component](https://github.com/componentjs/component) - Client package management for building better web applications.
-* [spm](https://github.com/spmjs/spm) - Brand new static package manager.
-* [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository.
-* [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
-* [Ender](https://github.com/ender-js/Ender) - The no-library library.
-* [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
-* [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 * [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
 * [bun](https://bun.sh/) - Bun is a fast JavaScript all-in-one toolkit.
+
+## Deprecated Package Managers
+*These package managers are no longer actively maintained.*
+
+* [Bower](https://github.com/bower/bower) - A package manager for the web. (deprecated)
+* [component](https://github.com/componentjs/component) - Client package management for building better web applications. (deprecated)
+* [spm](https://github.com/spmjs/spm) - Brand new static package manager. (deprecated)
+* [jam](https://github.com/caolan/jam) - A package manager using a browser-focused and RequireJS compatible repository. (deprecated)
+* [jspm](https://github.com/jspm/jspm-cli) - Frictionless browser package management. (deprecated)
+* [Ender](https://github.com/ender-js/Ender) - The no-library library. (deprecated)
+* [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects. (deprecated)
+* [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless. (deprecated)
 
 ## Component Management
 
@@ -114,27 +118,40 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [HeadJS](https://github.com/headjs/headjs) - The only script in your HEAD.
 * [lazyload](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 * [script.js](https://github.com/ded/script.js) - Asynchronous JavaScript loader and dependency manager.
-* [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader.
 * [LodJS](https://github.com/yanhaijing/lodjs) - Module loader based on AMD.
 * [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
+### Deprecated Loaders
+
+* [systemjs](https://github.com/systemjs/systemjs) - AMD, CJS & ES6 spec-compliant module loader. (deprecated)
+
 ## Transpilers
 *Software that converts the modern JavaScript syntax into the older JavaScript syntax.*
 
+* [Babel](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [SWC](https://swc.rs/) - Extensible Rust-based platform for compilation.
+* [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
+
+### Deprecated Transpilers
+
+* [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more. (deprecated)
 
 ## Bundlers
 
 * [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
 * [Rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
-* [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 * [Parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler.
+* [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
+* [esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier written in Go.
+* [Rspack](https://www.rspack.dev/) - A fast Rust-based web bundler with webpack compatibility.
+* [Turborepo](https://turbo.build/repo) - High-performance build system for JavaScript and TypeScript monorepos.
+* [Brunch](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 * [Microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
-* [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right
+* [FuseBox](https://github.com/fuse-box/fuse-box) - A bundler that does it right.
 * [Snowpack](https://www.snowpack.dev/) - A lightning-fast frontend build tool, designed for the modern web.
 * [bundle](https://bundle.js.org) - A quick online npm package size checker.
-* [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
+* [tsup](https://github.com/egoist/tsup) - Zero-config TypeScript bundler powered by esbuild.
 
 # Minimizers
 
@@ -159,15 +176,20 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing.
-* [prova](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
-* [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
-* [Protractor](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
+* [Vitest](https://github.com/vitest/vitest) - A blazing fast unit test framework powered by Vite.
 * [tape](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
-* [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
+* [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner.
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
-* [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
-* [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
+* [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js.
+* [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection.
+
+### Deprecated Frameworks
+
+* [prova](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify. (deprecated)
+* [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript. (deprecated)
+* [Protractor](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications. (deprecated - Angular team no longer maintains)
+* [PhantomJS](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. (deprecated - replaced by Puppeteer/Playwright)
 
 ### Assertion
 
@@ -188,11 +210,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ### Runner
 
-* [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
-* [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
-* [casperjs](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS.
-* [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
-* [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
@@ -201,35 +218,40 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
 * [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
+### Deprecated Runners
+
+* [slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko. (deprecated)
+* [casperjs](https://github.com/casperjs/casperjs) - Navigation scripting & testing utility for PhantomJS and SlimerJS. (deprecated)
+* [zombie](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js. (deprecated - unmaintained)
+* [totoro](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool. (deprecated)
+
 ## QA Tools
 
 * [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+* [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+* [biome](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second.
 * [JSHint](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
-* [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
+* [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker. (deprecated)
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
 * [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 * [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
-* [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
-* [JavaScript Standard Style](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
-* [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
+* [JavaScript Standard Style](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter.
+* [Pre-evaluate code at buildtime](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time.
 * [JS-Beautifier](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 * [husky](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+* [lint-staged](https://github.com/lint-staged/lint-staged) - Run linters against staged git files.
 
 ## MVC Frameworks and Libraries
 
-* [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
 * [angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
 * [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
 * [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
-* [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
 * [vue](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 * [svelte](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
-* [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
-* [espresso.js](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces.
 * [canjs](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 * [react](https://reactjs.org/) - A library for building user interfaces. It's declarative, efficient, and extremely flexible. Works with a Virtual DOM.
 * [hyperapp](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications.
@@ -237,19 +259,11 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [nativescript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript.
 * [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [riot](https://github.com/riot/riot) - React-like library, but with very small size.
-* [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
-* [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
-* [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
-* [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views.
-* [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution.
 * [derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
     * [derby-awesome](https://github.com/russll/awesome-derby) - A collection of awesome derby components
 * [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding.
 * [mithril.js](https://github.com/lhorie/mithril.js) - Mithril is a client-side MVC framework (Light-weight, Robust, Fast).
-* [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework.
 * [feathers](https://github.com/feathersjs/feathers) - A minimalist real-time JavaScript framework for tomorrow's apps.
-* [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
-* [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 * [Alpine.js](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 * [inferno](https://github.com/infernojs/inferno) - 🔥 An extremely fast, React-like JavaScript library for building modern user interfaces.
 * [FoalTS](https://foalts.org) - Elegant and all-inclusive Node.JS framework for building web applications (TypeScript).
@@ -264,20 +278,38 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 * [Remult](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
 
+### Deprecated MVC Frameworks
+
+* [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated - use angular instead)
+* [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications. (deprecated - unmaintained)
+* [espresso.js](https://github.com/techlayer/espresso.js) - A minimal JavaScript library for crafting user interfaces. (deprecated)
+* [thorax](https://github.com/walmartlabs/thorax) - Strengthening your Backbone. (deprecated)
+* [chaplin](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library. (deprecated)
+* [marionette](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications. (deprecated)
+* [ripple](https://github.com/ripplejs/ripple) - A tiny foundation for building reactive views. (deprecated)
+* [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding + templating solution. (deprecated)
+* [jsblocks](https://github.com/astoilkov/jsblocks) - jsblocks is better MV-ish framework. (deprecated)
+* [Keo](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support. (deprecated)
+* [atvjs](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript. (deprecated)
+* [ractive](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation. (deprecated)
+
 ## Node-Powered CMS Frameworks
 
 * [KeystoneJS](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
-* [Reaction Commerce](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design.
 * [Ghost](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
 * [Apostrophe](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
-* [We.js](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
-* [Hatch.js](https://github.com/inventures/hatchjs) - CMS platform with social features.
-* [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js.
-* [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
-* [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
-* [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 * [Strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
-* [Factor](https://github.com/fiction-com/factor) - The Javascript CMS
+* [Factor](https://github.com/fiction-com/factor) - The Javascript CMS.
+
+### Deprecated CMS Frameworks
+
+* [Reaction Commerce](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design. (deprecated)
+* [We.js](https://github.com/wejs/we/) - framework for real time apps, sites or blogs. (deprecated)
+* [Hatch.js](https://github.com/inventures/hatchjs) - CMS platform with social features. (deprecated)
+* [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - fast and minimalist CMS based on Node.js. (deprecated)
+* [Nodizecms](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers. (deprecated)
+* [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor. (deprecated)
+* [PencilBlue](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform. (deprecated)
 
 ## Templating Engines
 *Templating engines allow you to perform string interpolation.*
@@ -388,12 +420,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [esprima](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 * [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 * [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone.
-* [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown).
-* [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-* [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
 * [ckeditor-releases](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
-* [editor](https://github.com/lepture/editor) - A markdown editor. still on development.
-* [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 * [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent `~/.vimrc`.
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor.
@@ -401,12 +428,21 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
 * [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - A lightweight and amazing WYSIWYG JavaScript editor.
 * [Draft.js](https://github.com/facebook/draft-js) - A React framework for building text editors.
-* [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor
-* [wysihtml5](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable tag soups and inline styles.
-* [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
-* [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 * [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
-* [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+* [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor.
+* [Monaco Editor](https://github.com/Microsoft/monaco-editor) - The code editor that powers VS Code.
+
+### Deprecated Editors
+
+* [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown). (deprecated)
+* [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium. (deprecated)
+* [bootstrap-wysiwyg](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor. (deprecated)
+* [editor](https://github.com/lepture/editor) - A markdown editor. still on development. (deprecated)
+* [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. (deprecated)
+* [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - Simple, beautiful wysiwyg editor. (deprecated)
+* [wysihtml5](https://github.com/xing/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. (deprecated)
+* [raptor-editor](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor! (deprecated)
+* [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar. (deprecated)
 
 ## Documentation
 
@@ -1060,6 +1096,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
+* [LangChain.js](https://github.com/langchain-ai/langchainjs) - LangChain is a framework for developing applications powered by large language models (LLMs).
+* [Vercel AI SDK](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid.
 
 ## Misc
 
