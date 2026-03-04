@@ -306,7 +306,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Kaboom.js](https://kaboomjs.com) - A game programming library that helps you make games fast and fun.
 * [Matter.js](https://brm.io/matter-js) - A 2D rigid body JavaScript physics engine.
 * [melonJS](https://melonjs.org) - Open source HTML5 game engine that empowers developers and designers to focus on content.
-* [Phaser](https://phaser.io) - Phaser - A fast, fun and free open source HTML5 game framework.
 * [PixiJS](https://pixijs.com) - The HTML5 Creation Engine.
 * [PlayCanvas](https://playcanvas.com) - PlayCanvas WebGL Game Engine.
 
@@ -365,7 +364,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [G6](https://github.com/antvis/g6) - A graph visualization engine.
 * [Infographic](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
 
-There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
+There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), and [plotly](https://plotly.com/).
 
 ## Timeline
 
@@ -705,7 +704,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization.
 * [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 * [validatr](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
-* [FormValidation](https://formvalidation.io/) - The best jQuery plugin to validate form fields. Formerly BootstrapValidator. (Archived: https://web.archive.org/web/2023/https://formvalidation.io/)
 * [is.js](https://github.com/arasatasaygin/is.js) - Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
 * [Funval](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
