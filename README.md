@@ -705,7 +705,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization.
 * [validate.js](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 * [validatr](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
-* [FormValidation](https://formvalidation.io/) - The best jQuery plugin to validate form fields. Formerly BootstrapValidator.
+* [FormValidation](https://formvalidation.io/) - The best jQuery plugin to validate form fields. Formerly BootstrapValidator. (Archived: https://web.archive.org/web/2023/https://formvalidation.io/)
 * [is.js](https://github.com/arasatasaygin/is.js) - Check types, regexps, presence, time and more.
 * [FieldVal](https://github.com/FieldVal/fieldval-js) - multipurpose validation library. Supports both sync and async validation.
 * [Funval](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
@@ -891,15 +891,15 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
 * [Bootstrap Table](https://bootstrap-table.com/) - An Extension to the popular Bootstrap framework for creating tables that fit the style of your site with no need for additional markup.
 * [floatThead](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
-* [Masonry](https://masonry.desandro.com/) - A cascading grid layout library.
+* [Masonry](https://masonry.js.org/) - A cascading grid layout library.
 * [Packery](https://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](https://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
 
 ## Frameworks
 
-* [Semantic UI](https://semantic-ui.com/) - UI Kit with lots of themes and elements.
-* [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
+* [Semantic UI](https://semantic-ui.com/) - UI Kit with lots of themes and elements. (Legacy: https://web.archive.org/web/2023/https://semantic-ui.com/)
+* [w2ui](https://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 * [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 * [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
@@ -946,14 +946,13 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [Play-em JS](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
  * [polyplayer](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - The HTML5 video player for the web
- <https://flowplayer.com/>
- * [mediaelement](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://www.mediaelementjs.com/>
+ * [mediaelement](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers.
  * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
  * [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
- * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
+ * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web
  * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
  * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
@@ -1092,7 +1091,7 @@ https://listjs.com
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [JSbooks](https://github.com/revolunet/JSbooks) - Directory of free JavaScript ebooks.
-* [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
+* [Superhero.js](https://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base. (Archived: https://web.archive.org/web/2022/http://superherojs.com/)
 * [SJSJ](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
