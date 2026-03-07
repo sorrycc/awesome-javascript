@@ -1041,6 +1041,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
   
 ## ORM
 
+- [traceflux](https://github.com/tracer-mohist/traceflux) - A text search engine with associative discovery. Discovers what you don't know to search for using co-occurrence graphs and PageRank.
 * [Prisma](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
 * [Sequelize](https://github.com/sequelize/sequelize) Feature-rich ORM for modern Node.js and TypeScript | PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB...
 * [Mongoose](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
