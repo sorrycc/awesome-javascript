@@ -263,6 +263,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 * [Remult](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+* [µJS](https://github.com/Digicreon/muJS) - Lightweight AJAX navigation library. Intercepts links and forms to swap DOM fragments without a full page reload. 5KB, zero dependencies.
 
 ## Node-Powered CMS Frameworks
 
