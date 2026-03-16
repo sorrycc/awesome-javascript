@@ -1102,6 +1102,7 @@ https://listjs.com
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 * [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
+* [JavaScript Info](https://javascript.info) - Modern JavaScript tutorial with simple explanations.
 
 
 # Other Awesome Lists
