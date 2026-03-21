@@ -651,6 +651,10 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 * [JS-PyTorch](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
 
+## Natural Language Processing
+
+* [textlens](https://github.com/ckmtools/textlens) - CLI and library for text readability, sentiment, keyword extraction, and structure analysis.
+
 ## Browser Detection
 
 * [bowser](https://github.com/ded/bowser) - a browser detector.
