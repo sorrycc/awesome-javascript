@@ -514,6 +514,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 * [money.js](https://github.com/josscrowcroft/money.js) - A tiny (1kb) JavaScript currency conversion library, for web & nodeJS.
+* [spanish-tax-calculators](https://github.com/luxeon/spanish-tax-calculators) - Pure JavaScript calculators for Spanish taxes: IRPF (state + 19 regions), Social Security (RETA), Autónomo Colaborador optimizer, and ITP property transfer tax. ([Demo](https://calculators.dslab.fyi/))
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
