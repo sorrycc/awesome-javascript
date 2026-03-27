@@ -816,6 +816,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [FileAPI](https://github.com/mailru/FileAPI) - A set of JavaScript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
 * [plupload](https://github.com/moxiecode/plupload) - A JavaScript API for dealing with file uploads it supports features like multiple file selection, file type filtering, request chunking, client side image scaling and it uses different runtimes to achieve this such as HTML 5, Silverlight and Flash.
 * [filepond](https://github.com/pqina/filepond) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+* [pushduck](https://github.com/abhay-ramesh/pushduck) - Type-safe S3 file upload library with React hooks, presigned URLs, and support for AWS S3, Cloudflare R2, DigitalOcean Spaces, and MinIO.
 
 ### Other
 
