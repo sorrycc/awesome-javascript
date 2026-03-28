@@ -101,6 +101,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
 * [bun](https://bun.sh/) - Bun is a fast JavaScript all-in-one toolkit.
 
+- [ReleaseRun](https://releaserun.com) — free package.json and npm dependency health checker — scans for CVEs, EOL packages, and outdated dependencies in JavaScript projects
 ## Component Management
 
 * [Bit](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
