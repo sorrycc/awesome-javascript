@@ -448,6 +448,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency.
 * [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 * [sweet-monads](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
+* [DevKits](https://aiforeverthing.com) - 82 free developer tools in a PWA. Works offline, no signup required. Includes JSON formatter, Base64 encoder, UUID generator, regex tester, and 77+ more utilities.
 
 ## Reactive Programming
 *Reactive programming libraries to extend JavaScript’s capabilities.*
