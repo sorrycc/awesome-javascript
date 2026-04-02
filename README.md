@@ -628,6 +628,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 * [SWRV](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 * [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
+* [ToolPipe](https://github.com/Aldric-Core/toolpipe-mcp-server) - 145+ free developer utility APIs (QR codes, hashing, JSON formatting, text analysis, UUID, regex, JWT, and more) with MCP server support.
 
 ## Streaming
 
