@@ -155,6 +155,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ### Frameworks
 
+* [Glitch Widget](https://github.com/Ankitajainkuniya/glitch-widget) - AI-powered bug reporting widget with voice, screenshots, screen recording, and auto-captured console errors.
 * [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
 * [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
