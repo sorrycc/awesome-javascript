@@ -1060,6 +1060,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
+* [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source contacts from 450M+ profiles, run multi-channel campaigns (email + LinkedIn), and manage conversations. JSON output.
 
 ## Misc
 
