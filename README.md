@@ -82,6 +82,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for JavaScript development orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 ----
 
