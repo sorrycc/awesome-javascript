@@ -1005,6 +1005,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+* [omni-compress](https://github.com/dharanish-v/omni-compress) - Universal image, audio & video compression for browser + Node.js. OffscreenCanvas → FFmpeg Wasm → native ffmpeg. AVIF, WebP, Opus, H.264.
 
 ## ES6
 
