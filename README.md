@@ -1088,6 +1088,7 @@ https://listjs.com
 * [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
 * [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
+* [grugbot420](https://github.com/grug-group420/grugbot420) - Zero-dependency AI CLI assistant following grug-brained developer philosophy. Built with Bun.js.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 # Worth Reading
