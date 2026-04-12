@@ -647,6 +647,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Synaptic.js](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
 * [TensorFlow.js](https://www.tensorflow.org/js/) - A JavaScript library for training and deploying ML models in the browser and on Node.js.
 * [ml5.js](https://ml5js.org) - Friendly Machine Learning for the Web.
+* [inferis-ml](https://github.com/pashunechka/inferis-ml) - Worker pool for running AI models in the browser with WebGPU/WASM auto-detection, LRU model eviction, token streaming, and cross-tab deduplication.
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 * [JS-PyTorch](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
