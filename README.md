@@ -650,6 +650,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 * [JS-PyTorch](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence layer with neural mesh networking, pattern memory, and predictive analytics.
 
 ## Browser Detection
 
