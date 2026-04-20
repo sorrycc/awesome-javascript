@@ -1060,6 +1060,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - AI background code analysis agent that watches your codebase and provides real-time insights and automated reviews.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - Skill and command manager for AI assistants with dynamic loading and execution.
 
 ## Misc
 
