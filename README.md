@@ -216,6 +216,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [JS-Beautifier](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 * [husky](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
 * [Rev-dep](https://github.com/jayu/rev-dep) - Trace imports, identify circular dependencies, find unused code, clean node modules — all from a blazing-fast CLI.
+* [fallow](https://github.com/fallow-rs/fallow) - Finds dead code, duplication, circular dependencies, and complexity hotspots in JavaScript and TypeScript projects.
 
 ## MVC Frameworks and Libraries
 
