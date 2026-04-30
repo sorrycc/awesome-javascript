@@ -431,6 +431,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *Libraries for working with files.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
+* [data-genie](https://github.com/pujansrt/data-genie) - High-performance, streaming-first ETL engine for Node.js and TypeScript with constant memory footprint.
 * [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
