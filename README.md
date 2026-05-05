@@ -1063,6 +1063,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
+* [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Self-repairing TypeScript CLI exposing 237+ websites, desktop apps, and external CLIs as deterministic commands for AI agents via 920 declarative YAML adapters and structured error envelopes; ships an optional MCP server.
 
 ## Misc
 
