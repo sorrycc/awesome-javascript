@@ -409,7 +409,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 * [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 * [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
-
+* [Vivix](https://github.com/HenryOnilude/vivix) - Instruction-level JavaScript execution visualizer with simultaneous heap memory visualization and async/await support.
+  
 ## Documentation
 
 * [DevDocs](https://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
