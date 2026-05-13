@@ -168,6 +168,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
 * [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 * [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
+* [Vitest](https://github.com/vitest-dev/vitest) - A blazing fast Vite-native unit test framework with out-of-box ESM, TypeScript and JSX support.
 
 ### Assertion
 
@@ -1083,6 +1084,7 @@ https://listjs.com
 * [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
 * [Clipboard.js](https://clipboardjs.com/) - "Copy to clipboard" without Flash or use of Frameworks.
 * [ky](https://github.com/sindresorhus/ky) - Tiny and elegant HTTP client based on the browser Fetch API.
+* [ofetch](https://github.com/unjs/ofetch) - A better fetch API that works uniformly in Node.js, browsers, and workers.
 * [Fcal](https://github.com/5anthosh/fcal) -  Math expression evaluator.
 * [emoji-button](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component.
 * [iooxa](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
