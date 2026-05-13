@@ -652,6 +652,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Synapses](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native JavaScript code with zero dependencies.
 * [JS-PyTorch](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
+* [dakera-js](https://github.com/dakera-ai/dakera-js) - JavaScript SDK for Dakera, a self-hosted MCP agent memory server with decay-weighted recall and HNSW vector search.
 
 ## Browser Detection
 
