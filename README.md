@@ -179,6 +179,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [proxyquire](https://github.com/thlorenz/proxyquire) - Stub nodejs's require.
 * [Supertest](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
 * [Pocket Mocker](https://github.com/tianchangNorth/pocket-mocker) - In-browser visual network mocking tool, supports fetch/XHR interception.
+* [nullmock](https://github.com/modoldern/nullmock) - A zero-dependency, ultra-fast dynamic API mocking and network simulation server.
 
 ### Coverage
 
