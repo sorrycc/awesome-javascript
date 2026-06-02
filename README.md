@@ -362,7 +362,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [G2](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 * [G2Plot](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 * [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
-* [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
+* [cola.js](https://github.com/tgdwyer/WebCola) - Library for arranging HTML5 documents and diagrams using constraint-based layout techniques.
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 * [G6](https://github.com/antvis/g6) - A graph visualization engine.
@@ -891,7 +891,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 * [DataTables](https://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
-* [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
+* [Tabulator](https://tabulator.info/) - An extremely flexible library that creates interactive tables from any JSON data source or existing HTML table.
 * [Bootstrap Table](https://bootstrap-table.com/) - An Extension to the popular Bootstrap framework for creating tables that fit the style of your site with no need for additional markup.
 * [floatThead](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
 * [Masonry](https://masonry.desandro.com/) - A cascading grid layout library.
@@ -1092,6 +1092,7 @@ https://listjs.com
 * [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
+* [Smart Formatter](https://smartformatter.com) - A premium suite of browser-only client-side developer utilities, JSON/XML/GraphQL formatters, and data converters with 100% privacy.
 
 # Worth Reading
  
