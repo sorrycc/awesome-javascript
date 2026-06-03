@@ -185,6 +185,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
 * [blanket](https://github.com/alex-seville/blanket) - A simple code coverage library for JavaScript. Designed to be easy to install and use, for both browser and nodejs.
 * [JSCover](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
+* [coverage-gate](https://github.com/task-bounty/coverage-gate) - Zero-dependency CLI and GitHub Action that reads your LCOV or json-summary report, shows the gap to a coverage target, and fails CI below it.
 
 ### Runner
 
