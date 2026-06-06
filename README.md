@@ -1036,6 +1036,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [OpenAI SDK](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API.
 * [Stripe Node.js SDK](https://github.com/stripe/stripe-node) - Stripe Node.js SDK lets you integrate payments, subscrip
 tions, and billing into your JavaScript/TypeScript apps.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification for AI agents on Solana. Free wallet scoring; paid trust receipts via HTTP 402 + USDC micropayment.
 
 ## Full Text Search
 
