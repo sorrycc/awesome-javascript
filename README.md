@@ -904,7 +904,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Semantic UI](https://semantic-ui.com/) - UI Kit with lots of themes and elements.
 * [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 * [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
-* [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 * [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
 
@@ -1077,7 +1076,6 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [list.js](https://github.com/javve/list.js) - Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 https://listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) - MixItUp - A Filter & Sort Plugin.
-* [grid](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
 * [SurveyJS](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. https://surveyjs.io/
 * [Array Explorer](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
