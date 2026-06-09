@@ -1001,6 +1001,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [barbajs](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 * [typicaljs](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * [AutoAnimate](https://auto-animate.formkit.com) - Add motion to your apps with a single line of code.
+ * [IconKing](https://iconking.net) - Free browser-based Lottie animation viewer, color editor, and .json/.lottie format converter. 100% client-side, no account required.
 
 ## Image Processing
 
