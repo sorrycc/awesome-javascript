@@ -520,6 +520,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
 * [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+* [wickra](https://github.com/wickra-lib/wickra) - Native Node.js technical-analysis library with 514 streaming O(1)-per-tick indicators over a Rust core.
 
 ## Storage
 
