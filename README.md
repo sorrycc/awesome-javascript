@@ -397,6 +397,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [editor](https://github.com/lepture/editor) - A markdown editor. still on development.
 * [EpicEditor](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 * [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
+* [jsonic](https://jsonic.io) - In-browser tool to format, validate and convert JSON (to CSV, YAML and TypeScript). Client-side, no signup.
 * [vim.js](https://github.com/coolwanglu/vim.js) - JavaScript port of Vim with a persistent `~/.vimrc`.
 * [Squire](https://github.com/neilj/Squire) - HTML5 rich text editor.
 * [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
