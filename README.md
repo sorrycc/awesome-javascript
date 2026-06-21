@@ -857,6 +857,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 * [keukenhof](https://github.com/Alexandrshy/keukenhof) - Lightweight, no dependencies, accessibility enabled TypeScript library for creating modal windows.
 * [screenfull.js](https://github.com/sindresorhus/screenfull.js) - the JavaScript Fullscreen API, which lets you bring the page or any element into fullscreen. Smoothens out the browser implementation differences, so you don't have to.
+* [crosshairJs](https://github.com/CodCatDev/CrosshairJs) - A lightweight animated custom cursor with smart hover effects and zero setup.
+
 
 ## Scroll
 
