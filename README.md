@@ -152,6 +152,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Yup](https://github.com/jquense/yup) - JavaScript schema builder and validator.
 
 ## Testing Frameworks
+* [interface-forge](https://github.com/Goldziher/interface-forge) - Graceful, type-safe mock-data generation for TypeScript, with factories and Faker integration.
 
 ### Frameworks
 
