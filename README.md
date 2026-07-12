@@ -432,6 +432,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 * [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+* [xls-reader](https://github.com/zanlucathiago/xls-reader) - Zero-dependency reader for legacy .xls (BIFF8 / Excel 97-2003) files in Node and the browser, returning each sheet as typed cells.
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 * [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
