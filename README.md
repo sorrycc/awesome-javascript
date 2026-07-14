@@ -745,6 +745,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [smoke.js](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
 * [notie](https://github.com/jaredreich/notie) - Simple notifications and inputs with no dependencies.
 * [notifire](https://github.com/notifirehq/notifire) - Open-source notification infrastructure for products.
+* [Chimely](https://github.com/dodopayments/chimely) - Open-source, self-hostable in-app notification inbox infrastructure with a drop-in <Inbox /> React/JS component. Self-hosted alternative to Knock, Courier, MagicBell, and Novu.
 * [toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.
 
 ## Sliders
