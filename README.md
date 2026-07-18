@@ -222,7 +222,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [angular.js](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
 * [angular](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-* [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
+* [aurelia](https://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
 * [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [ember.js](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
 * [meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-javascript web framework.
@@ -349,7 +349,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [trianglify](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js.
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
-* [dimple.js](http://dimplejs.org) - Easy charts for business analytics powered by d3.
+* [dimple.js](https://dimplejs.org) - Easy charts for business analytics powered by d3.
 * [chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 * [epoch](https://github.com/epochjs/epoch) - A general purpose real-time charting library.
 * [c3](https://github.com/c3js/c3) - D3-based reusable chart library.
@@ -413,17 +413,17 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Documentation
 
 * [DevDocs](https://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
-* [docco](http://ashkenas.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
-* [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
+* [docco](https://ashkenas.com/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
+* [styledocco](https://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 * [Ronn](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
 * [dox](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 * [jsdox](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 * [ESDoc](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
-* [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
-* [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
-* [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
+* [YUIDoc](https://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
+* [coddoc](https://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
+* [sphinx](https://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
 * [Beautiful docs](https://github.com/beautiful-docs/beautiful-docs) is a documentation viewer based on markdown files.
-* [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
+* [documentation.js](https://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
 * [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) is a visual tool for learning and documenting a codebase by putting breadcrumbs in source code.
 
@@ -600,8 +600,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Conzole](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
 * [console.log-wrapper](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
 * [loglevel](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
-* [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends.
-* [storyboard](http://guigrpa.github.io/storyboard/) - Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.
+* [minilog](https://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends.
+* [storyboard](https://guigrpa.github.io/storyboard/) - Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.
 * [LogTape](https://logtape.org/) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions.
 
 ## RegExp
@@ -751,7 +751,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Swiper](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
 * [slick](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
-* [slidesJs](http://www.slidesjs.com) - Is a responsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions
+* [slidesJs](https://www.slidesjs.com) - Is a responsive slideshow plug-in for JQuery(1.7.1+) with features like touch and CSS3 transitions
 * [FlexSlider](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
 * [sly](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
 * [vegas](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
@@ -891,7 +891,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [jTable](https://github.com/hikalkan/jtable) - A jQuery plugin to create AJAX based CRUD tables.
 * [DataTables](https://www.datatables.net/) - (jQuery plug-in) It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
-* [Tabulator](http://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
+* [Tabulator](https://olifolkerd.github.io/tabulator/) - (jQuery plug-in) An extremely flexible library that create tables with a range of interactive features from any JSON data source or existing HTML table.
 * [Bootstrap Table](https://bootstrap-table.com/) - An Extension to the popular Bootstrap framework for creating tables that fit the style of your site with no need for additional markup.
 * [floatThead](https://github.com/mkoryak/floatThead) - (jQuery plug-in) lock any table's header while scrolling within the body. Works on any table and requires no custom html or css.
 * [Masonry](https://masonry.desandro.com/) - A cascading grid layout library.
@@ -902,7 +902,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Frameworks
 
 * [Semantic UI](https://semantic-ui.com/) - UI Kit with lots of themes and elements.
-* [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
+* [w2ui](https://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
 * [fluidity](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework.
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
@@ -951,13 +951,13 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [polyplayer](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
  * [flowplayer](https://github.com/flowplayer/flowplayer) - The HTML5 video player for the web
  <https://flowplayer.com/>
- * [mediaelement](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://www.mediaelementjs.com/>
+ * [mediaelement](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <https://www.mediaelementjs.com/>
  * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
  * [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
  * [photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
- * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web http://clappr.io
+ * [clappr](https://github.com/clappr/clappr) - An extensible media player for the web https://clappr.io
  * [ts-audio](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
  * [AmplitudeJS](https://521dimensions.com/open-source/amplitudejs) - Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
  * [ractive-player](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
@@ -1098,7 +1098,7 @@ https://listjs.com
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web.
 * [JSbooks](https://github.com/revolunet/JSbooks) - Directory of free JavaScript ebooks.
-* [Superhero.js](http://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
+* [Superhero.js](https://superherojs.com) - A collection of resources about creating, testing and maintaining a large JavaScript code base.
 * [SJSJ](https://github.com/KittyGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - A comprehensive guide through a set of steps to publish a JavaScript open source library.
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
