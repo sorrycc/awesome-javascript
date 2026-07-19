@@ -634,6 +634,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Streaming
 
 * [Tailor](https://github.com/zalando/tailor) - Streaming layout service for front-end microservices, inspired by Facebook's BigPipe.
+* [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces across Vue, React, Svelte and Angular.
 
 ## Vision Detection
 
