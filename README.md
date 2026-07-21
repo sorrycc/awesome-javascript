@@ -556,6 +556,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
 * [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 * [Vibrant.js](https://github.com/jariz/vibrant.js/) - Extract prominent colors from an image.
+* [color-space](https://github.com/colorjs/color-space) - Conversions between 162 color spaces (OKLCH, CAM16, Munsell, camera logs) with cited references.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
