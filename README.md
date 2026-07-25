@@ -589,6 +589,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Security
 
+* [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/nextjs-security-headers-starter) - A dependency-free Next.js security-header baseline with automated tests and a production verifier.
 * [DOMPurify](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 * [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 * [xss-filters](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo.
