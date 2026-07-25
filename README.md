@@ -346,6 +346,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
 * [heatmap.js](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps.
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery JavaScript library to generate small sparkline charts directly in the browser.
+* [microcharts](https://github.com/ganapativs/microcharts) - Word-sized React charts for inline text, table cells, and KPI cards. SVG, zero dependencies, accessible by default.
 * [trianglify](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js.
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 * [d4](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
