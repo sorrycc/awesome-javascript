@@ -409,6 +409,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 * [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 * [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+* [Deoit](https://deoit.js.org) - Free browser-based code editor for HTML, CSS & JavaScript with 81+ lessons, syntax highlighting, and live preview.
 
 ## Documentation
 
