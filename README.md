@@ -1009,6 +1009,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+* [Img2Num](https://github.com/Ryan-Millard/Img2Num) - Cross-platform raster-to-SVG vectorization library for natural images with JavaScript and WebAssembly support.
 
 ## ES6
 
