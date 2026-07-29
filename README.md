@@ -948,6 +948,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Video/Audio
 
+ * [Master Pro Audio Analyzer Suite](https://github.com/varunmaurya-git/Master-Pro-Audio-Analyzer) - Real-time client-side audio spectrum, phase scope, and spectrogram analyzer.
  * [prettyembed.js](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
  * [Play-em JS](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
  * [polyplayer](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
