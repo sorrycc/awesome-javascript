@@ -923,6 +923,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [this-is-responsive](https://github.com/bradfrost/this-is-responsive) - This Is Responsive.
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
  * [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+ * [saas-startup](https://github.com/mailkite/saas-startup) - Production-ready Next.js 15 SaaS starter with self-contained auth (Google/GitHub OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, and a dark-first UI.
 
 ## Images
 
