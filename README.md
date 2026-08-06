@@ -1066,6 +1066,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
+* [AgentsKit](https://github.com/AgentsKit-io/agentskit) - A modular TypeScript toolkit for building provider-independent AI agents with a tiny core and independently installable runtime, memory, RAG, tools, sandbox, observability, and evaluation packages.
 
 ## Misc
 
