@@ -1110,6 +1110,7 @@ https://listjs.com
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 * [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
 * [JavaScript Info](https://javascript.info) - Modern JavaScript tutorial with simple explanations.
+* [JavaScript Essentials Companion Guide](https://github.com/SystemCraftPress/javascript-essentials) - A practical guide to core JavaScript concepts, debugging real errors, and async patterns, with free examples and exercises.
 
 
 # Other Awesome Lists
