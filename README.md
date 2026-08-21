@@ -596,6 +596,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [xss-filters](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo.
 * [sanitize-html](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
 * [pompelmi](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
+* [ShroudJS](https://github.com/chrisch88dev/shroudjs) - Zero-dependency JavaScript minimizer, obfuscator, and source protector built to resist reverse engineering and code tampering.
 
 ## Log
 
