@@ -409,6 +409,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 * [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 * [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+* [CyteEditor](https://github.com/cyte-editor/cyteeditor-examples) - Rich text editor SDK with Office paste fidelity, snapshot & version comparison, official adapters for React, Vue 3/2, Svelte, Angular, and Vanilla JS.
 
 ## Documentation
 
