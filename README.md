@@ -882,6 +882,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [stroll](https://github.com/hakimel/stroll.js) - A collection of CSS List scroll effects bind to dom through javascript.
 * [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
 * [elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
+* [scroll-frame-sequence](https://github.com/tangyistudio/scroll-frame-sequence) - Scroll-driven image sequence player with hold loops, portrait pan and three-layer loading. Zero dependencies.
 
 ## Menu
 
