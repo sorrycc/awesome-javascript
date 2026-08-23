@@ -435,6 +435,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 * [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+* [mdgate/converters](https://github.com/mdgate/converters) - Pure TypeScript converters for 150+ file types (DOCX, PDF, PPTX, XLSX, iWork, HWP, email) to GitHub-Flavored Markdown. Runs in Node, Edge, and browsers.
 * [File Viewer](https://github.com/flyfish-dev/file-viewer) - Browser-native components for previewing files without server-side conversion.
 
 ## Functional Programming
