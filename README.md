@@ -612,6 +612,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [RegExr](https://regexr.com/) - HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 * [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Parser & Visualizer.
 * [Regex-Vis](https://regex-vis.com/) - Regex visualizer & editor.
+* [Nutilz Regex Tester](https://nutilz.com/regex-tester) - Free browser-based regular expression tester with real-time matching, substitution, and regex reference.
 
 ## Voice Command
 
