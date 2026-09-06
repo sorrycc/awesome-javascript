@@ -985,6 +985,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Animations
 
 * [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
+* [SmoothDelete](https://github.com/smithveg-stack/smooth-delete) - Animated AJAX row deletion with a fade + collapse, no page reload; examples for PHP, jQuery and legacy stacks.
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 * [bounce.js](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 * [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
