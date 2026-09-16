@@ -1013,6 +1013,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+* [photo-to-line-art](https://github.com/tim20010701/printable-coloring-page-toolkit) - Zero-dependency module that turns photo pixel data into black-and-white line art with Sobel edge detection, for printable coloring pages.
 
 ## ES6
 
