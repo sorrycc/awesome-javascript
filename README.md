@@ -411,6 +411,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [popline](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 * [Summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
 * [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+* [RichTextEditor](https://github.com/richtexteditor/richtexteditor) - WYSIWYG HTML editor with image upload, tables, track changes and comments. Commercial, perpetual license.
 
 ## Documentation
 
