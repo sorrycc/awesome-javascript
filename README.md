@@ -318,7 +318,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [The JavaScript that you should know](https://medium.com/@pedropolisenso/o-javasscript-que-voc%C3%AA-deveria-conhecer-b70e94d1d706) - Article about concepts of JavaScript Functional.
 * [Multi-threading using web-workers](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Web Workers: Adding Multi-threading to JavaScript
-* [Debugging CORS errors step-by-step](https://thecodeforge.io/javascript/cors-policy-error/) - Practical CORS triage from browser console to server headers.
 
 ## Data Visualization
 *Data visualization tools for the web.*
