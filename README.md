@@ -438,6 +438,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 * [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 * [File Viewer](https://github.com/flyfish-dev/file-viewer) - Browser-native components for previewing files without server-side conversion.
+* [TeamSync PDF Viewer](https://github.com/angelbot-ai/TeamSync-PDF-Viewer) - Client-side PDF viewer with annotation, redaction and watermarking.
 
 ## Functional Programming
 *Functional programming libraries to extend JavaScript’s capabilities.*
