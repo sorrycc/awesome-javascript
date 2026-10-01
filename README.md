@@ -904,6 +904,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Packery](https://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](https://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
+* [Everygrid](https://github.com/ilsansoftware/everygrid) - Config-driven data grid whose filtering, sorting and paging run in a Rust/WebAssembly engine inside a Web Worker, keeping millions of rows responsive. Works with React, plain JS and jQuery.
 
 ## Frameworks
 
