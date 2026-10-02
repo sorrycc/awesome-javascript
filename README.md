@@ -493,6 +493,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 * [luxon](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+* [chronera](https://github.com/INTECH-Software-House/chronera-js) - Universal, type-safe date, calendar, and timezone toolkit with RFC 9557, Temporal ZonedDateTime, and multi-cultural calendar engines.
 * [tempo](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
 
 ## String
