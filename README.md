@@ -662,6 +662,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Browser Detection
 
 * [bowser](https://github.com/ded/bowser) - a browser detector.
+* [open-in-native-browser](https://github.com/muddassirhq/open-in-native-browser) - Escape Instagram and Facebook in-app browsers with a framework-agnostic, zero-dependency library.
 
 ## Operating System
 * [os.js](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
