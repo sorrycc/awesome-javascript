@@ -1070,6 +1070,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Generative AI
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
+* [freelm](https://github.com/shihabshahrier/freelm) - Zero-dependency TypeScript client that pools free LLM tiers (Gemini, Groq, OpenRouter, Cloudflare Workers AI and more) behind one OpenAI-compatible API with failover; runs in Node, Workers and browsers.
 * [liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
 
 ## Misc
