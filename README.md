@@ -740,6 +740,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [joyride](https://github.com/zurb/joyride) - jQuery feature tour plugin.
 * [focusable](https://github.com/zzarcon/focusable) - Set a spotlight focus on DOM element adding a overlay layer to the rest of the page.
 * [driver.js](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+* [hintbeam](https://github.com/CypherRatHQ/hintbeam) - Product tours for React, Next.js and React Native that point at named targets instead of CSS selectors and follow users across pages.
 
 ## Notifications
 
