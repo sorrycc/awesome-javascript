@@ -697,6 +697,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - Create Google Material Design progress linear bars.
 * [NProgress](https://ricostacruz.com/nprogress/) - Slim progress bars for Ajax'y applications.
+* [ProgressBeam](https://github.com/Archerkattri/progressbeam) - Slim, accessible browser progress bar with ESM, CommonJS, and framework adapters.
 * [Spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 * [progress.js](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
 * [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars with animated SVG paths.
