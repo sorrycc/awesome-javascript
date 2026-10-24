@@ -554,6 +554,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Color
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
+* [chalk-palette](https://github.com/RPM-programmer/chalk-palette) - A dependency-free Chalk alternative with 140+ colors, RGB/HEX support, and built-in animations.
 * [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
 * [color](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
