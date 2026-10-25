@@ -1073,6 +1073,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
 * [liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
+* [llmmend](https://github.com/nightlightmare/llmmend) - Extract and repair JSON from LLM replies, parse Anthropic, OpenAI and Gemini streams into one event format, and split text into token-sized chunks, with zero dependencies.
 
 ## Misc
 
