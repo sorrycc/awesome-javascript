@@ -28,6 +28,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Reactive Programming](#reactive-programming)
     * [Data Structure](#data-structure)
     * [Date](#date)
+    * [Intervals and Periods](#intervals-and-periods)
     * [String](#string)
     * [Number](#number)
     * [Storage](#storage)
@@ -495,6 +496,14 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 * [luxon](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
 * [tempo](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
+
+## Intervals and Periods
+*Libraries that handle operations on intervals or periods.*
+
+* [periodz](https://github.com/jonasohrn/periodz) - Set operations (intersection, union, subtract) on periods of numbers, Dates and Day.js values.
+* [interval-operations](https://github.com/aanckar/interval-operations) - Dependency-free utilities for mathematical set operations (union, intersection, difference, contains) on intervals and arrays of intervals.
+* [intervals-fn](https://github.com/js-republic/intervals-fn) - Manipulate intervals in a functional way: curried, typed operations such as union, intersection, subtraction, complement, split and Allen's interval relations.
+* [ts-math-utils](https://jsr.io/@hrl/ts-math-utils) - Mathematical objects missing from JavaScript, such as intervals, interval sets and a range iterator.
 
 ## String
 *String Libraries.*
