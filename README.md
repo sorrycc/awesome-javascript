@@ -180,6 +180,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Supertest](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
 * [Pocket Mocker](https://github.com/tianchangNorth/pocket-mocker) - In-browser visual network mocking tool, supports fetch/XHR interception.
 * [interface-forge](https://github.com/Goldziher/interface-forge) - Graceful, type-safe mock-data generation for TypeScript, with factories and Faker integration.
+* [Personified](https://github.com/TheTechBasket/personified) - Free AI avatar photos of fictional people with typed personas (name, country, age, mood) for mock data and demos.
 
 ### Coverage
 
