@@ -524,6 +524,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
 * [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+* [tactile-odometer](https://github.com/cipriantitire/tactile-ui-free/tree/main/odometer) - Mechanical drum counter that carries like a real odometer, as a custom element with no dependencies.
 
 ## Storage
 
