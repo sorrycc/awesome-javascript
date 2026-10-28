@@ -711,6 +711,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Validation
 
+* [env-assert-typed](https://github.com/Yearnless/env-assert-typed) - Zero-dependency typed environment variable parser with automatic TypeScript inference, coerce/refine/transform, factory defaults. 528 B gzip.
 * [Parsley.js](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of JavaScript.
 * [jquery-validation](https://github.com/jzaefferer/jquery-validation) - jQuery Validation Plugin.
 * [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization.
