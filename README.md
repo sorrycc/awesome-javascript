@@ -915,6 +915,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 * [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
+* [OpenElement](https://github.com/open-element/openelement) - Web Platform-first fullstack framework compiling JSX into custom elements, with streaming SSR and typed custom elements.
 
 ## Boilerplates
 
