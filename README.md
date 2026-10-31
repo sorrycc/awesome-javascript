@@ -1105,6 +1105,7 @@ https://listjs.com
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 * [rrweb](https://github.com/rrweb-io/rrweb) - Records the DOM and user interactions as a typed JSON event stream and replays them pixel-perfect.
 * [enum-plus](https://github.com/shijistar/enum-plus) - A drop-in enhancement for native TypeScript enums, adding display text, internationalization and full type safety.
+* [MiniToolDesk](https://minitooldesk.com) - 100% client-side, zero-telemetry developer toolbox with 35+ utilities for JSON, CSS, and cryptography.
 
 # Worth Reading
  
