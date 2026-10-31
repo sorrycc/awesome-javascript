@@ -952,6 +952,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](https://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 * [H3js](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
+* [google-apple-maps-converter](https://github.com/steven-panxd/google-apple-maps-converter) - Convert Google Maps links to Apple Maps links and back, including short links, places, pins and directions.
 
 ## Video/Audio
 
