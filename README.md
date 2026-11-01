@@ -520,6 +520,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 * [money.js](https://github.com/josscrowcroft/money.js) - A tiny (1kb) JavaScript currency conversion library, for web & nodeJS.
+* [money-rates](https://github.com/AllRates-Today/money-rates) - money.js-compatible currency conversion with exchange rates built in: keyless ECB reference rates, or real-time rates for 160+ currencies with a free API key.
 * [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
