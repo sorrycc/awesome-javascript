@@ -180,6 +180,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Supertest](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
 * [Pocket Mocker](https://github.com/tianchangNorth/pocket-mocker) - In-browser visual network mocking tool, supports fetch/XHR interception.
 * [interface-forge](https://github.com/Goldziher/interface-forge) - Graceful, type-safe mock-data generation for TypeScript, with factories and Faker integration.
+* [MiniToolDesk](https://minitooldesk.com/tools/diff-checker/) - 100% in-browser developer suite featuring real-time diff checking, JSON-to-AST generators, and CSS tooling running with 0 server latency.
 
 ### Coverage
 
