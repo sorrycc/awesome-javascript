@@ -906,6 +906,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Packery](https://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](https://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
+* [RevoGrid Pivot](https://github.com/revolist/pivot) - Pivot tables for grouping, aggregation, subtotals, and grand totals. Commercial with a 30-day trial.
 
 ## Frameworks
 
