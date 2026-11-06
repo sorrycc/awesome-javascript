@@ -1045,6 +1045,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [OpenAI SDK](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API.
 * [Stripe Node.js SDK](https://github.com/stripe/stripe-node) - Stripe Node.js SDK lets you integrate payments, subscriptions, and billing into your JavaScript/TypeScript apps.
 * [Social SDK](https://github.com/opencoredev/social-sdk) - Typed JavaScript and TypeScript client for posting and reading across social platforms on Node.js and Bun.
+* [looot-js](https://github.com/loootai/looot-js) - TypeScript client for the looot API, one token for 300+ data providers with typed errors.
 
 ## Full Text Search
 
