@@ -438,6 +438,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [diff2html](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 * [jsPDF](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 * [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+* [pdf-view-coords](https://github.com/AlonDrilich/pdf-view-coords) - Converts between on-screen viewer coordinates and pdf-lib's PDF user space, so stamps and signatures land where the user clicked on rotated or cropped pages.
 * [File Viewer](https://github.com/flyfish-dev/file-viewer) - Browser-native components for previewing files without server-side conversion.
 
 ## Functional Programming
