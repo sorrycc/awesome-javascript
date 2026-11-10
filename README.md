@@ -1100,6 +1100,7 @@ https://listjs.com
 * [Idyll](https://github.com/idyll-lang/idyll) - Create explorable explanations and interactive storytelling essays. Can be [embedded in HTML](https://github.com/idyll-lang/idyll-embed).
 * [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 * [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
+* [OpenFingerprint](https://github.com/Mokto/openfingerprint) - MIT browser-signal SDK with zero runtime dependencies, plus an optional self-hosted API for signup-abuse checks.
 * [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
