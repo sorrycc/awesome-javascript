@@ -201,6 +201,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 * [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
 * [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+* [e2e](https://github.com/tester-army/e2e) - End-to-end testing framework for web and mobile apps with natural-language agent steps and locator assertions.
 
 ## QA Tools
 
