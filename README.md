@@ -516,7 +516,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Number
 
-* [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
+* [Numeral-js](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers. Maintained fork: [numeral-lts](https://github.com/cyberpusa-ai/Numeral-js).
 * [chance.js](https://github.com/chancejs/chancejs) - Random generator helper in JavaScript. Can generate numbers, strings etc.
 * [odometer](https://github.com/HubSpot/odometer) - Smoothly transitions numbers with ease.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
