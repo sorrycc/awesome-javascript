@@ -1049,7 +1049,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Full Text Search
 
-* [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
+* [lunr](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries. Maintained fork: [lunr-lts](https://github.com/cyberpusa-ai/lunr.js).
 * [flexsearch](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 * [Elasticlunr](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
   
