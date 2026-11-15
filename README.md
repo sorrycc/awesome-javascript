@@ -496,6 +496,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 * [luxon](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
 * [tempo](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
+* [tiempo](https://github.com/go-brand/tiempo) - date-fns-style functions for the Temporal API: timezone conversion, DST-safe date math, formatting, and parsing.
 
 ## String
 *String Libraries.*
