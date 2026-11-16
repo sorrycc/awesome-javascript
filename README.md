@@ -1011,6 +1011,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [barbajs](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 * [typicaljs](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * [AutoAnimate](https://auto-animate.formkit.com) - Add motion to your apps with a single line of code.
+* [particle-logo-canvas](https://github.com/88slash/particle-logo-canvas) - Zero-dependency HTML5 2D Canvas library that turns SVG paths and images into interactive logo particle animations.
 
 ## Image Processing
 
