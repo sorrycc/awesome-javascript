@@ -478,6 +478,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 * [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
 * [js-sdsl](https://github.com/zly201/js-sdsl) - Refer to the javascript standard data structure library implemented by c++ stl, which supports c++ bidirectional iterator mode.
+* [df-script](https://github.com/trentamorris/df-script) - 43kB zero-dependency, expression-based DataFrame engine with 300+ operations for TypeScript and JavaScript.
 
 ## Date
 *Date Libraries.*
