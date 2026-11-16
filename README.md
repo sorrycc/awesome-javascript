@@ -647,6 +647,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in JavaScript via Emscripten.
+* [face-metrics](https://github.com/Robin2027/face-metrics) - Facial geometry from landmark sets (MediaPipe, dlib) in the browser or Node: a mirror-symmetry index and anthropometric ratios, each with its formula.
 
 ## Machine Learning
 
