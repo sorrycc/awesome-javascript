@@ -916,6 +916,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 * [EHTML](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
+* [OzdenUI](https://github.com/bug7a/js-components) - UI components, samples and app templates in plain JavaScript on basic.js, a tiny dependency-free library: no HTML markup, no CSS, no build step.
 
 ## Boilerplates
 
