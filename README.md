@@ -371,6 +371,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 * [G6](https://github.com/antvis/g6) - A graph visualization engine.
 * [Infographic](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
+* [d3-3d](https://github.com/Niekes/d3-3d) - 3D charts and shapes for D3.js, projected to plain SVG or canvas with no WebGL needed.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
