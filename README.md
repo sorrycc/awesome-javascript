@@ -1076,6 +1076,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
 * [liter-llm](https://github.com/xberg-io/liter-llm) - Universal LLM API client for 142+ providers with a unified interface and streaming, via a JavaScript/TypeScript binding over a Rust core.
+* [xmcp](https://github.com/basementstudio/xmcp) - TypeScript framework for exposing tools, resources, and prompts to AI applications through MCP.
 
 ## Misc
 
