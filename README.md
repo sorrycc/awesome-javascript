@@ -372,6 +372,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [G6](https://github.com/antvis/g6) - A graph visualization engine.
 * [Infographic](https://github.com/antvis/Infographic) - A next-generation declarative infographic visualization engine.
 * [d3-3d](https://github.com/Niekes/d3-3d) - 3D charts and shapes for D3.js, projected to plain SVG or canvas with no WebGL needed.
+* [LovelyChart](https://github.com/Ajaxy/lovely-chart) - Telegram-style canvas charts with a minimap, drill-down zoom and day and night themes, with zero dependencies.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
