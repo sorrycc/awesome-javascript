@@ -638,6 +638,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 * [SWRV](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 * [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
+* [HyperFetch](https://github.com/BetterTyped/hyper-fetch) - Type-safe HTTP, GraphQL and realtime client with caching, retries, deduplication and offline queue.
 
 ## Streaming
 
