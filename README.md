@@ -552,6 +552,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Dexie.js](https://github.com/dexie/Dexie.js) - Dexie.js is a wrapper library for indexedDB.
 * [proxy-web-storage](https://github.com/KID-joker/proxy-web-storage) - Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires.
 * [PostgreSQL Browser](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+* [HoldSend](https://github.com/zyakuhq/holdsend) - Offline outbox that keeps writes on the device and publishes each one exactly once when the connection returns (early, 0.2).
   
 ## Color
 
