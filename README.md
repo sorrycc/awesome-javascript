@@ -65,7 +65,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Table/Grid](#tablegrid)
     * [Frameworks](#frameworks-1)
     * [Boilerplates](#boilerplates)
-    * [Image](#image)
+    * [Image](#images)
   * [Gesture](#gesture)
   * [Maps](#maps)
   * [Typography](#typography)
