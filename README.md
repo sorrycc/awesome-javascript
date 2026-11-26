@@ -909,6 +909,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Packery](https://packery.metafizzy.co/) - A grid layout library that uses a bin-packing algorithm. Useable for draggable layouts.
 * [Isotope](https://isotope.metafizzy.co/) - A filterable, sortable, grid layout library. Can implement Masonry, Packery, and other layouts.
 * [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid/) - Grid based on CSS3 flexbox.
+* [Simple Table](https://github.com/petera2c/simple-table) - MIT licensed data grid with sorting, filtering, pinning and virtualization.
 
 ## Frameworks
 
