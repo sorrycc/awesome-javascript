@@ -306,6 +306,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Game Engines
 * [A-Frame](https://aframe.io) - Make WebVR.
+* [branching-story-kit](https://github.com/ouba-studio/branching-story-kit) - Zero-dependency ESM branching narrative engine for interactive fiction and visual novels.
 * [Cocos](https://www.cocos.com) - Open Source Cross-Platform Game Development Framework.
 * [Impact](https://impactjs.com) - Impact - HTML5 Canvas & JavaScript Game Engine.
 * [GDevelop](https://gdevelop.io) - Free and Easy Game-Making App.
