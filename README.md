@@ -1019,6 +1019,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [lena.js](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 * [pica](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+* [ImageScript](https://github.com/imagescript/ImageScript) - Image processing in pure TypeScript, from PNG to AVIF and JPEG XL.
 
 ## ES6
 
