@@ -955,6 +955,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](https://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 * [H3js](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
+* [google-maps-fetch](https://github.com/ninadsutrave/google-maps-fetch) - Small fetch-based client for Google Maps Platform web APIs (Places API (New), Routes, Geocoding) with no dependencies.
 
 ## Video/Audio
 
