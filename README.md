@@ -976,6 +976,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
  * [flv.js](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
  * [hls.js](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
+ * [videojs-story-view](https://github.com/hicay/videojs-story-view) - Instagram-style video and photo stories for the web, as a dependency-free custom element or a Video.js plugin.
 
 ## Typography
 
