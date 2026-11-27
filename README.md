@@ -977,6 +977,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
  * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
  * [flv.js](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
  * [hls.js](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
+ * [clearcaption](https://github.com/Andrii2203/clearcaption-js) - YouTube transcripts and subtitles from any server (Node, Deno, Bun, Cloudflare Workers), with optional timestamped translation. Zero dependencies.
 
 ## Typography
 
