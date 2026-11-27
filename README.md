@@ -601,6 +601,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [xss-filters](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo.
 * [sanitize-html](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
 * [pompelmi](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
+* [vibeshield-cli](https://github.com/zColdWater/vibeshield-cli) - Zero-dependency Node.js CLI, live scanner ([shipbastion.com](https://shipbastion.com/)), and free [10/10 HTTP Security Headers Generator](https://zcoldwater.github.io/vibeshield-cli/security-headers-config-generator.html) for auditing JS bundles for 52 secret patterns, CSP/HSTS headers, and exposed `.env`/`.map` files.
 
 ## Log
 
